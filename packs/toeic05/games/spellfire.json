@@ -1,0 +1,407 @@
+{
+  "pack_id": "toeic05",
+  "title": "TOEIC 401–500",
+  "seconds_per_letter": 5,
+  "items": [
+    {
+      "item_id": "accustom",
+      "word": "accustom"
+    },
+    {
+      "item_id": "clinic",
+      "word": "clinic"
+    },
+    {
+      "item_id": "desktop",
+      "word": "desktop"
+    },
+    {
+      "item_id": "jog",
+      "word": "jog"
+    },
+    {
+      "item_id": "leisure",
+      "word": "leisure"
+    },
+    {
+      "item_id": "nap",
+      "word": "nap"
+    },
+    {
+      "item_id": "reinforce",
+      "word": "reinforce"
+    },
+    {
+      "item_id": "sender",
+      "word": "sender"
+    },
+    {
+      "item_id": "vacuum",
+      "word": "vacuum"
+    },
+    {
+      "item_id": "wireless",
+      "word": "wireless"
+    },
+    {
+      "item_id": "yearly",
+      "word": "yearly"
+    },
+    {
+      "item_id": "appreciation",
+      "word": "appreciation"
+    },
+    {
+      "item_id": "cargo",
+      "word": "cargo"
+    },
+    {
+      "item_id": "cooperate",
+      "word": "cooperate"
+    },
+    {
+      "item_id": "distract",
+      "word": "distract"
+    },
+    {
+      "item_id": "dividend",
+      "word": "dividend"
+    },
+    {
+      "item_id": "exemption",
+      "word": "exemption"
+    },
+    {
+      "item_id": "furnish",
+      "word": "furnish"
+    },
+    {
+      "item_id": "hourly",
+      "word": "hourly"
+    },
+    {
+      "item_id": "laundry",
+      "word": "laundry"
+    },
+    {
+      "item_id": "mandatory",
+      "word": "mandatory"
+    },
+    {
+      "item_id": "mechanical",
+      "word": "mechanical"
+    },
+    {
+      "item_id": "pharmacy",
+      "word": "pharmacy"
+    },
+    {
+      "item_id": "promotional",
+      "word": "promotional"
+    },
+    {
+      "item_id": "quarterly",
+      "word": "quarterly"
+    },
+    {
+      "item_id": "residential",
+      "word": "residential"
+    },
+    {
+      "item_id": "scholarship",
+      "word": "scholarship"
+    },
+    {
+      "item_id": "seeker",
+      "word": "seeker"
+    },
+    {
+      "item_id": "temporarily",
+      "word": "temporarily"
+    },
+    {
+      "item_id": "towel",
+      "word": "towel"
+    },
+    {
+      "item_id": "unattended",
+      "word": "unattended"
+    },
+    {
+      "item_id": "accessible",
+      "word": "accessible"
+    },
+    {
+      "item_id": "afterward",
+      "word": "afterward"
+    },
+    {
+      "item_id": "apology",
+      "word": "apology"
+    },
+    {
+      "item_id": "assemble",
+      "word": "assemble"
+    },
+    {
+      "item_id": "automatic",
+      "word": "automatic"
+    },
+    {
+      "item_id": "boardroom",
+      "word": "boardroom"
+    },
+    {
+      "item_id": "carpenter",
+      "word": "carpenter"
+    },
+    {
+      "item_id": "caterer",
+      "word": "caterer"
+    },
+    {
+      "item_id": "classify",
+      "word": "classify"
+    },
+    {
+      "item_id": "consultation",
+      "word": "consultation"
+    },
+    {
+      "item_id": "durable",
+      "word": "durable"
+    },
+    {
+      "item_id": "glove",
+      "word": "glove"
+    },
+    {
+      "item_id": "hardware",
+      "word": "hardware"
+    },
+    {
+      "item_id": "malfunction",
+      "word": "malfunction"
+    },
+    {
+      "item_id": "outdated",
+      "word": "outdated"
+    },
+    {
+      "item_id": "patience",
+      "word": "patience"
+    },
+    {
+      "item_id": "postcard",
+      "word": "postcard"
+    },
+    {
+      "item_id": "prospective",
+      "word": "prospective"
+    },
+    {
+      "item_id": "revision",
+      "word": "revision"
+    },
+    {
+      "item_id": "strictly",
+      "word": "strictly"
+    },
+    {
+      "item_id": "tomato",
+      "word": "tomato"
+    },
+    {
+      "item_id": "tray",
+      "word": "tray"
+    },
+    {
+      "item_id": "vendor",
+      "word": "vendor"
+    },
+    {
+      "item_id": "withdrawal",
+      "word": "withdrawal"
+    },
+    {
+      "item_id": "anytime",
+      "word": "anytime"
+    },
+    {
+      "item_id": "badge",
+      "word": "badge"
+    },
+    {
+      "item_id": "brake",
+      "word": "brake"
+    },
+    {
+      "item_id": "calculation",
+      "word": "calculation"
+    },
+    {
+      "item_id": "coordinator",
+      "word": "coordinator"
+    },
+    {
+      "item_id": "costly",
+      "word": "costly"
+    },
+    {
+      "item_id": "equip",
+      "word": "equip"
+    },
+    {
+      "item_id": "excursion",
+      "word": "excursion"
+    },
+    {
+      "item_id": "graphic",
+      "word": "graphic"
+    },
+    {
+      "item_id": "inexperience",
+      "word": "inexperience"
+    },
+    {
+      "item_id": "lengthy",
+      "word": "lengthy"
+    },
+    {
+      "item_id": "librarian",
+      "word": "librarian"
+    },
+    {
+      "item_id": "meantime",
+      "word": "meantime"
+    },
+    {
+      "item_id": "merge",
+      "word": "merge"
+    },
+    {
+      "item_id": "performer",
+      "word": "performer"
+    },
+    {
+      "item_id": "pharmacist",
+      "word": "pharmacist"
+    },
+    {
+      "item_id": "pizza",
+      "word": "pizza"
+    },
+    {
+      "item_id": "resignation",
+      "word": "resignation"
+    },
+    {
+      "item_id": "reviewer",
+      "word": "reviewer"
+    },
+    {
+      "item_id": "terminate",
+      "word": "terminate"
+    },
+    {
+      "item_id": "translation",
+      "word": "translation"
+    },
+    {
+      "item_id": "unfamiliar",
+      "word": "unfamiliar"
+    },
+    {
+      "item_id": "actress",
+      "word": "actress"
+    },
+    {
+      "item_id": "adjacent",
+      "word": "adjacent"
+    },
+    {
+      "item_id": "alternate",
+      "word": "alternate"
+    },
+    {
+      "item_id": "congratulate",
+      "word": "congratulate"
+    },
+    {
+      "item_id": "escort",
+      "word": "escort"
+    },
+    {
+      "item_id": "inexpensive",
+      "word": "inexpensive"
+    },
+    {
+      "item_id": "mask",
+      "word": "mask"
+    },
+    {
+      "item_id": "purchaser",
+      "word": "purchaser"
+    },
+    {
+      "item_id": "purse",
+      "word": "purse"
+    },
+    {
+      "item_id": "realtor",
+      "word": "realtor"
+    },
+    {
+      "item_id": "rearrange",
+      "word": "rearrange"
+    },
+    {
+      "item_id": "reopen",
+      "word": "reopen"
+    },
+    {
+      "item_id": "soap",
+      "word": "soap"
+    },
+    {
+      "item_id": "spokesperson",
+      "word": "spokesperson"
+    },
+    {
+      "item_id": "superior",
+      "word": "superior"
+    },
+    {
+      "item_id": "airfare",
+      "word": "airfare"
+    },
+    {
+      "item_id": "bake",
+      "word": "bake"
+    },
+    {
+      "item_id": "businessperson",
+      "word": "businessperson"
+    },
+    {
+      "item_id": "considerably",
+      "word": "considerably"
+    },
+    {
+      "item_id": "faulty",
+      "word": "faulty"
+    },
+    {
+      "item_id": "hobby",
+      "word": "hobby"
+    },
+    {
+      "item_id": "informal",
+      "word": "informal"
+    },
+    {
+      "item_id": "kilometer",
+      "word": "kilometer"
+    }
+  ]
+}

@@ -1,0 +1,1008 @@
+{
+  "pack_id": "toeic06",
+  "title": "TOEIC 501–600",
+  "module_id": "word_master",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "lawn",
+      "question": "grass around a building",
+      "correct": "lawn",
+      "wrong": [
+        "microscope",
+        "mislead"
+      ],
+      "word": "lawn"
+    },
+    {
+      "item_id": "microscope",
+      "question": "lab instrument that magnifies",
+      "correct": "microscope",
+      "wrong": [
+        "lawn",
+        "mislead"
+      ],
+      "word": "microscope"
+    },
+    {
+      "item_id": "mislead",
+      "question": "give someone false information",
+      "correct": "mislead",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "mislead"
+    },
+    {
+      "item_id": "misplace",
+      "question": "put something in the wrong place",
+      "correct": "misplace",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "misplace"
+    },
+    {
+      "item_id": "newsstand",
+      "question": "stall selling newspapers",
+      "correct": "newsstand",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "newsstand"
+    },
+    {
+      "item_id": "overhead",
+      "question": "bin above airplane seats",
+      "correct": "overhead",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "overhead"
+    },
+    {
+      "item_id": "portfolio",
+      "question": "folder of work samples",
+      "correct": "portfolio",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "portfolio"
+    },
+    {
+      "item_id": "rack",
+      "question": "frame that holds luggage",
+      "correct": "rack",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "rack"
+    },
+    {
+      "item_id": "remodel",
+      "question": "rebuild part of a space",
+      "correct": "remodel",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "remodel"
+    },
+    {
+      "item_id": "statistics",
+      "question": "numerical facts and figures",
+      "correct": "statistics",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "statistics"
+    },
+    {
+      "item_id": "tunnel",
+      "question": "underground passage",
+      "correct": "tunnel",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "tunnel"
+    },
+    {
+      "item_id": "unlimited",
+      "question": "without a set limit",
+      "correct": "unlimited",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "unlimited"
+    },
+    {
+      "item_id": "vitamin",
+      "question": "nutrient in food or pills",
+      "correct": "vitamin",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "vitamin"
+    },
+    {
+      "item_id": "zoo",
+      "question": "park where animals are kept",
+      "correct": "zoo",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "zoo"
+    },
+    {
+      "item_id": "alert",
+      "question": "a warning of danger",
+      "correct": "alert",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "alert"
+    },
+    {
+      "item_id": "auditorium",
+      "question": "large hall for an audience",
+      "correct": "auditorium",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "auditorium"
+    },
+    {
+      "item_id": "celebrity",
+      "question": "a famous public person",
+      "correct": "celebrity",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "celebrity"
+    },
+    {
+      "item_id": "deduct",
+      "question": "take an amount off",
+      "correct": "deduct",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "deduct"
+    },
+    {
+      "item_id": "disruption",
+      "question": "a break in normal service",
+      "correct": "disruption",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "disruption"
+    },
+    {
+      "item_id": "electrician",
+      "question": "worker who installs wiring",
+      "correct": "electrician",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "electrician"
+    },
+    {
+      "item_id": "enthusiastic",
+      "question": "showing strong eager interest",
+      "correct": "enthusiastic",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "enthusiastic"
+    },
+    {
+      "item_id": "graduation",
+      "question": "ceremony for finishing school",
+      "correct": "graduation",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "graduation"
+    },
+    {
+      "item_id": "icy",
+      "question": "covered with ice",
+      "correct": "icy",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "icy"
+    },
+    {
+      "item_id": "irregular",
+      "question": "not following the usual pattern",
+      "correct": "irregular",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "irregular"
+    },
+    {
+      "item_id": "login",
+      "question": "account sign-in details",
+      "correct": "login",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "login"
+    },
+    {
+      "item_id": "managerial",
+      "question": "related to a manager's work",
+      "correct": "managerial",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "managerial"
+    },
+    {
+      "item_id": "mineral",
+      "question": "a natural nonliving substance",
+      "correct": "mineral",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "mineral"
+    },
+    {
+      "item_id": "motorcycle",
+      "question": "two-wheeled motor vehicle",
+      "correct": "motorcycle",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "motorcycle"
+    },
+    {
+      "item_id": "necessity",
+      "question": "something that is required",
+      "correct": "necessity",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "necessity"
+    },
+    {
+      "item_id": "planner",
+      "question": "person who organizes work",
+      "correct": "planner",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "planner"
+    },
+    {
+      "item_id": "programmer",
+      "question": "person who writes software",
+      "correct": "programmer",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "programmer"
+    },
+    {
+      "item_id": "proofread",
+      "question": "check writing for errors",
+      "correct": "proofread",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "proofread"
+    },
+    {
+      "item_id": "recruiter",
+      "question": "person who hires staff",
+      "correct": "recruiter",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "recruiter"
+    },
+    {
+      "item_id": "remainder",
+      "question": "the part left over",
+      "correct": "remainder",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "remainder"
+    },
+    {
+      "item_id": "statue",
+      "question": "carved figure of a person",
+      "correct": "statue",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "statue"
+    },
+    {
+      "item_id": "steadily",
+      "question": "in a constant gradual way",
+      "correct": "steadily",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "steadily"
+    },
+    {
+      "item_id": "stockholder",
+      "question": "person who owns shares",
+      "correct": "stockholder",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "stockholder"
+    },
+    {
+      "item_id": "vacant",
+      "question": "empty and available",
+      "correct": "vacant",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "vacant"
+    },
+    {
+      "item_id": "accessory",
+      "question": "extra item that matches",
+      "correct": "accessory",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "accessory"
+    },
+    {
+      "item_id": "assembly",
+      "question": "putting parts together",
+      "correct": "assembly",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "assembly"
+    },
+    {
+      "item_id": "basket",
+      "question": "container for carrying items",
+      "correct": "basket",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "basket"
+    },
+    {
+      "item_id": "certification",
+      "question": "official proof of qualification",
+      "correct": "certification",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "certification"
+    },
+    {
+      "item_id": "closure",
+      "question": "the shutting of a place",
+      "correct": "closure",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "closure"
+    },
+    {
+      "item_id": "dislike",
+      "question": "feel that something is unpleasant",
+      "correct": "dislike",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "dislike"
+    },
+    {
+      "item_id": "downstairs",
+      "question": "on a lower floor",
+      "correct": "downstairs",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "downstairs"
+    },
+    {
+      "item_id": "expiration",
+      "question": "the date something ends",
+      "correct": "expiration",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "expiration"
+    },
+    {
+      "item_id": "headache",
+      "question": "pain in the head",
+      "correct": "headache",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "headache"
+    },
+    {
+      "item_id": "jam",
+      "question": "traffic that is stuck",
+      "correct": "jam",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "jam"
+    },
+    {
+      "item_id": "nail",
+      "question": "small metal fastener",
+      "correct": "nail",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "nail"
+    },
+    {
+      "item_id": "optimistic",
+      "question": "expecting a good result",
+      "correct": "optimistic",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "optimistic"
+    },
+    {
+      "item_id": "pedestrian",
+      "question": "person walking on a street",
+      "correct": "pedestrian",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "pedestrian"
+    },
+    {
+      "item_id": "projection",
+      "question": "a forecast of future results",
+      "correct": "projection",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "projection"
+    },
+    {
+      "item_id": "sleeve",
+      "question": "the arm part of clothing",
+      "correct": "sleeve",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "sleeve"
+    },
+    {
+      "item_id": "suburb",
+      "question": "a residential area outside a city",
+      "correct": "suburb",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "suburb"
+    },
+    {
+      "item_id": "takeover",
+      "question": "gaining control of a company",
+      "correct": "takeover",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "takeover"
+    },
+    {
+      "item_id": "unsure",
+      "question": "not certain",
+      "correct": "unsure",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "unsure"
+    },
+    {
+      "item_id": "upstairs",
+      "question": "on a higher floor",
+      "correct": "upstairs",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "upstairs"
+    },
+    {
+      "item_id": "verbal",
+      "question": "spoken rather than written",
+      "correct": "verbal",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "verbal"
+    },
+    {
+      "item_id": "visa",
+      "question": "permission to enter a country",
+      "correct": "visa",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "visa"
+    },
+    {
+      "item_id": "wildlife",
+      "question": "animals living in nature",
+      "correct": "wildlife",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "wildlife"
+    },
+    {
+      "item_id": "workforce",
+      "question": "all the people employed",
+      "correct": "workforce",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "workforce"
+    },
+    {
+      "item_id": "absent",
+      "question": "not present",
+      "correct": "absent",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "absent"
+    },
+    {
+      "item_id": "accumulate",
+      "question": "gather an increasing amount",
+      "correct": "accumulate",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "accumulate"
+    },
+    {
+      "item_id": "appraisal",
+      "question": "a formal judgment of value",
+      "correct": "appraisal",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "appraisal"
+    },
+    {
+      "item_id": "apprentice",
+      "question": "a person learning a trade",
+      "correct": "apprentice",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "apprentice"
+    },
+    {
+      "item_id": "businessman",
+      "question": "a man who runs a business",
+      "correct": "businessman",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "businessman"
+    },
+    {
+      "item_id": "ceiling",
+      "question": "the upper inside surface of a room",
+      "correct": "ceiling",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "ceiling"
+    },
+    {
+      "item_id": "colorful",
+      "question": "having many bright colors",
+      "correct": "colorful",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "colorful"
+    },
+    {
+      "item_id": "compensate",
+      "question": "pay someone for a loss",
+      "correct": "compensate",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "compensate"
+    },
+    {
+      "item_id": "costume",
+      "question": "clothes worn for a role",
+      "correct": "costume",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "costume"
+    },
+    {
+      "item_id": "editorial",
+      "question": "an opinion article in a paper",
+      "correct": "editorial",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "editorial"
+    },
+    {
+      "item_id": "effectiveness",
+      "question": "how well something works",
+      "correct": "effectiveness",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "effectiveness"
+    },
+    {
+      "item_id": "facilitate",
+      "question": "make a process easier",
+      "correct": "facilitate",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "facilitate"
+    },
+    {
+      "item_id": "firefighter",
+      "question": "person who puts out fires",
+      "correct": "firefighter",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "firefighter"
+    },
+    {
+      "item_id": "gasoline",
+      "question": "fuel for motor vehicles",
+      "correct": "gasoline",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "gasoline"
+    },
+    {
+      "item_id": "inappropriate",
+      "question": "not suitable for the situation",
+      "correct": "inappropriate",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "inappropriate"
+    },
+    {
+      "item_id": "internet",
+      "question": "the global computer network",
+      "correct": "internet",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "internet"
+    },
+    {
+      "item_id": "landlord",
+      "question": "person who rents out property",
+      "correct": "landlord",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "landlord"
+    },
+    {
+      "item_id": "layout",
+      "question": "the arrangement of a space",
+      "correct": "layout",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "layout"
+    },
+    {
+      "item_id": "lunchtime",
+      "question": "the time when people eat lunch",
+      "correct": "lunchtime",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "lunchtime"
+    },
+    {
+      "item_id": "payroll",
+      "question": "the list of employees' pay",
+      "correct": "payroll",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "payroll"
+    },
+    {
+      "item_id": "pharmaceutical",
+      "question": "related to making medicines",
+      "correct": "pharmaceutical",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "pharmaceutical"
+    },
+    {
+      "item_id": "plausible",
+      "question": "seeming reasonable and believable",
+      "correct": "plausible",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "plausible"
+    },
+    {
+      "item_id": "premium",
+      "question": "the price of an insurance policy",
+      "correct": "premium",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "premium"
+    },
+    {
+      "item_id": "safely",
+      "question": "without harm or danger",
+      "correct": "safely",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "safely"
+    },
+    {
+      "item_id": "simplify",
+      "question": "make something easier",
+      "correct": "simplify",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "simplify"
+    },
+    {
+      "item_id": "specialty",
+      "question": "a person's field of skill",
+      "correct": "specialty",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "specialty"
+    },
+    {
+      "item_id": "tech",
+      "question": "technology used at work",
+      "correct": "tech",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "tech"
+    },
+    {
+      "item_id": "unexpected",
+      "question": "not predicted",
+      "correct": "unexpected",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "unexpected"
+    },
+    {
+      "item_id": "unspecified",
+      "question": "not stated in detail",
+      "correct": "unspecified",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "unspecified"
+    },
+    {
+      "item_id": "adhere",
+      "question": "follow a rule closely",
+      "correct": "adhere",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "adhere"
+    },
+    {
+      "item_id": "bankrupt",
+      "question": "unable to pay debts",
+      "correct": "bankrupt",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "bankrupt"
+    },
+    {
+      "item_id": "caution",
+      "question": "care taken to avoid risk",
+      "correct": "caution",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "caution"
+    },
+    {
+      "item_id": "clip",
+      "question": "a small fastener for papers",
+      "correct": "clip",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "clip"
+    },
+    {
+      "item_id": "comply",
+      "question": "act according to a rule",
+      "correct": "comply",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "comply"
+    },
+    {
+      "item_id": "diner",
+      "question": "a casual restaurant",
+      "correct": "diner",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "diner"
+    },
+    {
+      "item_id": "duplicate",
+      "question": "an exact copy",
+      "correct": "duplicate",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "duplicate"
+    },
+    {
+      "item_id": "eager",
+      "question": "strongly wanting to do something",
+      "correct": "eager",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "eager"
+    },
+    {
+      "item_id": "economist",
+      "question": "an expert in economics",
+      "correct": "economist",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "economist"
+    },
+    {
+      "item_id": "embassy",
+      "question": "a country's official office abroad",
+      "correct": "embassy",
+      "wrong": [
+        "lawn",
+        "microscope"
+      ],
+      "word": "embassy"
+    }
+  ]
+}

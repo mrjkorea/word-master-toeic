@@ -1,0 +1,407 @@
+{
+  "pack_id": "toeic01",
+  "title": "TOEIC 1–100",
+  "seconds_per_letter": 5,
+  "items": [
+    {
+      "item_id": "mister",
+      "word": "mister"
+    },
+    {
+      "item_id": "vacation",
+      "word": "vacation"
+    },
+    {
+      "item_id": "client",
+      "word": "client"
+    },
+    {
+      "item_id": "e-book",
+      "word": "e-book"
+    },
+    {
+      "item_id": "airport",
+      "word": "airport"
+    },
+    {
+      "item_id": "memo",
+      "word": "memo"
+    },
+    {
+      "item_id": "reservation",
+      "word": "reservation"
+    },
+    {
+      "item_id": "logical",
+      "word": "logical"
+    },
+    {
+      "item_id": "fax",
+      "word": "fax"
+    },
+    {
+      "item_id": "o-clock",
+      "word": "o'clock"
+    },
+    {
+      "item_id": "sincerely",
+      "word": "sincerely"
+    },
+    {
+      "item_id": "sometime",
+      "word": "sometime"
+    },
+    {
+      "item_id": "supervisor",
+      "word": "supervisor"
+    },
+    {
+      "item_id": "refund",
+      "word": "refund"
+    },
+    {
+      "item_id": "goods",
+      "word": "goods"
+    },
+    {
+      "item_id": "workshop",
+      "word": "workshop"
+    },
+    {
+      "item_id": "downtown",
+      "word": "downtown"
+    },
+    {
+      "item_id": "deadline",
+      "word": "deadline"
+    },
+    {
+      "item_id": "invoice",
+      "word": "invoice"
+    },
+    {
+      "item_id": "brochure",
+      "word": "brochure"
+    },
+    {
+      "item_id": "noon",
+      "word": "noon"
+    },
+    {
+      "item_id": "accountant",
+      "word": "accountant"
+    },
+    {
+      "item_id": "clerk",
+      "word": "clerk"
+    },
+    {
+      "item_id": "lobby",
+      "word": "lobby"
+    },
+    {
+      "item_id": "publish",
+      "word": "publish"
+    },
+    {
+      "item_id": "resume",
+      "word": "résumé"
+    },
+    {
+      "item_id": "enclose",
+      "word": "enclose"
+    },
+    {
+      "item_id": "applicant",
+      "word": "applicant"
+    },
+    {
+      "item_id": "seminar",
+      "word": "seminar"
+    },
+    {
+      "item_id": "technician",
+      "word": "technician"
+    },
+    {
+      "item_id": "cloth",
+      "word": "cloth"
+    },
+    {
+      "item_id": "fare",
+      "word": "fare"
+    },
+    {
+      "item_id": "receipt",
+      "word": "receipt"
+    },
+    {
+      "item_id": "traveler",
+      "word": "traveler"
+    },
+    {
+      "item_id": "caller",
+      "word": "caller"
+    },
+    {
+      "item_id": "subway",
+      "word": "subway"
+    },
+    {
+      "item_id": "luggage",
+      "word": "luggage"
+    },
+    {
+      "item_id": "shipment",
+      "word": "shipment"
+    },
+    {
+      "item_id": "infer",
+      "word": "infer"
+    },
+    {
+      "item_id": "waiter",
+      "word": "waiter"
+    },
+    {
+      "item_id": "rental",
+      "word": "rental"
+    },
+    {
+      "item_id": "warranty",
+      "word": "warranty"
+    },
+    {
+      "item_id": "cafeteria",
+      "word": "cafeteria"
+    },
+    {
+      "item_id": "chef",
+      "word": "chef"
+    },
+    {
+      "item_id": "elevator",
+      "word": "elevator"
+    },
+    {
+      "item_id": "reception",
+      "word": "reception"
+    },
+    {
+      "item_id": "correctly",
+      "word": "correctly"
+    },
+    {
+      "item_id": "lease",
+      "word": "lease"
+    },
+    {
+      "item_id": "bicycle",
+      "word": "bicycle"
+    },
+    {
+      "item_id": "notify",
+      "word": "notify"
+    },
+    {
+      "item_id": "preview",
+      "word": "preview"
+    },
+    {
+      "item_id": "attendant",
+      "word": "attendant"
+    },
+    {
+      "item_id": "subscription",
+      "word": "subscription"
+    },
+    {
+      "item_id": "convenient",
+      "word": "convenient"
+    },
+    {
+      "item_id": "manual",
+      "word": "manual"
+    },
+    {
+      "item_id": "clue",
+      "word": "clue"
+    },
+    {
+      "item_id": "garage",
+      "word": "garage"
+    },
+    {
+      "item_id": "obtain",
+      "word": "obtain"
+    },
+    {
+      "item_id": "oval",
+      "word": "oval"
+    },
+    {
+      "item_id": "inventory",
+      "word": "inventory"
+    },
+    {
+      "item_id": "outdoor",
+      "word": "outdoor"
+    },
+    {
+      "item_id": "suitcase",
+      "word": "suitcase"
+    },
+    {
+      "item_id": "destination",
+      "word": "destination"
+    },
+    {
+      "item_id": "occupation",
+      "word": "occupation"
+    },
+    {
+      "item_id": "postpone",
+      "word": "postpone"
+    },
+    {
+      "item_id": "contradict",
+      "word": "contradict"
+    },
+    {
+      "item_id": "umbrella",
+      "word": "umbrella"
+    },
+    {
+      "item_id": "inference",
+      "word": "inference"
+    },
+    {
+      "item_id": "cellphone",
+      "word": "cellphone"
+    },
+    {
+      "item_id": "compact",
+      "word": "compact"
+    },
+    {
+      "item_id": "merchandise",
+      "word": "merchandise"
+    },
+    {
+      "item_id": "receptionist",
+      "word": "receptionist"
+    },
+    {
+      "item_id": "dentist",
+      "word": "dentist"
+    },
+    {
+      "item_id": "identification",
+      "word": "identification"
+    },
+    {
+      "item_id": "coupon",
+      "word": "coupon"
+    },
+    {
+      "item_id": "depart",
+      "word": "depart"
+    },
+    {
+      "item_id": "reschedule",
+      "word": "reschedule"
+    },
+    {
+      "item_id": "tactic",
+      "word": "tactic"
+    },
+    {
+      "item_id": "renovation",
+      "word": "renovation"
+    },
+    {
+      "item_id": "upgrade",
+      "word": "upgrade"
+    },
+    {
+      "item_id": "precede",
+      "word": "precede"
+    },
+    {
+      "item_id": "replacement",
+      "word": "replacement"
+    },
+    {
+      "item_id": "dine",
+      "word": "dine"
+    },
+    {
+      "item_id": "passport",
+      "word": "passport"
+    },
+    {
+      "item_id": "coworker",
+      "word": "coworker"
+    },
+    {
+      "item_id": "upcoming",
+      "word": "upcoming"
+    },
+    {
+      "item_id": "cabinet",
+      "word": "cabinet"
+    },
+    {
+      "item_id": "appliance",
+      "word": "appliance"
+    },
+    {
+      "item_id": "explanatory",
+      "word": "explanatory"
+    },
+    {
+      "item_id": "instructor",
+      "word": "instructor"
+    },
+    {
+      "item_id": "keyboard",
+      "word": "keyboard"
+    },
+    {
+      "item_id": "media",
+      "word": "media"
+    },
+    {
+      "item_id": "supermarket",
+      "word": "supermarket"
+    },
+    {
+      "item_id": "valid",
+      "word": "valid"
+    },
+    {
+      "item_id": "admission",
+      "word": "admission"
+    },
+    {
+      "item_id": "laptop",
+      "word": "laptop"
+    },
+    {
+      "item_id": "underline",
+      "word": "underline"
+    },
+    {
+      "item_id": "electrical",
+      "word": "electrical"
+    },
+    {
+      "item_id": "airplane",
+      "word": "airplane"
+    },
+    {
+      "item_id": "assignment",
+      "word": "assignment"
+    }
+  ]
+}

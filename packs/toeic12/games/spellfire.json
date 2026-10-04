@@ -1,0 +1,407 @@
+{
+  "pack_id": "toeic12",
+  "title": "TOEIC 1101–1200",
+  "seconds_per_letter": 5,
+  "items": [
+    {
+      "item_id": "arc",
+      "word": "arc"
+    },
+    {
+      "item_id": "audition",
+      "word": "audition"
+    },
+    {
+      "item_id": "backpack",
+      "word": "backpack"
+    },
+    {
+      "item_id": "ballroom",
+      "word": "ballroom"
+    },
+    {
+      "item_id": "beneficial",
+      "word": "beneficial"
+    },
+    {
+      "item_id": "biography",
+      "word": "biography"
+    },
+    {
+      "item_id": "bound",
+      "word": "bound"
+    },
+    {
+      "item_id": "broom",
+      "word": "broom"
+    },
+    {
+      "item_id": "cheeseburger",
+      "word": "cheeseburger"
+    },
+    {
+      "item_id": "chilly",
+      "word": "chilly"
+    },
+    {
+      "item_id": "circus",
+      "word": "circus"
+    },
+    {
+      "item_id": "compliment",
+      "word": "compliment"
+    },
+    {
+      "item_id": "consignment",
+      "word": "consignment"
+    },
+    {
+      "item_id": "continental",
+      "word": "continental"
+    },
+    {
+      "item_id": "copyright",
+      "word": "copyright"
+    },
+    {
+      "item_id": "countryside",
+      "word": "countryside"
+    },
+    {
+      "item_id": "demolish",
+      "word": "demolish"
+    },
+    {
+      "item_id": "departmental",
+      "word": "departmental"
+    },
+    {
+      "item_id": "desperate",
+      "word": "desperate"
+    },
+    {
+      "item_id": "devastate",
+      "word": "devastate"
+    },
+    {
+      "item_id": "diagnostic",
+      "word": "diagnostic"
+    },
+    {
+      "item_id": "diagram",
+      "word": "diagram"
+    },
+    {
+      "item_id": "diamond",
+      "word": "diamond"
+    },
+    {
+      "item_id": "disable",
+      "word": "disable"
+    },
+    {
+      "item_id": "disgust",
+      "word": "disgust"
+    },
+    {
+      "item_id": "donut",
+      "word": "donut"
+    },
+    {
+      "item_id": "doorman",
+      "word": "doorman"
+    },
+    {
+      "item_id": "electronically",
+      "word": "electronically"
+    },
+    {
+      "item_id": "elevate",
+      "word": "elevate"
+    },
+    {
+      "item_id": "engagement",
+      "word": "engagement"
+    },
+    {
+      "item_id": "enrollment",
+      "word": "enrollment"
+    },
+    {
+      "item_id": "euro",
+      "word": "euro"
+    },
+    {
+      "item_id": "forbid",
+      "word": "forbid"
+    },
+    {
+      "item_id": "fork",
+      "word": "fork"
+    },
+    {
+      "item_id": "foster",
+      "word": "foster"
+    },
+    {
+      "item_id": "getaway",
+      "word": "getaway"
+    },
+    {
+      "item_id": "gossip",
+      "word": "gossip"
+    },
+    {
+      "item_id": "hacker",
+      "word": "hacker"
+    },
+    {
+      "item_id": "hardworking",
+      "word": "hardworking"
+    },
+    {
+      "item_id": "impatient",
+      "word": "impatient"
+    },
+    {
+      "item_id": "indirect",
+      "word": "indirect"
+    },
+    {
+      "item_id": "interpreter",
+      "word": "interpreter"
+    },
+    {
+      "item_id": "intersection",
+      "word": "intersection"
+    },
+    {
+      "item_id": "irrelevant",
+      "word": "irrelevant"
+    },
+    {
+      "item_id": "jeans",
+      "word": "jeans"
+    },
+    {
+      "item_id": "journalism",
+      "word": "journalism"
+    },
+    {
+      "item_id": "letterhead",
+      "word": "letterhead"
+    },
+    {
+      "item_id": "lifeguard",
+      "word": "lifeguard"
+    },
+    {
+      "item_id": "modem",
+      "word": "modem"
+    },
+    {
+      "item_id": "monument",
+      "word": "monument"
+    },
+    {
+      "item_id": "mosquito",
+      "word": "mosquito"
+    },
+    {
+      "item_id": "obligate",
+      "word": "obligate"
+    },
+    {
+      "item_id": "oblige",
+      "word": "oblige"
+    },
+    {
+      "item_id": "occurrence",
+      "word": "occurrence"
+    },
+    {
+      "item_id": "operational",
+      "word": "operational"
+    },
+    {
+      "item_id": "outage",
+      "word": "outage"
+    },
+    {
+      "item_id": "overcrowd",
+      "word": "overcrowd"
+    },
+    {
+      "item_id": "paralegal",
+      "word": "paralegal"
+    },
+    {
+      "item_id": "partially",
+      "word": "partially"
+    },
+    {
+      "item_id": "pepper",
+      "word": "pepper"
+    },
+    {
+      "item_id": "permanently",
+      "word": "permanently"
+    },
+    {
+      "item_id": "plow",
+      "word": "plow"
+    },
+    {
+      "item_id": "query",
+      "word": "query"
+    },
+    {
+      "item_id": "railway",
+      "word": "railway"
+    },
+    {
+      "item_id": "raincoat",
+      "word": "raincoat"
+    },
+    {
+      "item_id": "reconsider",
+      "word": "reconsider"
+    },
+    {
+      "item_id": "redesign",
+      "word": "redesign"
+    },
+    {
+      "item_id": "rehearsal",
+      "word": "rehearsal"
+    },
+    {
+      "item_id": "relaxation",
+      "word": "relaxation"
+    },
+    {
+      "item_id": "repetition",
+      "word": "repetition"
+    },
+    {
+      "item_id": "retreat",
+      "word": "retreat"
+    },
+    {
+      "item_id": "salon",
+      "word": "salon"
+    },
+    {
+      "item_id": "satellite",
+      "word": "satellite"
+    },
+    {
+      "item_id": "scenery",
+      "word": "scenery"
+    },
+    {
+      "item_id": "serial",
+      "word": "serial"
+    },
+    {
+      "item_id": "sew",
+      "word": "sew"
+    },
+    {
+      "item_id": "sketch",
+      "word": "sketch"
+    },
+    {
+      "item_id": "smartphone",
+      "word": "smartphone"
+    },
+    {
+      "item_id": "soar",
+      "word": "soar"
+    },
+    {
+      "item_id": "stimulus",
+      "word": "stimulus"
+    },
+    {
+      "item_id": "stockbroker",
+      "word": "stockbroker"
+    },
+    {
+      "item_id": "tablecloth",
+      "word": "tablecloth"
+    },
+    {
+      "item_id": "thirsty",
+      "word": "thirsty"
+    },
+    {
+      "item_id": "thrill",
+      "word": "thrill"
+    },
+    {
+      "item_id": "tile",
+      "word": "tile"
+    },
+    {
+      "item_id": "toiletry",
+      "word": "toiletry"
+    },
+    {
+      "item_id": "trademark",
+      "word": "trademark"
+    },
+    {
+      "item_id": "tropical",
+      "word": "tropical"
+    },
+    {
+      "item_id": "tuna",
+      "word": "tuna"
+    },
+    {
+      "item_id": "unemployed",
+      "word": "unemployed"
+    },
+    {
+      "item_id": "validate",
+      "word": "validate"
+    },
+    {
+      "item_id": "vanilla",
+      "word": "vanilla"
+    },
+    {
+      "item_id": "willingness",
+      "word": "willingness"
+    },
+    {
+      "item_id": "wristwatch",
+      "word": "wristwatch"
+    },
+    {
+      "item_id": "abide",
+      "word": "abide"
+    },
+    {
+      "item_id": "actively",
+      "word": "actively"
+    },
+    {
+      "item_id": "allergy",
+      "word": "allergy"
+    },
+    {
+      "item_id": "apprehensive",
+      "word": "apprehensive"
+    },
+    {
+      "item_id": "automotive",
+      "word": "automotive"
+    },
+    {
+      "item_id": "bacteria",
+      "word": "bacteria"
+    }
+  ]
+}

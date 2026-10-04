@@ -1,0 +1,1008 @@
+{
+  "pack_id": "toeic05",
+  "title": "TOEIC 401–500",
+  "module_id": "word_master",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "accustom",
+      "question": "make someone used to",
+      "correct": "accustom",
+      "wrong": [
+        "clinic",
+        "desktop"
+      ],
+      "word": "accustom"
+    },
+    {
+      "item_id": "clinic",
+      "question": "place for medical treatment",
+      "correct": "clinic",
+      "wrong": [
+        "accustom",
+        "desktop"
+      ],
+      "word": "clinic"
+    },
+    {
+      "item_id": "desktop",
+      "question": "computer that sits on a desk",
+      "correct": "desktop",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "desktop"
+    },
+    {
+      "item_id": "jog",
+      "question": "run slowly for exercise",
+      "correct": "jog",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "jog"
+    },
+    {
+      "item_id": "leisure",
+      "question": "free time away from work",
+      "correct": "leisure",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "leisure"
+    },
+    {
+      "item_id": "nap",
+      "question": "short sleep during the day",
+      "correct": "nap",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "nap"
+    },
+    {
+      "item_id": "reinforce",
+      "question": "make stronger or more effective",
+      "correct": "reinforce",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "reinforce"
+    },
+    {
+      "item_id": "sender",
+      "question": "person who sends a message",
+      "correct": "sender",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "sender"
+    },
+    {
+      "item_id": "vacuum",
+      "question": "clean with a vacuum cleaner",
+      "correct": "vacuum",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "vacuum"
+    },
+    {
+      "item_id": "wireless",
+      "question": "connected without wires",
+      "correct": "wireless",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "wireless"
+    },
+    {
+      "item_id": "yearly",
+      "question": "happening once each year",
+      "correct": "yearly",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "yearly"
+    },
+    {
+      "item_id": "appreciation",
+      "question": "gratitude for someone's work",
+      "correct": "appreciation",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "appreciation"
+    },
+    {
+      "item_id": "cargo",
+      "question": "goods carried by transport",
+      "correct": "cargo",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "cargo"
+    },
+    {
+      "item_id": "cooperate",
+      "question": "work together on a goal",
+      "correct": "cooperate",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "cooperate"
+    },
+    {
+      "item_id": "distract",
+      "question": "draw attention away",
+      "correct": "distract",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "distract"
+    },
+    {
+      "item_id": "dividend",
+      "question": "profit paid to shareholders",
+      "correct": "dividend",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "dividend"
+    },
+    {
+      "item_id": "exemption",
+      "question": "official release from a duty",
+      "correct": "exemption",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "exemption"
+    },
+    {
+      "item_id": "furnish",
+      "question": "provide furniture or equipment",
+      "correct": "furnish",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "furnish"
+    },
+    {
+      "item_id": "hourly",
+      "question": "measured by the hour",
+      "correct": "hourly",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "hourly"
+    },
+    {
+      "item_id": "laundry",
+      "question": "clothes and linens for washing",
+      "correct": "laundry",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "laundry"
+    },
+    {
+      "item_id": "mandatory",
+      "question": "required by a rule",
+      "correct": "mandatory",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "mandatory"
+    },
+    {
+      "item_id": "mechanical",
+      "question": "related to machines",
+      "correct": "mechanical",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "mechanical"
+    },
+    {
+      "item_id": "pharmacy",
+      "question": "shop that sells medicine",
+      "correct": "pharmacy",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "pharmacy"
+    },
+    {
+      "item_id": "promotional",
+      "question": "meant to advertise a product",
+      "correct": "promotional",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "promotional"
+    },
+    {
+      "item_id": "quarterly",
+      "question": "happening every three months",
+      "correct": "quarterly",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "quarterly"
+    },
+    {
+      "item_id": "residential",
+      "question": "used for homes not business",
+      "correct": "residential",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "residential"
+    },
+    {
+      "item_id": "scholarship",
+      "question": "money given for study",
+      "correct": "scholarship",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "scholarship"
+    },
+    {
+      "item_id": "seeker",
+      "question": "person looking for a job",
+      "correct": "seeker",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "seeker"
+    },
+    {
+      "item_id": "temporarily",
+      "question": "for a limited time only",
+      "correct": "temporarily",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "temporarily"
+    },
+    {
+      "item_id": "towel",
+      "question": "cloth used for drying",
+      "correct": "towel",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "towel"
+    },
+    {
+      "item_id": "unattended",
+      "question": "left with nobody watching",
+      "correct": "unattended",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "unattended"
+    },
+    {
+      "item_id": "accessible",
+      "question": "easy to reach or enter",
+      "correct": "accessible",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "accessible"
+    },
+    {
+      "item_id": "afterward",
+      "question": "at a later time",
+      "correct": "afterward",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "afterward"
+    },
+    {
+      "item_id": "apology",
+      "question": "a statement of regret",
+      "correct": "apology",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "apology"
+    },
+    {
+      "item_id": "assemble",
+      "question": "put parts together",
+      "correct": "assemble",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "assemble"
+    },
+    {
+      "item_id": "automatic",
+      "question": "working by itself",
+      "correct": "automatic",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "automatic"
+    },
+    {
+      "item_id": "boardroom",
+      "question": "room for directors' meetings",
+      "correct": "boardroom",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "boardroom"
+    },
+    {
+      "item_id": "carpenter",
+      "question": "person who builds with wood",
+      "correct": "carpenter",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "carpenter"
+    },
+    {
+      "item_id": "caterer",
+      "question": "person who supplies event food",
+      "correct": "caterer",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "caterer"
+    },
+    {
+      "item_id": "classify",
+      "question": "sort into groups",
+      "correct": "classify",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "classify"
+    },
+    {
+      "item_id": "consultation",
+      "question": "meeting for professional advice",
+      "correct": "consultation",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "consultation"
+    },
+    {
+      "item_id": "durable",
+      "question": "lasting through heavy use",
+      "correct": "durable",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "durable"
+    },
+    {
+      "item_id": "glove",
+      "question": "covering worn on the hand",
+      "correct": "glove",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "glove"
+    },
+    {
+      "item_id": "hardware",
+      "question": "physical computer equipment",
+      "correct": "hardware",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "hardware"
+    },
+    {
+      "item_id": "malfunction",
+      "question": "failure to work properly",
+      "correct": "malfunction",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "malfunction"
+    },
+    {
+      "item_id": "outdated",
+      "question": "no longer current",
+      "correct": "outdated",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "outdated"
+    },
+    {
+      "item_id": "patience",
+      "question": "ability to wait calmly",
+      "correct": "patience",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "patience"
+    },
+    {
+      "item_id": "postcard",
+      "question": "card mailed with a picture",
+      "correct": "postcard",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "postcard"
+    },
+    {
+      "item_id": "prospective",
+      "question": "likely to become a client",
+      "correct": "prospective",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "prospective"
+    },
+    {
+      "item_id": "revision",
+      "question": "a changed version of a document",
+      "correct": "revision",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "revision"
+    },
+    {
+      "item_id": "strictly",
+      "question": "exactly according to the rules",
+      "correct": "strictly",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "strictly"
+    },
+    {
+      "item_id": "tomato",
+      "question": "soft red cooking fruit",
+      "correct": "tomato",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "tomato"
+    },
+    {
+      "item_id": "tray",
+      "question": "flat holder for carrying things",
+      "correct": "tray",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "tray"
+    },
+    {
+      "item_id": "vendor",
+      "question": "company that sells goods",
+      "correct": "vendor",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "vendor"
+    },
+    {
+      "item_id": "withdrawal",
+      "question": "taking money from an account",
+      "correct": "withdrawal",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "withdrawal"
+    },
+    {
+      "item_id": "anytime",
+      "question": "at whatever time you choose",
+      "correct": "anytime",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "anytime"
+    },
+    {
+      "item_id": "badge",
+      "question": "card worn to show identity",
+      "correct": "badge",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "badge"
+    },
+    {
+      "item_id": "brake",
+      "question": "device that stops a vehicle",
+      "correct": "brake",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "brake"
+    },
+    {
+      "item_id": "calculation",
+      "question": "working out a number",
+      "correct": "calculation",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "calculation"
+    },
+    {
+      "item_id": "coordinator",
+      "question": "person who organizes a task",
+      "correct": "coordinator",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "coordinator"
+    },
+    {
+      "item_id": "costly",
+      "question": "costing a lot of money",
+      "correct": "costly",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "costly"
+    },
+    {
+      "item_id": "equip",
+      "question": "provide needed tools",
+      "correct": "equip",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "equip"
+    },
+    {
+      "item_id": "excursion",
+      "question": "short trip for pleasure",
+      "correct": "excursion",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "excursion"
+    },
+    {
+      "item_id": "graphic",
+      "question": "picture used in a document",
+      "correct": "graphic",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "graphic"
+    },
+    {
+      "item_id": "inexperience",
+      "question": "lack of work experience",
+      "correct": "inexperience",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "inexperience"
+    },
+    {
+      "item_id": "lengthy",
+      "question": "continuing for a long time",
+      "correct": "lengthy",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "lengthy"
+    },
+    {
+      "item_id": "librarian",
+      "question": "person who works in a library",
+      "correct": "librarian",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "librarian"
+    },
+    {
+      "item_id": "meantime",
+      "question": "the time between two events",
+      "correct": "meantime",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "meantime"
+    },
+    {
+      "item_id": "merge",
+      "question": "combine into one organization",
+      "correct": "merge",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "merge"
+    },
+    {
+      "item_id": "performer",
+      "question": "person who entertains an audience",
+      "correct": "performer",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "performer"
+    },
+    {
+      "item_id": "pharmacist",
+      "question": "person who prepares medicine",
+      "correct": "pharmacist",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "pharmacist"
+    },
+    {
+      "item_id": "pizza",
+      "question": "baked flat bread with toppings",
+      "correct": "pizza",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "pizza"
+    },
+    {
+      "item_id": "resignation",
+      "question": "formal act of leaving a job",
+      "correct": "resignation",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "resignation"
+    },
+    {
+      "item_id": "reviewer",
+      "question": "person who checks a document",
+      "correct": "reviewer",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "reviewer"
+    },
+    {
+      "item_id": "terminate",
+      "question": "bring a contract to an end",
+      "correct": "terminate",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "terminate"
+    },
+    {
+      "item_id": "translation",
+      "question": "words changed into another language",
+      "correct": "translation",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "translation"
+    },
+    {
+      "item_id": "unfamiliar",
+      "question": "not known from before",
+      "correct": "unfamiliar",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "unfamiliar"
+    },
+    {
+      "item_id": "actress",
+      "question": "woman who acts in films",
+      "correct": "actress",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "actress"
+    },
+    {
+      "item_id": "adjacent",
+      "question": "next to something else",
+      "correct": "adjacent",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "adjacent"
+    },
+    {
+      "item_id": "alternate",
+      "question": "take turns between two options",
+      "correct": "alternate",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "alternate"
+    },
+    {
+      "item_id": "congratulate",
+      "question": "praise someone for a success",
+      "correct": "congratulate",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "congratulate"
+    },
+    {
+      "item_id": "escort",
+      "question": "guide someone to a place",
+      "correct": "escort",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "escort"
+    },
+    {
+      "item_id": "inexpensive",
+      "question": "not costing much money",
+      "correct": "inexpensive",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "inexpensive"
+    },
+    {
+      "item_id": "mask",
+      "question": "covering worn over the face",
+      "correct": "mask",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "mask"
+    },
+    {
+      "item_id": "purchaser",
+      "question": "person who buys for a company",
+      "correct": "purchaser",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "purchaser"
+    },
+    {
+      "item_id": "purse",
+      "question": "bag for personal items",
+      "correct": "purse",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "purse"
+    },
+    {
+      "item_id": "realtor",
+      "question": "person who sells property",
+      "correct": "realtor",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "realtor"
+    },
+    {
+      "item_id": "rearrange",
+      "question": "change the position of things",
+      "correct": "rearrange",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "rearrange"
+    },
+    {
+      "item_id": "reopen",
+      "question": "open again after closing",
+      "correct": "reopen",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "reopen"
+    },
+    {
+      "item_id": "soap",
+      "question": "substance used for washing",
+      "correct": "soap",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "soap"
+    },
+    {
+      "item_id": "spokesperson",
+      "question": "person who speaks for a group",
+      "correct": "spokesperson",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "spokesperson"
+    },
+    {
+      "item_id": "superior",
+      "question": "person of higher rank at work",
+      "correct": "superior",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "superior"
+    },
+    {
+      "item_id": "airfare",
+      "question": "price of a plane ticket",
+      "correct": "airfare",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "airfare"
+    },
+    {
+      "item_id": "bake",
+      "question": "cook food in an oven",
+      "correct": "bake",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "bake"
+    },
+    {
+      "item_id": "businessperson",
+      "question": "person working in business",
+      "correct": "businessperson",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "businessperson"
+    },
+    {
+      "item_id": "considerably",
+      "question": "by a large amount",
+      "correct": "considerably",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "considerably"
+    },
+    {
+      "item_id": "faulty",
+      "question": "not working correctly",
+      "correct": "faulty",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "faulty"
+    },
+    {
+      "item_id": "hobby",
+      "question": "activity done for pleasure",
+      "correct": "hobby",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "hobby"
+    },
+    {
+      "item_id": "informal",
+      "question": "relaxed and not official",
+      "correct": "informal",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "informal"
+    },
+    {
+      "item_id": "kilometer",
+      "question": "one thousand meters of distance",
+      "correct": "kilometer",
+      "wrong": [
+        "accustom",
+        "clinic"
+      ],
+      "word": "kilometer"
+    }
+  ]
+}

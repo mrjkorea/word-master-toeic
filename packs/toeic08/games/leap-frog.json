@@ -1,0 +1,1008 @@
+{
+  "pack_id": "toeic08",
+  "title": "TOEIC 701–800",
+  "module_id": "word_master",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "appendix",
+      "question": "extra section at the end of a report",
+      "correct": "appendix",
+      "wrong": [
+        "booth",
+        "clarify"
+      ],
+      "word": "appendix"
+    },
+    {
+      "item_id": "booth",
+      "question": "small stall at a show or counter",
+      "correct": "booth",
+      "wrong": [
+        "appendix",
+        "clarify"
+      ],
+      "word": "booth"
+    },
+    {
+      "item_id": "clarify",
+      "question": "make a point easier to understand",
+      "correct": "clarify",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "clarify"
+    },
+    {
+      "item_id": "classmate",
+      "question": "person in the same class",
+      "correct": "classmate",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "classmate"
+    },
+    {
+      "item_id": "compile",
+      "question": "gather information into one report",
+      "correct": "compile",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "compile"
+    },
+    {
+      "item_id": "correction",
+      "question": "a change that fixes an error",
+      "correct": "correction",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "correction"
+    },
+    {
+      "item_id": "customize",
+      "question": "change a product for a customer",
+      "correct": "customize",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "customize"
+    },
+    {
+      "item_id": "dedication",
+      "question": "strong commitment to one's work",
+      "correct": "dedication",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "dedication"
+    },
+    {
+      "item_id": "diagnose",
+      "question": "find the cause of a problem",
+      "correct": "diagnose",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "diagnose"
+    },
+    {
+      "item_id": "discontinue",
+      "question": "stop offering a product or service",
+      "correct": "discontinue",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "discontinue"
+    },
+    {
+      "item_id": "dishwasher",
+      "question": "machine that washes dishes",
+      "correct": "dishwasher",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "dishwasher"
+    },
+    {
+      "item_id": "drought",
+      "question": "long period with little rain",
+      "correct": "drought",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "drought"
+    },
+    {
+      "item_id": "economize",
+      "question": "spend less to save money",
+      "correct": "economize",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "economize"
+    },
+    {
+      "item_id": "entree",
+      "question": "main course of a meal",
+      "correct": "entrée",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "entrée"
+    },
+    {
+      "item_id": "firework",
+      "question": "device that bursts into colored light",
+      "correct": "firework",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "firework"
+    },
+    {
+      "item_id": "freight",
+      "question": "goods carried as cargo",
+      "correct": "freight",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "freight"
+    },
+    {
+      "item_id": "fry",
+      "question": "cook food in hot oil",
+      "correct": "fry",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "fry"
+    },
+    {
+      "item_id": "gallon",
+      "question": "unit for measuring liquids",
+      "correct": "gallon",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "gallon"
+    },
+    {
+      "item_id": "gardener",
+      "question": "person who cares for gardens",
+      "correct": "gardener",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "gardener"
+    },
+    {
+      "item_id": "ideally",
+      "question": "in the best possible way",
+      "correct": "ideally",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "ideally"
+    },
+    {
+      "item_id": "inclusive",
+      "question": "covering everything in the price",
+      "correct": "inclusive",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "inclusive"
+    },
+    {
+      "item_id": "insufficient",
+      "question": "not enough for the need",
+      "correct": "insufficient",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "insufficient"
+    },
+    {
+      "item_id": "introductory",
+      "question": "for beginners or a first offer",
+      "correct": "introductory",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "introductory"
+    },
+    {
+      "item_id": "junk",
+      "question": "things with no use or value",
+      "correct": "junk",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "junk"
+    },
+    {
+      "item_id": "maam",
+      "question": "polite form of address for a woman",
+      "correct": "ma'am",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "ma'am"
+    },
+    {
+      "item_id": "mileage",
+      "question": "distance a vehicle has traveled",
+      "correct": "mileage",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "mileage"
+    },
+    {
+      "item_id": "noisy",
+      "question": "full of loud sound",
+      "correct": "noisy",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "noisy"
+    },
+    {
+      "item_id": "pan",
+      "question": "shallow vessel for cooking",
+      "correct": "pan",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "pan"
+    },
+    {
+      "item_id": "parcel",
+      "question": "package sent by mail",
+      "correct": "parcel",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "parcel"
+    },
+    {
+      "item_id": "pasta",
+      "question": "Italian noodle dish",
+      "correct": "pasta",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "pasta"
+    },
+    {
+      "item_id": "periodical",
+      "question": "magazine published on a regular schedule",
+      "correct": "periodical",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "periodical"
+    },
+    {
+      "item_id": "pill",
+      "question": "small solid piece of medicine",
+      "correct": "pill",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "pill"
+    },
+    {
+      "item_id": "portable",
+      "question": "easy to carry from place to place",
+      "correct": "portable",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "portable"
+    },
+    {
+      "item_id": "punctual",
+      "question": "arriving at the agreed time",
+      "correct": "punctual",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "punctual"
+    },
+    {
+      "item_id": "recreation",
+      "question": "activity done for rest and fun",
+      "correct": "recreation",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "recreation"
+    },
+    {
+      "item_id": "relieve",
+      "question": "take over another person's duty",
+      "correct": "relieve",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "relieve"
+    },
+    {
+      "item_id": "reminder",
+      "question": "message that helps you remember",
+      "correct": "reminder",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "reminder"
+    },
+    {
+      "item_id": "rumor",
+      "question": "story that may not be true",
+      "correct": "rumor",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "rumor"
+    },
+    {
+      "item_id": "scarf",
+      "question": "cloth worn around the neck",
+      "correct": "scarf",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "scarf"
+    },
+    {
+      "item_id": "seaside",
+      "question": "place along the seashore",
+      "correct": "seaside",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "seaside"
+    },
+    {
+      "item_id": "shorten",
+      "question": "make something shorter in time",
+      "correct": "shorten",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "shorten"
+    },
+    {
+      "item_id": "specially",
+      "question": "for one particular purpose",
+      "correct": "specially",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "specially"
+    },
+    {
+      "item_id": "spill",
+      "question": "let liquid fall out by accident",
+      "correct": "spill",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "spill"
+    },
+    {
+      "item_id": "spouse",
+      "question": "a husband or a wife",
+      "correct": "spouse",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "spouse"
+    },
+    {
+      "item_id": "subtract",
+      "question": "take one number from another",
+      "correct": "subtract",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "subtract"
+    },
+    {
+      "item_id": "tablet",
+      "question": "flat touchscreen computer you carry",
+      "correct": "tablet",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "tablet"
+    },
+    {
+      "item_id": "ton",
+      "question": "large unit of weight",
+      "correct": "ton",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "ton"
+    },
+    {
+      "item_id": "vend",
+      "question": "sell goods to customers",
+      "correct": "vend",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "vend"
+    },
+    {
+      "item_id": "yoga",
+      "question": "practice of poses and breathing",
+      "correct": "yoga",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "yoga"
+    },
+    {
+      "item_id": "accent",
+      "question": "a way of pronouncing words",
+      "correct": "accent",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "accent"
+    },
+    {
+      "item_id": "advisory",
+      "question": "official notice that warns people",
+      "correct": "advisory",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "advisory"
+    },
+    {
+      "item_id": "asleep",
+      "question": "sleeping and not awake",
+      "correct": "asleep",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "asleep"
+    },
+    {
+      "item_id": "authentic",
+      "question": "real and not a copy",
+      "correct": "authentic",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "authentic"
+    },
+    {
+      "item_id": "bakery",
+      "question": "shop that sells bread",
+      "correct": "bakery",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "bakery"
+    },
+    {
+      "item_id": "carton",
+      "question": "light box made of cardboard",
+      "correct": "carton",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "carton"
+    },
+    {
+      "item_id": "compartment",
+      "question": "separate section inside a space",
+      "correct": "compartment",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "compartment"
+    },
+    {
+      "item_id": "compatible",
+      "question": "able to work with another device",
+      "correct": "compatible",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "compatible"
+    },
+    {
+      "item_id": "consumption",
+      "question": "amount of something used up",
+      "correct": "consumption",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "consumption"
+    },
+    {
+      "item_id": "conveniently",
+      "question": "in an easy suitable way",
+      "correct": "conveniently",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "conveniently"
+    },
+    {
+      "item_id": "cosmetic",
+      "question": "beauty product for skin or hair",
+      "correct": "cosmetic",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "cosmetic"
+    },
+    {
+      "item_id": "courtesy",
+      "question": "polite behavior toward others",
+      "correct": "courtesy",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "courtesy"
+    },
+    {
+      "item_id": "creativity",
+      "question": "ability to make new ideas",
+      "correct": "creativity",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "creativity"
+    },
+    {
+      "item_id": "disagreement",
+      "question": "a difference of opinion",
+      "correct": "disagreement",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "disagreement"
+    },
+    {
+      "item_id": "disappointment",
+      "question": "sadness when an expectation fails",
+      "correct": "disappointment",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "disappointment"
+    },
+    {
+      "item_id": "dissatisfy",
+      "question": "fail to make someone satisfied",
+      "correct": "dissatisfy",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "dissatisfy"
+    },
+    {
+      "item_id": "enjoyable",
+      "question": "pleasant and giving pleasure",
+      "correct": "enjoyable",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "enjoyable"
+    },
+    {
+      "item_id": "faculty",
+      "question": "teaching staff of a school",
+      "correct": "faculty",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "faculty"
+    },
+    {
+      "item_id": "favorable",
+      "question": "positive and likely to help",
+      "correct": "favorable",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "favorable"
+    },
+    {
+      "item_id": "foreman",
+      "question": "leader of a work crew",
+      "correct": "foreman",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "foreman"
+    },
+    {
+      "item_id": "forum",
+      "question": "meeting for open discussion",
+      "correct": "forum",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "forum"
+    },
+    {
+      "item_id": "founder",
+      "question": "person who starts an organization",
+      "correct": "founder",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "founder"
+    },
+    {
+      "item_id": "fundraise",
+      "question": "collect money for a cause",
+      "correct": "fundraise",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "fundraise"
+    },
+    {
+      "item_id": "graphics",
+      "question": "pictures and designs for slides",
+      "correct": "graphics",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "graphics"
+    },
+    {
+      "item_id": "handy",
+      "question": "useful and close at hand",
+      "correct": "handy",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "handy"
+    },
+    {
+      "item_id": "hazardous",
+      "question": "likely to cause harm",
+      "correct": "hazardous",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "hazardous"
+    },
+    {
+      "item_id": "healthcare",
+      "question": "medical services that protect health",
+      "correct": "healthcare",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "healthcare"
+    },
+    {
+      "item_id": "humidity",
+      "question": "moisture held in the air",
+      "correct": "humidity",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "humidity"
+    },
+    {
+      "item_id": "influential",
+      "question": "able to affect other people's decisions",
+      "correct": "influential",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "influential"
+    },
+    {
+      "item_id": "nationwide",
+      "question": "extending across a whole country",
+      "correct": "nationwide",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "nationwide"
+    },
+    {
+      "item_id": "pad",
+      "question": "bound sheets of paper for notes",
+      "correct": "pad",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "pad"
+    },
+    {
+      "item_id": "paraphrase",
+      "question": "restate an idea in new words",
+      "correct": "paraphrase",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "paraphrase"
+    },
+    {
+      "item_id": "placement",
+      "question": "assigning someone to a position",
+      "correct": "placement",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "placement"
+    },
+    {
+      "item_id": "postal",
+      "question": "related to the mail service",
+      "correct": "postal",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "postal"
+    },
+    {
+      "item_id": "publicity",
+      "question": "public notice for a business",
+      "correct": "publicity",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "publicity"
+    },
+    {
+      "item_id": "renter",
+      "question": "person who pays to use property",
+      "correct": "renter",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "renter"
+    },
+    {
+      "item_id": "repairperson",
+      "question": "worker who fixes broken equipment",
+      "correct": "repairperson",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "repairperson"
+    },
+    {
+      "item_id": "repeatedly",
+      "question": "many times, over and over",
+      "correct": "repeatedly",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "repeatedly"
+    },
+    {
+      "item_id": "restroom",
+      "question": "public room with a toilet",
+      "correct": "restroom",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "restroom"
+    },
+    {
+      "item_id": "silently",
+      "question": "without making any sound",
+      "correct": "silently",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "silently"
+    },
+    {
+      "item_id": "spa",
+      "question": "place for baths and beauty care",
+      "correct": "spa",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "spa"
+    },
+    {
+      "item_id": "spreadsheet",
+      "question": "computer grid for business figures",
+      "correct": "spreadsheet",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "spreadsheet"
+    },
+    {
+      "item_id": "stapler",
+      "question": "tool that fastens papers together",
+      "correct": "stapler",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "stapler"
+    },
+    {
+      "item_id": "streamline",
+      "question": "make a process faster and simpler",
+      "correct": "streamline",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "streamline"
+    },
+    {
+      "item_id": "substantially",
+      "question": "by a large amount",
+      "correct": "substantially",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "substantially"
+    },
+    {
+      "item_id": "teller",
+      "question": "bank worker at the cash counter",
+      "correct": "teller",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "teller"
+    },
+    {
+      "item_id": "tidy",
+      "question": "neat and arranged in order",
+      "correct": "tidy",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "tidy"
+    },
+    {
+      "item_id": "toll",
+      "question": "fee paid to use a road",
+      "correct": "toll",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "toll"
+    },
+    {
+      "item_id": "toner",
+      "question": "powder a printer uses for print",
+      "correct": "toner",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "toner"
+    },
+    {
+      "item_id": "urgently",
+      "question": "with immediate need for action",
+      "correct": "urgently",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "urgently"
+    },
+    {
+      "item_id": "walkway",
+      "question": "path where people walk",
+      "correct": "walkway",
+      "wrong": [
+        "appendix",
+        "booth"
+      ],
+      "word": "walkway"
+    }
+  ]
+}

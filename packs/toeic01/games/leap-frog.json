@@ -1,0 +1,1008 @@
+{
+  "pack_id": "toeic01",
+  "title": "TOEIC 1–100",
+  "module_id": "word_master",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "mister",
+      "question": "title for a man",
+      "correct": "mister",
+      "wrong": [
+        "vacation",
+        "client"
+      ],
+      "word": "mister"
+    },
+    {
+      "item_id": "vacation",
+      "question": "paid time away from work",
+      "correct": "vacation",
+      "wrong": [
+        "mister",
+        "client"
+      ],
+      "word": "vacation"
+    },
+    {
+      "item_id": "client",
+      "question": "person a business serves",
+      "correct": "client",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "client"
+    },
+    {
+      "item_id": "e-book",
+      "question": "book read on a screen",
+      "correct": "e-book",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "e-book"
+    },
+    {
+      "item_id": "airport",
+      "question": "place where planes take off",
+      "correct": "airport",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "airport"
+    },
+    {
+      "item_id": "memo",
+      "question": "short written office note",
+      "correct": "memo",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "memo"
+    },
+    {
+      "item_id": "reservation",
+      "question": "booking held for later",
+      "correct": "reservation",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "reservation"
+    },
+    {
+      "item_id": "logical",
+      "question": "based on clear reasoning",
+      "correct": "logical",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "logical"
+    },
+    {
+      "item_id": "fax",
+      "question": "document sent by phone line",
+      "correct": "fax",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "fax"
+    },
+    {
+      "item_id": "o-clock",
+      "question": "exactly on the hour",
+      "correct": "o'clock",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "o'clock"
+    },
+    {
+      "item_id": "sincerely",
+      "question": "in a genuine honest way",
+      "correct": "sincerely",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "sincerely"
+    },
+    {
+      "item_id": "sometime",
+      "question": "at an unspecified future time",
+      "correct": "sometime",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "sometime"
+    },
+    {
+      "item_id": "supervisor",
+      "question": "person who oversees your work",
+      "correct": "supervisor",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "supervisor"
+    },
+    {
+      "item_id": "refund",
+      "question": "money returned to a buyer",
+      "correct": "refund",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "refund"
+    },
+    {
+      "item_id": "goods",
+      "question": "products a company sells",
+      "correct": "goods",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "goods"
+    },
+    {
+      "item_id": "workshop",
+      "question": "short hands-on training session",
+      "correct": "workshop",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "workshop"
+    },
+    {
+      "item_id": "downtown",
+      "question": "the busy center of a city",
+      "correct": "downtown",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "downtown"
+    },
+    {
+      "item_id": "deadline",
+      "question": "last time to finish work",
+      "correct": "deadline",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "deadline"
+    },
+    {
+      "item_id": "invoice",
+      "question": "bill listing goods and prices",
+      "correct": "invoice",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "invoice"
+    },
+    {
+      "item_id": "brochure",
+      "question": "small booklet advertising a service",
+      "correct": "brochure",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "brochure"
+    },
+    {
+      "item_id": "noon",
+      "question": "twelve in the middle of the day",
+      "correct": "noon",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "noon"
+    },
+    {
+      "item_id": "accountant",
+      "question": "person who keeps financial records",
+      "correct": "accountant",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "accountant"
+    },
+    {
+      "item_id": "clerk",
+      "question": "office worker handling paperwork",
+      "correct": "clerk",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "clerk"
+    },
+    {
+      "item_id": "lobby",
+      "question": "entrance hall of a building",
+      "correct": "lobby",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "lobby"
+    },
+    {
+      "item_id": "publish",
+      "question": "release a work to the public",
+      "correct": "publish",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "publish"
+    },
+    {
+      "item_id": "resume",
+      "question": "document listing work experience",
+      "correct": "résumé",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "résumé"
+    },
+    {
+      "item_id": "enclose",
+      "question": "put a document inside a letter",
+      "correct": "enclose",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "enclose"
+    },
+    {
+      "item_id": "applicant",
+      "question": "person applying for a job",
+      "correct": "applicant",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "applicant"
+    },
+    {
+      "item_id": "seminar",
+      "question": "meeting for professional training",
+      "correct": "seminar",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "seminar"
+    },
+    {
+      "item_id": "technician",
+      "question": "worker who repairs equipment",
+      "correct": "technician",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "technician"
+    },
+    {
+      "item_id": "cloth",
+      "question": "woven fabric sold as goods",
+      "correct": "cloth",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "cloth"
+    },
+    {
+      "item_id": "fare",
+      "question": "price paid for a ride",
+      "correct": "fare",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "fare"
+    },
+    {
+      "item_id": "receipt",
+      "question": "paper proving a payment",
+      "correct": "receipt",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "receipt"
+    },
+    {
+      "item_id": "traveler",
+      "question": "person going on a trip",
+      "correct": "traveler",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "traveler"
+    },
+    {
+      "item_id": "caller",
+      "question": "person phoning the office",
+      "correct": "caller",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "caller"
+    },
+    {
+      "item_id": "subway",
+      "question": "train that runs underground",
+      "correct": "subway",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "subway"
+    },
+    {
+      "item_id": "luggage",
+      "question": "bags a traveler carries",
+      "correct": "luggage",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "luggage"
+    },
+    {
+      "item_id": "shipment",
+      "question": "goods sent in one delivery",
+      "correct": "shipment",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "shipment"
+    },
+    {
+      "item_id": "infer",
+      "question": "conclude from given facts",
+      "correct": "infer",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "infer"
+    },
+    {
+      "item_id": "waiter",
+      "question": "person serving restaurant meals",
+      "correct": "waiter",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "waiter"
+    },
+    {
+      "item_id": "rental",
+      "question": "use of something for a fee",
+      "correct": "rental",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "rental"
+    },
+    {
+      "item_id": "warranty",
+      "question": "promise to repair a product",
+      "correct": "warranty",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "warranty"
+    },
+    {
+      "item_id": "cafeteria",
+      "question": "workplace room for buying meals",
+      "correct": "cafeteria",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "cafeteria"
+    },
+    {
+      "item_id": "chef",
+      "question": "professional cook in a kitchen",
+      "correct": "chef",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "chef"
+    },
+    {
+      "item_id": "elevator",
+      "question": "machine carrying people between floors",
+      "correct": "elevator",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "elevator"
+    },
+    {
+      "item_id": "reception",
+      "question": "front desk where guests check in",
+      "correct": "reception",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "reception"
+    },
+    {
+      "item_id": "correctly",
+      "question": "in the right way",
+      "correct": "correctly",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "correctly"
+    },
+    {
+      "item_id": "lease",
+      "question": "contract to rent property",
+      "correct": "lease",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "lease"
+    },
+    {
+      "item_id": "bicycle",
+      "question": "two-wheeled vehicle you pedal",
+      "correct": "bicycle",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "bicycle"
+    },
+    {
+      "item_id": "notify",
+      "question": "tell someone official news",
+      "correct": "notify",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "notify"
+    },
+    {
+      "item_id": "preview",
+      "question": "early look before release",
+      "correct": "preview",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "preview"
+    },
+    {
+      "item_id": "attendant",
+      "question": "staff member assisting travelers",
+      "correct": "attendant",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "attendant"
+    },
+    {
+      "item_id": "subscription",
+      "question": "paid access on a schedule",
+      "correct": "subscription",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "subscription"
+    },
+    {
+      "item_id": "convenient",
+      "question": "easy and suitable to use",
+      "correct": "convenient",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "convenient"
+    },
+    {
+      "item_id": "manual",
+      "question": "book explaining how to operate",
+      "correct": "manual",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "manual"
+    },
+    {
+      "item_id": "clue",
+      "question": "hint that helps you decide",
+      "correct": "clue",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "clue"
+    },
+    {
+      "item_id": "garage",
+      "question": "building where cars are parked",
+      "correct": "garage",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "garage"
+    },
+    {
+      "item_id": "obtain",
+      "question": "get something that you need",
+      "correct": "obtain",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "obtain"
+    },
+    {
+      "item_id": "oval",
+      "question": "shaped like a stretched circle",
+      "correct": "oval",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "oval"
+    },
+    {
+      "item_id": "inventory",
+      "question": "goods a company has in stock",
+      "correct": "inventory",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "inventory"
+    },
+    {
+      "item_id": "outdoor",
+      "question": "located outside a building",
+      "correct": "outdoor",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "outdoor"
+    },
+    {
+      "item_id": "suitcase",
+      "question": "case for clothes on a trip",
+      "correct": "suitcase",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "suitcase"
+    },
+    {
+      "item_id": "destination",
+      "question": "place a traveler is going",
+      "correct": "destination",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "destination"
+    },
+    {
+      "item_id": "occupation",
+      "question": "job a person does for pay",
+      "correct": "occupation",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "occupation"
+    },
+    {
+      "item_id": "postpone",
+      "question": "move an event to a later time",
+      "correct": "postpone",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "postpone"
+    },
+    {
+      "item_id": "contradict",
+      "question": "state the opposite of a claim",
+      "correct": "contradict",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "contradict"
+    },
+    {
+      "item_id": "umbrella",
+      "question": "cover you hold against rain",
+      "correct": "umbrella",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "umbrella"
+    },
+    {
+      "item_id": "inference",
+      "question": "conclusion drawn from facts",
+      "correct": "inference",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "inference"
+    },
+    {
+      "item_id": "cellphone",
+      "question": "phone carried in a pocket",
+      "correct": "cellphone",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "cellphone"
+    },
+    {
+      "item_id": "compact",
+      "question": "small yet fully equipped",
+      "correct": "compact",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "compact"
+    },
+    {
+      "item_id": "merchandise",
+      "question": "products offered for sale",
+      "correct": "merchandise",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "merchandise"
+    },
+    {
+      "item_id": "receptionist",
+      "question": "person working the front desk",
+      "correct": "receptionist",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "receptionist"
+    },
+    {
+      "item_id": "dentist",
+      "question": "doctor who cares for teeth",
+      "correct": "dentist",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "dentist"
+    },
+    {
+      "item_id": "identification",
+      "question": "document that proves who you are",
+      "correct": "identification",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "identification"
+    },
+    {
+      "item_id": "coupon",
+      "question": "slip that reduces a price",
+      "correct": "coupon",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "coupon"
+    },
+    {
+      "item_id": "depart",
+      "question": "leave to go somewhere else",
+      "correct": "depart",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "depart"
+    },
+    {
+      "item_id": "reschedule",
+      "question": "set an event for a new time",
+      "correct": "reschedule",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "reschedule"
+    },
+    {
+      "item_id": "tactic",
+      "question": "planned method to reach a goal",
+      "correct": "tactic",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "tactic"
+    },
+    {
+      "item_id": "renovation",
+      "question": "work that renews an old space",
+      "correct": "renovation",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "renovation"
+    },
+    {
+      "item_id": "upgrade",
+      "question": "change to a better version",
+      "correct": "upgrade",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "upgrade"
+    },
+    {
+      "item_id": "precede",
+      "question": "come before another thing",
+      "correct": "precede",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "precede"
+    },
+    {
+      "item_id": "replacement",
+      "question": "item used in place of another",
+      "correct": "replacement",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "replacement"
+    },
+    {
+      "item_id": "dine",
+      "question": "eat a meal at a restaurant",
+      "correct": "dine",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "dine"
+    },
+    {
+      "item_id": "passport",
+      "question": "booklet allowing foreign travel",
+      "correct": "passport",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "passport"
+    },
+    {
+      "item_id": "coworker",
+      "question": "person who works beside you",
+      "correct": "coworker",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "coworker"
+    },
+    {
+      "item_id": "upcoming",
+      "question": "coming in the near future",
+      "correct": "upcoming",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "upcoming"
+    },
+    {
+      "item_id": "cabinet",
+      "question": "cupboard for storing office files",
+      "correct": "cabinet",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "cabinet"
+    },
+    {
+      "item_id": "appliance",
+      "question": "electric machine for daily tasks",
+      "correct": "appliance",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "appliance"
+    },
+    {
+      "item_id": "explanatory",
+      "question": "intended to make something clear",
+      "correct": "explanatory",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "explanatory"
+    },
+    {
+      "item_id": "instructor",
+      "question": "person who teaches a skill",
+      "correct": "instructor",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "instructor"
+    },
+    {
+      "item_id": "keyboard",
+      "question": "set of keys for typing",
+      "correct": "keyboard",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "keyboard"
+    },
+    {
+      "item_id": "media",
+      "question": "news channels reaching the public",
+      "correct": "media",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "media"
+    },
+    {
+      "item_id": "supermarket",
+      "question": "large store for food and goods",
+      "correct": "supermarket",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "supermarket"
+    },
+    {
+      "item_id": "valid",
+      "question": "still officially in effect",
+      "correct": "valid",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "valid"
+    },
+    {
+      "item_id": "admission",
+      "question": "permission to enter a place",
+      "correct": "admission",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "admission"
+    },
+    {
+      "item_id": "laptop",
+      "question": "computer that folds for travel",
+      "correct": "laptop",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "laptop"
+    },
+    {
+      "item_id": "underline",
+      "question": "draw a line beneath words",
+      "correct": "underline",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "underline"
+    },
+    {
+      "item_id": "electrical",
+      "question": "related to electric power",
+      "correct": "electrical",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "electrical"
+    },
+    {
+      "item_id": "airplane",
+      "question": "machine that flies through the air",
+      "correct": "airplane",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "airplane"
+    },
+    {
+      "item_id": "assignment",
+      "question": "task given to an employee",
+      "correct": "assignment",
+      "wrong": [
+        "mister",
+        "vacation"
+      ],
+      "word": "assignment"
+    }
+  ]
+}

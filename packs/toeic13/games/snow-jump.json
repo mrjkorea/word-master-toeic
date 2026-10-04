@@ -1,0 +1,1008 @@
+{
+  "pack_id": "toeic13",
+  "title": "TOEIC 1201–1300",
+  "module_id": "snow_jump",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "broaden",
+      "question": "make something wider",
+      "correct": "broaden",
+      "wrong": [
+        "bulb",
+        "by-law"
+      ],
+      "word": "broaden"
+    },
+    {
+      "item_id": "bulb",
+      "question": "glass lamp that gives light",
+      "correct": "bulb",
+      "wrong": [
+        "broaden",
+        "by-law"
+      ],
+      "word": "bulb"
+    },
+    {
+      "item_id": "by-law",
+      "question": "rule made by an organization",
+      "correct": "by-law",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "by-law"
+    },
+    {
+      "item_id": "cheer",
+      "question": "shout approval or support",
+      "correct": "cheer",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "cheer"
+    },
+    {
+      "item_id": "complication",
+      "question": "extra problem in a plan",
+      "correct": "complication",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "complication"
+    },
+    {
+      "item_id": "considerate",
+      "question": "careful of other people's needs",
+      "correct": "considerate",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "considerate"
+    },
+    {
+      "item_id": "daytime",
+      "question": "daylight hours",
+      "correct": "daytime",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "daytime"
+    },
+    {
+      "item_id": "decoration",
+      "question": "something added to look attractive",
+      "correct": "decoration",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "decoration"
+    },
+    {
+      "item_id": "discard",
+      "question": "throw away as no longer needed",
+      "correct": "discard",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "discard"
+    },
+    {
+      "item_id": "drastically",
+      "question": "in a sudden extreme way",
+      "correct": "drastically",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "drastically"
+    },
+    {
+      "item_id": "erase",
+      "question": "remove writing or recorded data",
+      "correct": "erase",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "erase"
+    },
+    {
+      "item_id": "explorer",
+      "question": "person who surveys unknown places",
+      "correct": "explorer",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "explorer"
+    },
+    {
+      "item_id": "factual",
+      "question": "based on real facts",
+      "correct": "factual",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "factual"
+    },
+    {
+      "item_id": "fixture",
+      "question": "equipment fixed in a building",
+      "correct": "fixture",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "fixture"
+    },
+    {
+      "item_id": "footwear",
+      "question": "shoes and similar foot coverings",
+      "correct": "footwear",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "footwear"
+    },
+    {
+      "item_id": "genre",
+      "question": "type of book film or music",
+      "correct": "genre",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "genre"
+    },
+    {
+      "item_id": "gymnasium",
+      "question": "indoor hall for exercise",
+      "correct": "gymnasium",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "gymnasium"
+    },
+    {
+      "item_id": "hereby",
+      "question": "by this official statement",
+      "correct": "hereby",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "hereby"
+    },
+    {
+      "item_id": "hesitation",
+      "question": "pause before deciding or speaking",
+      "correct": "hesitation",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "hesitation"
+    },
+    {
+      "item_id": "homemade",
+      "question": "made at home not bought",
+      "correct": "homemade",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "homemade"
+    },
+    {
+      "item_id": "hospitality",
+      "question": "friendly care of guests",
+      "correct": "hospitality",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "hospitality"
+    },
+    {
+      "item_id": "incoming",
+      "question": "arriving or coming in",
+      "correct": "incoming",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "incoming"
+    },
+    {
+      "item_id": "induction",
+      "question": "training for new employees",
+      "correct": "induction",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "induction"
+    },
+    {
+      "item_id": "inspiration",
+      "question": "idea that sparks new work",
+      "correct": "inspiration",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "inspiration"
+    },
+    {
+      "item_id": "intently",
+      "question": "with fixed close attention",
+      "correct": "intently",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "intently"
+    },
+    {
+      "item_id": "mower",
+      "question": "machine that cuts grass",
+      "correct": "mower",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "mower"
+    },
+    {
+      "item_id": "nutrition",
+      "question": "food the body needs",
+      "correct": "nutrition",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "nutrition"
+    },
+    {
+      "item_id": "restatement",
+      "question": "saying terms again more clearly",
+      "correct": "restatement",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "restatement"
+    },
+    {
+      "item_id": "sedan",
+      "question": "car with a separate trunk",
+      "correct": "sedan",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "sedan"
+    },
+    {
+      "item_id": "sunscreen",
+      "question": "lotion that blocks the sun",
+      "correct": "sunscreen",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "sunscreen"
+    },
+    {
+      "item_id": "wellness",
+      "question": "good health of body and mind",
+      "correct": "wellness",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "wellness"
+    },
+    {
+      "item_id": "workbook",
+      "question": "book of practice tasks",
+      "correct": "workbook",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "workbook"
+    },
+    {
+      "item_id": "bookcase",
+      "question": "furniture with shelves for books",
+      "correct": "bookcase",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "bookcase"
+    },
+    {
+      "item_id": "cleanliness",
+      "question": "condition of being clean",
+      "correct": "cleanliness",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "cleanliness"
+    },
+    {
+      "item_id": "contestant",
+      "question": "person entered in a contest",
+      "correct": "contestant",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "contestant"
+    },
+    {
+      "item_id": "ethics",
+      "question": "standards of right conduct",
+      "correct": "ethics",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "ethics"
+    },
+    {
+      "item_id": "healthful",
+      "question": "good for physical health",
+      "correct": "healthful",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "healthful"
+    },
+    {
+      "item_id": "inefficient",
+      "question": "wasting time or effort",
+      "correct": "inefficient",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "inefficient"
+    },
+    {
+      "item_id": "liter",
+      "question": "metric unit of liquid volume",
+      "correct": "liter",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "liter"
+    },
+    {
+      "item_id": "recession",
+      "question": "period of falling economic activity",
+      "correct": "recession",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "recession"
+    },
+    {
+      "item_id": "timeline",
+      "question": "schedule of dates and steps",
+      "correct": "timeline",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "timeline"
+    },
+    {
+      "item_id": "unreliable",
+      "question": "not able to be trusted",
+      "correct": "unreliable",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "unreliable"
+    },
+    {
+      "item_id": "acclaim",
+      "question": "strong public praise",
+      "correct": "acclaim",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "acclaim"
+    },
+    {
+      "item_id": "chronic",
+      "question": "lasting for a long time",
+      "correct": "chronic",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "chronic"
+    },
+    {
+      "item_id": "deteriorate",
+      "question": "become worse over time",
+      "correct": "deteriorate",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "deteriorate"
+    },
+    {
+      "item_id": "resemble",
+      "question": "look or seem like",
+      "correct": "resemble",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "resemble"
+    },
+    {
+      "item_id": "unauthorized",
+      "question": "done without official permission",
+      "correct": "unauthorized",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "unauthorized"
+    },
+    {
+      "item_id": "violate",
+      "question": "break a rule or agreement",
+      "correct": "violate",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "violate"
+    },
+    {
+      "item_id": "unplug",
+      "question": "disconnect from a power outlet",
+      "correct": "unplug",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "unplug"
+    },
+    {
+      "item_id": "videoconference",
+      "question": "meeting held by live video",
+      "correct": "videoconference",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "videoconference"
+    },
+    {
+      "item_id": "cook",
+      "question": "person who prepares meals",
+      "correct": "cook",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "cook"
+    },
+    {
+      "item_id": "nurse",
+      "question": "person trained to care for patients",
+      "correct": "nurse",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "nurse"
+    },
+    {
+      "item_id": "pilot",
+      "question": "person who flies an aircraft",
+      "correct": "pilot",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "pilot"
+    },
+    {
+      "item_id": "janitor",
+      "question": "person who cleans a building",
+      "correct": "janitor",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "janitor"
+    },
+    {
+      "item_id": "sailor",
+      "question": "person who works on a ship",
+      "correct": "sailor",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "sailor"
+    },
+    {
+      "item_id": "soldier",
+      "question": "member of an army",
+      "correct": "soldier",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "soldier"
+    },
+    {
+      "item_id": "farmer",
+      "question": "person who grows crops or livestock",
+      "correct": "farmer",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "farmer"
+    },
+    {
+      "item_id": "lawyer",
+      "question": "person qualified to practice law",
+      "correct": "lawyer",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "lawyer"
+    },
+    {
+      "item_id": "engineer",
+      "question": "person who designs technical systems",
+      "correct": "engineer",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "engineer"
+    },
+    {
+      "item_id": "porter",
+      "question": "hotel worker who carries luggage",
+      "correct": "porter",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "porter"
+    },
+    {
+      "item_id": "journalist",
+      "question": "person who reports the news",
+      "correct": "journalist",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "journalist"
+    },
+    {
+      "item_id": "welder",
+      "question": "person who joins metal by heat",
+      "correct": "welder",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "welder"
+    },
+    {
+      "item_id": "barber",
+      "question": "person who cuts hair",
+      "correct": "barber",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "barber"
+    },
+    {
+      "item_id": "butcher",
+      "question": "person who prepares and sells meat",
+      "correct": "butcher",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "butcher"
+    },
+    {
+      "item_id": "florist",
+      "question": "person who sells flowers",
+      "correct": "florist",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "florist"
+    },
+    {
+      "item_id": "grocer",
+      "question": "person who sells food supplies",
+      "correct": "grocer",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "grocer"
+    },
+    {
+      "item_id": "miner",
+      "question": "person who works underground for ore",
+      "correct": "miner",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "miner"
+    },
+    {
+      "item_id": "shepherd",
+      "question": "person who tends a flock of sheep",
+      "correct": "shepherd",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "shepherd"
+    },
+    {
+      "item_id": "cowboy",
+      "question": "worker who herds cattle on a ranch",
+      "correct": "cowboy",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "cowboy"
+    },
+    {
+      "item_id": "bride",
+      "question": "woman on her wedding day",
+      "correct": "bride",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "bride"
+    },
+    {
+      "item_id": "groom",
+      "question": "man on his wedding day",
+      "correct": "groom",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "groom"
+    },
+    {
+      "item_id": "toddler",
+      "question": "young child just learning to walk",
+      "correct": "toddler",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "toddler"
+    },
+    {
+      "item_id": "infant",
+      "question": "baby in the first months",
+      "correct": "infant",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "infant"
+    },
+    {
+      "item_id": "uncle",
+      "question": "brother of one's parent",
+      "correct": "uncle",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "uncle"
+    },
+    {
+      "item_id": "aunt",
+      "question": "sister of one's parent",
+      "correct": "aunt",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "aunt"
+    },
+    {
+      "item_id": "cousin",
+      "question": "child of an aunt or uncle",
+      "correct": "cousin",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "cousin"
+    },
+    {
+      "item_id": "neighbor",
+      "question": "person living next door",
+      "correct": "neighbor",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "neighbor"
+    },
+    {
+      "item_id": "stranger",
+      "question": "unknown person",
+      "correct": "stranger",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "stranger"
+    },
+    {
+      "item_id": "tourist",
+      "question": "person traveling for pleasure",
+      "correct": "tourist",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "tourist"
+    },
+    {
+      "item_id": "passenger",
+      "question": "person traveling in a vehicle",
+      "correct": "passenger",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "passenger"
+    },
+    {
+      "item_id": "cyclist",
+      "question": "person who rides a bicycle",
+      "correct": "cyclist",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "cyclist"
+    },
+    {
+      "item_id": "jogger",
+      "question": "person who runs for exercise",
+      "correct": "jogger",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "jogger"
+    },
+    {
+      "item_id": "swimmer",
+      "question": "person who swims",
+      "correct": "swimmer",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "swimmer"
+    },
+    {
+      "item_id": "diver",
+      "question": "person who goes underwater",
+      "correct": "diver",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "diver"
+    },
+    {
+      "item_id": "climber",
+      "question": "person who climbs rock or mountains",
+      "correct": "climber",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "climber"
+    },
+    {
+      "item_id": "skier",
+      "question": "person who skis on snow",
+      "correct": "skier",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "skier"
+    },
+    {
+      "item_id": "goalkeeper",
+      "question": "player who guards the goal",
+      "correct": "goalkeeper",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "goalkeeper"
+    },
+    {
+      "item_id": "umpire",
+      "question": "official who enforces game rules",
+      "correct": "umpire",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "umpire"
+    },
+    {
+      "item_id": "coach",
+      "question": "person who trains a team",
+      "correct": "coach",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "coach"
+    },
+    {
+      "item_id": "artist",
+      "question": "person who creates visual art",
+      "correct": "artist",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "artist"
+    },
+    {
+      "item_id": "musician",
+      "question": "person who plays or writes music",
+      "correct": "musician",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "musician"
+    },
+    {
+      "item_id": "dancer",
+      "question": "person who dances as a performer",
+      "correct": "dancer",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "dancer"
+    },
+    {
+      "item_id": "singer",
+      "question": "person who sings for an audience",
+      "correct": "singer",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "singer"
+    },
+    {
+      "item_id": "actor",
+      "question": "person who performs in drama",
+      "correct": "actor",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "actor"
+    },
+    {
+      "item_id": "sculptor",
+      "question": "person who carves or models art",
+      "correct": "sculptor",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "sculptor"
+    },
+    {
+      "item_id": "poet",
+      "question": "person who writes poetry",
+      "correct": "poet",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "poet"
+    },
+    {
+      "item_id": "professor",
+      "question": "senior teacher at a university",
+      "correct": "professor",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "professor"
+    },
+    {
+      "item_id": "pupil",
+      "question": "person learning from a teacher",
+      "correct": "pupil",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "pupil"
+    },
+    {
+      "item_id": "roommate",
+      "question": "person sharing one's living space",
+      "correct": "roommate",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "roommate"
+    },
+    {
+      "item_id": "boss",
+      "question": "person in charge at work",
+      "correct": "boss",
+      "wrong": [
+        "broaden",
+        "bulb"
+      ],
+      "word": "boss"
+    }
+  ]
+}

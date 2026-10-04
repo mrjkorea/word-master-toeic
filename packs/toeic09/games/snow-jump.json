@@ -1,0 +1,1008 @@
+{
+  "pack_id": "toeic09",
+  "title": "TOEIC 801–900",
+  "module_id": "snow_jump",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "absorb",
+      "question": "soak up a liquid",
+      "correct": "absorb",
+      "wrong": [
+        "administer",
+        "ample"
+      ],
+      "word": "absorb"
+    },
+    {
+      "item_id": "administer",
+      "question": "run or give officially",
+      "correct": "administer",
+      "wrong": [
+        "absorb",
+        "ample"
+      ],
+      "word": "administer"
+    },
+    {
+      "item_id": "ample",
+      "question": "more than enough",
+      "correct": "ample",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "ample"
+    },
+    {
+      "item_id": "antique",
+      "question": "an old valuable object",
+      "correct": "antique",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "antique"
+    },
+    {
+      "item_id": "bean",
+      "question": "an edible plant seed",
+      "correct": "bean",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "bean"
+    },
+    {
+      "item_id": "browse",
+      "question": "look through casually",
+      "correct": "browse",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "browse"
+    },
+    {
+      "item_id": "bye",
+      "question": "a short goodbye",
+      "correct": "bye",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "bye"
+    },
+    {
+      "item_id": "careless",
+      "question": "not careful enough",
+      "correct": "careless",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "careless"
+    },
+    {
+      "item_id": "collector",
+      "question": "a person who collects tickets",
+      "correct": "collector",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "collector"
+    },
+    {
+      "item_id": "conform",
+      "question": "follow a rule or standard",
+      "correct": "conform",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "conform"
+    },
+    {
+      "item_id": "congestion",
+      "question": "heavy traffic blocking movement",
+      "correct": "congestion",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "congestion"
+    },
+    {
+      "item_id": "contradiction",
+      "question": "a conflicting statement",
+      "correct": "contradiction",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "contradiction"
+    },
+    {
+      "item_id": "contrary",
+      "question": "opposite in nature",
+      "correct": "contrary",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "contrary"
+    },
+    {
+      "item_id": "diploma",
+      "question": "an official school certificate",
+      "correct": "diploma",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "diploma"
+    },
+    {
+      "item_id": "distributor",
+      "question": "a company that supplies goods",
+      "correct": "distributor",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "distributor"
+    },
+    {
+      "item_id": "dive",
+      "question": "jump headfirst into water",
+      "correct": "dive",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "dive"
+    },
+    {
+      "item_id": "energetic",
+      "question": "full of energy",
+      "correct": "energetic",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "energetic"
+    },
+    {
+      "item_id": "environmentally",
+      "question": "in a way that protects nature",
+      "correct": "environmentally",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "environmentally"
+    },
+    {
+      "item_id": "escalator",
+      "question": "a moving staircase",
+      "correct": "escalator",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "escalator"
+    },
+    {
+      "item_id": "exotic",
+      "question": "strikingly foreign or unusual",
+      "correct": "exotic",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "exotic"
+    },
+    {
+      "item_id": "fabric",
+      "question": "woven cloth material",
+      "correct": "fabric",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "fabric"
+    },
+    {
+      "item_id": "generalization",
+      "question": "a statement that is too broad",
+      "correct": "generalization",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "generalization"
+    },
+    {
+      "item_id": "guidance",
+      "question": "helpful direction or advice",
+      "correct": "guidance",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "guidance"
+    },
+    {
+      "item_id": "gum",
+      "question": "chewing gum",
+      "correct": "gum",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "gum"
+    },
+    {
+      "item_id": "hesitant",
+      "question": "slow to act or decide",
+      "correct": "hesitant",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "hesitant"
+    },
+    {
+      "item_id": "indicator",
+      "question": "a sign that shows a condition",
+      "correct": "indicator",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "indicator"
+    },
+    {
+      "item_id": "individually",
+      "question": "one by one",
+      "correct": "individually",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "individually"
+    },
+    {
+      "item_id": "junior",
+      "question": "lower in rank",
+      "correct": "junior",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "junior"
+    },
+    {
+      "item_id": "lifestyle",
+      "question": "the way someone lives",
+      "correct": "lifestyle",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "lifestyle"
+    },
+    {
+      "item_id": "likewise",
+      "question": "in the same way",
+      "correct": "likewise",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "likewise"
+    },
+    {
+      "item_id": "morale",
+      "question": "team confidence and spirit",
+      "correct": "morale",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "morale"
+    },
+    {
+      "item_id": "orchestra",
+      "question": "a large group of musicians",
+      "correct": "orchestra",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "orchestra"
+    },
+    {
+      "item_id": "organizational",
+      "question": "about how a group is organized",
+      "correct": "organizational",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "organizational"
+    },
+    {
+      "item_id": "outlook",
+      "question": "an expected future situation",
+      "correct": "outlook",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "outlook"
+    },
+    {
+      "item_id": "physics",
+      "question": "the science of matter and energy",
+      "correct": "physics",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "physics"
+    },
+    {
+      "item_id": "pole",
+      "question": "a long thin rod",
+      "correct": "pole",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "pole"
+    },
+    {
+      "item_id": "puzzle",
+      "question": "a hard problem to explain",
+      "correct": "puzzle",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "puzzle"
+    },
+    {
+      "item_id": "reflexive",
+      "question": "done by automatic reaction",
+      "correct": "reflexive",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "reflexive"
+    },
+    {
+      "item_id": "snowy",
+      "question": "covered with snow",
+      "correct": "snowy",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "snowy"
+    },
+    {
+      "item_id": "steak",
+      "question": "a thick slice of beef",
+      "correct": "steak",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "steak"
+    },
+    {
+      "item_id": "sticker",
+      "question": "a small adhesive label",
+      "correct": "sticker",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "sticker"
+    },
+    {
+      "item_id": "telecommunication",
+      "question": "phone or network communication",
+      "correct": "telecommunication",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "telecommunication"
+    },
+    {
+      "item_id": "timely",
+      "question": "done at the right time",
+      "correct": "timely",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "timely"
+    },
+    {
+      "item_id": "uncomfortable",
+      "question": "not feeling at ease",
+      "correct": "uncomfortable",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "uncomfortable"
+    },
+    {
+      "item_id": "amenity",
+      "question": "a comfort for guests",
+      "correct": "amenity",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "amenity"
+    },
+    {
+      "item_id": "approximate",
+      "question": "close but not exact",
+      "correct": "approximate",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "approximate"
+    },
+    {
+      "item_id": "await",
+      "question": "wait for something",
+      "correct": "await",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "await"
+    },
+    {
+      "item_id": "barbecue",
+      "question": "a meal cooked on a grill",
+      "correct": "barbecue",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "barbecue"
+    },
+    {
+      "item_id": "beginner",
+      "question": "a person just starting",
+      "correct": "beginner",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "beginner"
+    },
+    {
+      "item_id": "biology",
+      "question": "the science of living things",
+      "correct": "biology",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "biology"
+    },
+    {
+      "item_id": "blanket",
+      "question": "a warm bed covering",
+      "correct": "blanket",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "blanket"
+    },
+    {
+      "item_id": "chairperson",
+      "question": "a person who leads a meeting",
+      "correct": "chairperson",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "chairperson"
+    },
+    {
+      "item_id": "charitable",
+      "question": "giving help to people in need",
+      "correct": "charitable",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "charitable"
+    },
+    {
+      "item_id": "checkup",
+      "question": "a routine health examination",
+      "correct": "checkup",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "checkup"
+    },
+    {
+      "item_id": "cooler",
+      "question": "a box that keeps drinks cold",
+      "correct": "cooler",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "cooler"
+    },
+    {
+      "item_id": "crane",
+      "question": "a machine that lifts heavy loads",
+      "correct": "crane",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "crane"
+    },
+    {
+      "item_id": "dealership",
+      "question": "a business that sells vehicles",
+      "correct": "dealership",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "dealership"
+    },
+    {
+      "item_id": "dependable",
+      "question": "able to be relied on",
+      "correct": "dependable",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "dependable"
+    },
+    {
+      "item_id": "disconnect",
+      "question": "break an electrical connection",
+      "correct": "disconnect",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "disconnect"
+    },
+    {
+      "item_id": "dispose",
+      "question": "throw something away",
+      "correct": "dispose",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "dispose"
+    },
+    {
+      "item_id": "disrupt",
+      "question": "interrupt the normal flow",
+      "correct": "disrupt",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "disrupt"
+    },
+    {
+      "item_id": "dynamic",
+      "question": "full of energy and change",
+      "correct": "dynamic",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "dynamic"
+    },
+    {
+      "item_id": "enthusiastically",
+      "question": "with strong eager energy",
+      "correct": "enthusiastically",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "enthusiastically"
+    },
+    {
+      "item_id": "freelance",
+      "question": "working independently for clients",
+      "correct": "freelance",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "freelance"
+    },
+    {
+      "item_id": "grill",
+      "question": "a metal cooking grate",
+      "correct": "grill",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "grill"
+    },
+    {
+      "item_id": "habitual",
+      "question": "done by habit",
+      "correct": "habitual",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "habitual"
+    },
+    {
+      "item_id": "internationally",
+      "question": "in many countries",
+      "correct": "internationally",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "internationally"
+    },
+    {
+      "item_id": "invaluable",
+      "question": "extremely useful",
+      "correct": "invaluable",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "invaluable"
+    },
+    {
+      "item_id": "messenger",
+      "question": "a person who delivers messages",
+      "correct": "messenger",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "messenger"
+    },
+    {
+      "item_id": "paperback",
+      "question": "a book with a soft cover",
+      "correct": "paperback",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "paperback"
+    },
+    {
+      "item_id": "rebate",
+      "question": "a partial refund",
+      "correct": "rebate",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "rebate"
+    },
+    {
+      "item_id": "recur",
+      "question": "happen again",
+      "correct": "recur",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "recur"
+    },
+    {
+      "item_id": "reproduce",
+      "question": "make a copy",
+      "correct": "reproduce",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "reproduce"
+    },
+    {
+      "item_id": "spray",
+      "question": "send liquid out in drops",
+      "correct": "spray",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "spray"
+    },
+    {
+      "item_id": "staple",
+      "question": "fasten papers with a metal clip",
+      "correct": "staple",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "staple"
+    },
+    {
+      "item_id": "strategic",
+      "question": "related to a long-term plan",
+      "correct": "strategic",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "strategic"
+    },
+    {
+      "item_id": "stripe",
+      "question": "a long narrow band",
+      "correct": "stripe",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "stripe"
+    },
+    {
+      "item_id": "teen",
+      "question": "a person aged thirteen to nineteen",
+      "correct": "teen",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "teen"
+    },
+    {
+      "item_id": "tempt",
+      "question": "attract someone strongly",
+      "correct": "tempt",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "tempt"
+    },
+    {
+      "item_id": "timer",
+      "question": "a device that measures time",
+      "correct": "timer",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "timer"
+    },
+    {
+      "item_id": "unload",
+      "question": "take cargo off a vehicle",
+      "correct": "unload",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "unload"
+    },
+    {
+      "item_id": "unusually",
+      "question": "in a rare way",
+      "correct": "unusually",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "unusually"
+    },
+    {
+      "item_id": "vacate",
+      "question": "leave a place empty",
+      "correct": "vacate",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "vacate"
+    },
+    {
+      "item_id": "whale",
+      "question": "a very large sea mammal",
+      "correct": "whale",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "whale"
+    },
+    {
+      "item_id": "wisely",
+      "question": "in a smart careful way",
+      "correct": "wisely",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "wisely"
+    },
+    {
+      "item_id": "amateur",
+      "question": "a person who is not a professional",
+      "correct": "amateur",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "amateur"
+    },
+    {
+      "item_id": "ambassador",
+      "question": "a country's official representative",
+      "correct": "ambassador",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "ambassador"
+    },
+    {
+      "item_id": "anew",
+      "question": "once more from the start",
+      "correct": "anew",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "anew"
+    },
+    {
+      "item_id": "architectural",
+      "question": "relating to building design",
+      "correct": "architectural",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "architectural"
+    },
+    {
+      "item_id": "attain",
+      "question": "reach a goal",
+      "correct": "attain",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "attain"
+    },
+    {
+      "item_id": "balloon",
+      "question": "a bag filled with air",
+      "correct": "balloon",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "balloon"
+    },
+    {
+      "item_id": "blueprint",
+      "question": "a detailed plan drawing",
+      "correct": "blueprint",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "blueprint"
+    },
+    {
+      "item_id": "bug",
+      "question": "a small insect",
+      "correct": "bug",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "bug"
+    },
+    {
+      "item_id": "cautious",
+      "question": "careful to avoid risk",
+      "correct": "cautious",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "cautious"
+    },
+    {
+      "item_id": "circuit",
+      "question": "a closed electrical path",
+      "correct": "circuit",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "circuit"
+    },
+    {
+      "item_id": "clap",
+      "question": "strike the palms together",
+      "correct": "clap",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "clap"
+    },
+    {
+      "item_id": "commerce",
+      "question": "buying and selling of goods",
+      "correct": "commerce",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "commerce"
+    },
+    {
+      "item_id": "convey",
+      "question": "communicate an idea",
+      "correct": "convey",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "convey"
+    },
+    {
+      "item_id": "cord",
+      "question": "a flexible electrical cable",
+      "correct": "cord",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "cord"
+    },
+    {
+      "item_id": "counselor",
+      "question": "a person who gives advice",
+      "correct": "counselor",
+      "wrong": [
+        "absorb",
+        "administer"
+      ],
+      "word": "counselor"
+    }
+  ]
+}

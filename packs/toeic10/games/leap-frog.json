@@ -1,0 +1,1008 @@
+{
+  "pack_id": "toeic10",
+  "title": "TOEIC 901–1000",
+  "module_id": "word_master",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "debit",
+      "question": "charge taken from an account",
+      "correct": "debit",
+      "wrong": [
+        "delicate",
+        "dependence"
+      ],
+      "word": "debit"
+    },
+    {
+      "item_id": "delicate",
+      "question": "easily damaged or very fine",
+      "correct": "delicate",
+      "wrong": [
+        "debit",
+        "dependence"
+      ],
+      "word": "delicate"
+    },
+    {
+      "item_id": "dependence",
+      "question": "need to rely on something",
+      "correct": "dependence",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "dependence"
+    },
+    {
+      "item_id": "distraction",
+      "question": "something that breaks concentration",
+      "correct": "distraction",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "distraction"
+    },
+    {
+      "item_id": "downsize",
+      "question": "reduce staff or operations",
+      "correct": "downsize",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "downsize"
+    },
+    {
+      "item_id": "elephant",
+      "question": "very large land animal",
+      "correct": "elephant",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "elephant"
+    },
+    {
+      "item_id": "enthusiasm",
+      "question": "strong eager interest",
+      "correct": "enthusiasm",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "enthusiasm"
+    },
+    {
+      "item_id": "enthusiast",
+      "question": "person with strong interest",
+      "correct": "enthusiast",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "enthusiast"
+    },
+    {
+      "item_id": "evident",
+      "question": "easy to see or notice",
+      "correct": "evident",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "evident"
+    },
+    {
+      "item_id": "flexibility",
+      "question": "ability to change easily",
+      "correct": "flexibility",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "flexibility"
+    },
+    {
+      "item_id": "flextime",
+      "question": "flexible daily work hours",
+      "correct": "flextime",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "flextime"
+    },
+    {
+      "item_id": "fortunately",
+      "question": "by good luck",
+      "correct": "fortunately",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "fortunately"
+    },
+    {
+      "item_id": "freighter",
+      "question": "ship that carries cargo",
+      "correct": "freighter",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "freighter"
+    },
+    {
+      "item_id": "generator",
+      "question": "machine that makes electricity",
+      "correct": "generator",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "generator"
+    },
+    {
+      "item_id": "hallway",
+      "question": "indoor passage between rooms",
+      "correct": "hallway",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "hallway"
+    },
+    {
+      "item_id": "hamburger",
+      "question": "beef patty in a bun",
+      "correct": "hamburger",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "hamburger"
+    },
+    {
+      "item_id": "hazard",
+      "question": "source of danger",
+      "correct": "hazard",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "hazard"
+    },
+    {
+      "item_id": "homeowner",
+      "question": "person who owns a home",
+      "correct": "homeowner",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "homeowner"
+    },
+    {
+      "item_id": "imperative",
+      "question": "absolutely necessary",
+      "correct": "imperative",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "imperative"
+    },
+    {
+      "item_id": "inflate",
+      "question": "fill with air",
+      "correct": "inflate",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "inflate"
+    },
+    {
+      "item_id": "insert",
+      "question": "put something inside",
+      "correct": "insert",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "insert"
+    },
+    {
+      "item_id": "lecturer",
+      "question": "person who gives a lecture",
+      "correct": "lecturer",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "lecturer"
+    },
+    {
+      "item_id": "meaningful",
+      "question": "having real importance",
+      "correct": "meaningful",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "meaningful"
+    },
+    {
+      "item_id": "memorize",
+      "question": "learn so you can remember",
+      "correct": "memorize",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "memorize"
+    },
+    {
+      "item_id": "merchant",
+      "question": "person who sells goods",
+      "correct": "merchant",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "merchant"
+    },
+    {
+      "item_id": "modification",
+      "question": "small change to something",
+      "correct": "modification",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "modification"
+    },
+    {
+      "item_id": "occupant",
+      "question": "person using a room or space",
+      "correct": "occupant",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "occupant"
+    },
+    {
+      "item_id": "overcharge",
+      "question": "charge more than is due",
+      "correct": "overcharge",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "overcharge"
+    },
+    {
+      "item_id": "oversee",
+      "question": "watch and direct work",
+      "correct": "oversee",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "oversee"
+    },
+    {
+      "item_id": "petition",
+      "question": "formal written request",
+      "correct": "petition",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "petition"
+    },
+    {
+      "item_id": "pillow",
+      "question": "soft cushion for the head",
+      "correct": "pillow",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "pillow"
+    },
+    {
+      "item_id": "popcorn",
+      "question": "popped corn snack",
+      "correct": "popcorn",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "popcorn"
+    },
+    {
+      "item_id": "pottery",
+      "question": "objects made from fired clay",
+      "correct": "pottery",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "pottery"
+    },
+    {
+      "item_id": "professionally",
+      "question": "in a skilled business manner",
+      "correct": "professionally",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "professionally"
+    },
+    {
+      "item_id": "publicize",
+      "question": "make known to the public",
+      "correct": "publicize",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "publicize"
+    },
+    {
+      "item_id": "ray",
+      "question": "narrow beam of light",
+      "correct": "ray",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "ray"
+    },
+    {
+      "item_id": "redecorate",
+      "question": "change a room's decoration",
+      "correct": "redecorate",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "redecorate"
+    },
+    {
+      "item_id": "refinery",
+      "question": "plant that refines raw oil",
+      "correct": "refinery",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "refinery"
+    },
+    {
+      "item_id": "refresh",
+      "question": "bring up to date",
+      "correct": "refresh",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "refresh"
+    },
+    {
+      "item_id": "refundable",
+      "question": "able to be paid back",
+      "correct": "refundable",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "refundable"
+    },
+    {
+      "item_id": "reimbursement",
+      "question": "money paid back for costs",
+      "correct": "reimbursement",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "reimbursement"
+    },
+    {
+      "item_id": "reliability",
+      "question": "quality of being dependable",
+      "correct": "reliability",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "reliability"
+    },
+    {
+      "item_id": "reluctant",
+      "question": "unwilling to do something",
+      "correct": "reluctant",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "reluctant"
+    },
+    {
+      "item_id": "sewer",
+      "question": "underground pipe for waste",
+      "correct": "sewer",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "sewer"
+    },
+    {
+      "item_id": "skate",
+      "question": "boot with a blade or wheels",
+      "correct": "skate",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "skate"
+    },
+    {
+      "item_id": "skateboard",
+      "question": "board with small wheels",
+      "correct": "skateboard",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "skateboard"
+    },
+    {
+      "item_id": "sleepy",
+      "question": "ready to fall asleep",
+      "correct": "sleepy",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "sleepy"
+    },
+    {
+      "item_id": "tailor",
+      "question": "person who makes clothes",
+      "correct": "tailor",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "tailor"
+    },
+    {
+      "item_id": "termination",
+      "question": "official ending of something",
+      "correct": "termination",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "termination"
+    },
+    {
+      "item_id": "theft",
+      "question": "act of stealing",
+      "correct": "theft",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "theft"
+    },
+    {
+      "item_id": "thunderstorm",
+      "question": "storm with thunder and lightning",
+      "correct": "thunderstorm",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "thunderstorm"
+    },
+    {
+      "item_id": "transmission",
+      "question": "sending of a signal or message",
+      "correct": "transmission",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "transmission"
+    },
+    {
+      "item_id": "transmit",
+      "question": "send a signal or message",
+      "correct": "transmit",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "transmit"
+    },
+    {
+      "item_id": "unused",
+      "question": "not yet used",
+      "correct": "unused",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "unused"
+    },
+    {
+      "item_id": "waive",
+      "question": "officially give up a charge",
+      "correct": "waive",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "waive"
+    },
+    {
+      "item_id": "yen",
+      "question": "currency of Japan",
+      "correct": "yen",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "yen"
+    },
+    {
+      "item_id": "activate",
+      "question": "make something start working",
+      "correct": "activate",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "activate"
+    },
+    {
+      "item_id": "additionally",
+      "question": "as an extra point",
+      "correct": "additionally",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "additionally"
+    },
+    {
+      "item_id": "affirmative",
+      "question": "showing yes or agreement",
+      "correct": "affirmative",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "affirmative"
+    },
+    {
+      "item_id": "baker",
+      "question": "person who bakes bread",
+      "correct": "baker",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "baker"
+    },
+    {
+      "item_id": "brainstorm",
+      "question": "suggest ideas in a group",
+      "correct": "brainstorm",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "brainstorm"
+    },
+    {
+      "item_id": "cage",
+      "question": "barred enclosure for storage",
+      "correct": "cage",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "cage"
+    },
+    {
+      "item_id": "cinema",
+      "question": "place that shows films",
+      "correct": "cinema",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "cinema"
+    },
+    {
+      "item_id": "collaboration",
+      "question": "working together on a task",
+      "correct": "collaboration",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "collaboration"
+    },
+    {
+      "item_id": "condominium",
+      "question": "apartment unit that you own",
+      "correct": "condominium",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "condominium"
+    },
+    {
+      "item_id": "consecutive",
+      "question": "following one after another",
+      "correct": "consecutive",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "consecutive"
+    },
+    {
+      "item_id": "cordless",
+      "question": "working without a cord",
+      "correct": "cordless",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "cordless"
+    },
+    {
+      "item_id": "deluxe",
+      "question": "of high luxury quality",
+      "correct": "deluxe",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "deluxe"
+    },
+    {
+      "item_id": "desirable",
+      "question": "worth having or wanting",
+      "correct": "desirable",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "desirable"
+    },
+    {
+      "item_id": "discrepancy",
+      "question": "difference between two records",
+      "correct": "discrepancy",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "discrepancy"
+    },
+    {
+      "item_id": "dispatch",
+      "question": "send someone out on a job",
+      "correct": "dispatch",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "dispatch"
+    },
+    {
+      "item_id": "drawback",
+      "question": "disadvantage of a plan",
+      "correct": "drawback",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "drawback"
+    },
+    {
+      "item_id": "dull",
+      "question": "not interesting",
+      "correct": "dull",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "dull"
+    },
+    {
+      "item_id": "economically",
+      "question": "in a money-saving way",
+      "correct": "economically",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "economically"
+    },
+    {
+      "item_id": "evenly",
+      "question": "in equal shares",
+      "correct": "evenly",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "evenly"
+    },
+    {
+      "item_id": "excellence",
+      "question": "very high quality",
+      "correct": "excellence",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "excellence"
+    },
+    {
+      "item_id": "exclusively",
+      "question": "only for a stated group",
+      "correct": "exclusively",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "exclusively"
+    },
+    {
+      "item_id": "farewell",
+      "question": "goodbye when someone leaves",
+      "correct": "farewell",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "farewell"
+    },
+    {
+      "item_id": "fatigue",
+      "question": "great physical tiredness",
+      "correct": "fatigue",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "fatigue"
+    },
+    {
+      "item_id": "fiscal",
+      "question": "related to budgets and money",
+      "correct": "fiscal",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "fiscal"
+    },
+    {
+      "item_id": "fleet",
+      "question": "group of ships or vehicles",
+      "correct": "fleet",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "fleet"
+    },
+    {
+      "item_id": "flour",
+      "question": "powder ground from grain",
+      "correct": "flour",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "flour"
+    },
+    {
+      "item_id": "fog",
+      "question": "thick cloud near the ground",
+      "correct": "fog",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "fog"
+    },
+    {
+      "item_id": "formally",
+      "question": "in an official manner",
+      "correct": "formally",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "formally"
+    },
+    {
+      "item_id": "gram",
+      "question": "small metric unit of weight",
+      "correct": "gram",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "gram"
+    },
+    {
+      "item_id": "handbook",
+      "question": "small book of work rules",
+      "correct": "handbook",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "handbook"
+    },
+    {
+      "item_id": "headphone",
+      "question": "device worn over the ears",
+      "correct": "headphone",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "headphone"
+    },
+    {
+      "item_id": "heater",
+      "question": "device that warms a room",
+      "correct": "heater",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "heater"
+    },
+    {
+      "item_id": "helmet",
+      "question": "hard hat protecting the head",
+      "correct": "helmet",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "helmet"
+    },
+    {
+      "item_id": "hiker",
+      "question": "person who walks long trails",
+      "correct": "hiker",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "hiker"
+    },
+    {
+      "item_id": "homeless",
+      "question": "without a place to live",
+      "correct": "homeless",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "homeless"
+    },
+    {
+      "item_id": "lighter",
+      "question": "small device that makes flame",
+      "correct": "lighter",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "lighter"
+    },
+    {
+      "item_id": "loudly",
+      "question": "in a strong voice",
+      "correct": "loudly",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "loudly"
+    },
+    {
+      "item_id": "loyalty",
+      "question": "faithful continued support",
+      "correct": "loyalty",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "loyalty"
+    },
+    {
+      "item_id": "microwave",
+      "question": "oven that heats food fast",
+      "correct": "microwave",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "microwave"
+    },
+    {
+      "item_id": "misidentify",
+      "question": "identify someone or something wrongly",
+      "correct": "misidentify",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "misidentify"
+    },
+    {
+      "item_id": "neat",
+      "question": "tidy and orderly",
+      "correct": "neat",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "neat"
+    },
+    {
+      "item_id": "nomination",
+      "question": "official naming of a candidate",
+      "correct": "nomination",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "nomination"
+    },
+    {
+      "item_id": "officially",
+      "question": "with official authority",
+      "correct": "officially",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "officially"
+    },
+    {
+      "item_id": "outfit",
+      "question": "set of clothes worn together",
+      "correct": "outfit",
+      "wrong": [
+        "debit",
+        "delicate"
+      ],
+      "word": "outfit"
+    }
+  ]
+}

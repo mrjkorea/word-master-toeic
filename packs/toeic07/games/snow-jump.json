@@ -1,0 +1,1008 @@
+{
+  "pack_id": "toeic07",
+  "title": "TOEIC 601–700",
+  "module_id": "snow_jump",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "fasten",
+      "question": "secure a belt or strap",
+      "correct": "fasten",
+      "wrong": [
+        "harmful",
+        "informative"
+      ],
+      "word": "fasten"
+    },
+    {
+      "item_id": "harmful",
+      "question": "causing damage or injury",
+      "correct": "harmful",
+      "wrong": [
+        "fasten",
+        "informative"
+      ],
+      "word": "harmful"
+    },
+    {
+      "item_id": "informative",
+      "question": "full of useful information",
+      "correct": "informative",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "informative"
+    },
+    {
+      "item_id": "institute",
+      "question": "an organization for training",
+      "correct": "institute",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "institute"
+    },
+    {
+      "item_id": "kit",
+      "question": "a set of supplies",
+      "correct": "kit",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "kit"
+    },
+    {
+      "item_id": "locally",
+      "question": "in the nearby area",
+      "correct": "locally",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "locally"
+    },
+    {
+      "item_id": "mentor",
+      "question": "an experienced workplace guide",
+      "correct": "mentor",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "mentor"
+    },
+    {
+      "item_id": "nominate",
+      "question": "propose someone for a role",
+      "correct": "nominate",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "nominate"
+    },
+    {
+      "item_id": "opt",
+      "question": "choose one option",
+      "correct": "opt",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "opt"
+    },
+    {
+      "item_id": "parade",
+      "question": "a public procession",
+      "correct": "parade",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "parade"
+    },
+    {
+      "item_id": "physician",
+      "question": "a medical doctor",
+      "correct": "physician",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "physician"
+    },
+    {
+      "item_id": "polish",
+      "question": "make a surface shine",
+      "correct": "polish",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "polish"
+    },
+    {
+      "item_id": "postage",
+      "question": "the cost of mailing",
+      "correct": "postage",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "postage"
+    },
+    {
+      "item_id": "recreational",
+      "question": "meant for leisure",
+      "correct": "recreational",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "recreational"
+    },
+    {
+      "item_id": "rehearse",
+      "question": "practice before a performance",
+      "correct": "rehearse",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "rehearse"
+    },
+    {
+      "item_id": "removal",
+      "question": "taking something away",
+      "correct": "removal",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "removal"
+    },
+    {
+      "item_id": "satisfactory",
+      "question": "good enough to accept",
+      "correct": "satisfactory",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "satisfactory"
+    },
+    {
+      "item_id": "seasonal",
+      "question": "occurring in one season",
+      "correct": "seasonal",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "seasonal"
+    },
+    {
+      "item_id": "separately",
+      "question": "apart from each other",
+      "correct": "separately",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "separately"
+    },
+    {
+      "item_id": "turnover",
+      "question": "rate of staff leaving",
+      "correct": "turnover",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "turnover"
+    },
+    {
+      "item_id": "unnecessary",
+      "question": "not needed",
+      "correct": "unnecessary",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "unnecessary"
+    },
+    {
+      "item_id": "accordingly",
+      "question": "in a fitting way",
+      "correct": "accordingly",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "accordingly"
+    },
+    {
+      "item_id": "apple",
+      "question": "a round edible fruit",
+      "correct": "apple",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "apple"
+    },
+    {
+      "item_id": "applicable",
+      "question": "relevant to this case",
+      "correct": "applicable",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "applicable"
+    },
+    {
+      "item_id": "auction",
+      "question": "a public sale by bids",
+      "correct": "auction",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "auction"
+    },
+    {
+      "item_id": "balcony",
+      "question": "an outdoor platform upstairs",
+      "correct": "balcony",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "balcony"
+    },
+    {
+      "item_id": "basement",
+      "question": "a floor below ground",
+      "correct": "basement",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "basement"
+    },
+    {
+      "item_id": "beforehand",
+      "question": "before something happens",
+      "correct": "beforehand",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "beforehand"
+    },
+    {
+      "item_id": "culinary",
+      "question": "related to cooking",
+      "correct": "culinary",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "culinary"
+    },
+    {
+      "item_id": "documentary",
+      "question": "a factual film",
+      "correct": "documentary",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "documentary"
+    },
+    {
+      "item_id": "downturn",
+      "question": "a drop in business",
+      "correct": "downturn",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "downturn"
+    },
+    {
+      "item_id": "earthquake",
+      "question": "a sudden shaking of ground",
+      "correct": "earthquake",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "earthquake"
+    },
+    {
+      "item_id": "elegant",
+      "question": "graceful and stylish",
+      "correct": "elegant",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "elegant"
+    },
+    {
+      "item_id": "excessive",
+      "question": "more than is reasonable",
+      "correct": "excessive",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "excessive"
+    },
+    {
+      "item_id": "generic",
+      "question": "not a specific brand",
+      "correct": "generic",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "generic"
+    },
+    {
+      "item_id": "jazz",
+      "question": "a style of music",
+      "correct": "jazz",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "jazz"
+    },
+    {
+      "item_id": "lifetime",
+      "question": "the length of a life",
+      "correct": "lifetime",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "lifetime"
+    },
+    {
+      "item_id": "massage",
+      "question": "rubbing muscles to relax",
+      "correct": "massage",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "massage"
+    },
+    {
+      "item_id": "maximize",
+      "question": "make as large as possible",
+      "correct": "maximize",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "maximize"
+    },
+    {
+      "item_id": "mild",
+      "question": "not strong or severe",
+      "correct": "mild",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "mild"
+    },
+    {
+      "item_id": "ongoing",
+      "question": "still continuing",
+      "correct": "ongoing",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "ongoing"
+    },
+    {
+      "item_id": "periodically",
+      "question": "at regular intervals",
+      "correct": "periodically",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "periodically"
+    },
+    {
+      "item_id": "pie",
+      "question": "a baked filled pastry",
+      "correct": "pie",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "pie"
+    },
+    {
+      "item_id": "plug",
+      "question": "a connector for electricity",
+      "correct": "plug",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "plug"
+    },
+    {
+      "item_id": "recruitment",
+      "question": "the process of hiring",
+      "correct": "recruitment",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "recruitment"
+    },
+    {
+      "item_id": "referee",
+      "question": "an official in a sport",
+      "correct": "referee",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "referee"
+    },
+    {
+      "item_id": "referral",
+      "question": "a recommendation to a service",
+      "correct": "referral",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "referral"
+    },
+    {
+      "item_id": "renown",
+      "question": "widespread fame",
+      "correct": "renown",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "renown"
+    },
+    {
+      "item_id": "runner",
+      "question": "a person who runs",
+      "correct": "runner",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "runner"
+    },
+    {
+      "item_id": "sock",
+      "question": "a soft foot covering",
+      "correct": "sock",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "sock"
+    },
+    {
+      "item_id": "spam",
+      "question": "unwanted junk email",
+      "correct": "spam",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "spam"
+    },
+    {
+      "item_id": "surf",
+      "question": "ride ocean waves",
+      "correct": "surf",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "surf"
+    },
+    {
+      "item_id": "timetable",
+      "question": "a schedule of times",
+      "correct": "timetable",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "timetable"
+    },
+    {
+      "item_id": "vase",
+      "question": "a container for flowers",
+      "correct": "vase",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "vase"
+    },
+    {
+      "item_id": "aboard",
+      "question": "on a ship or plane",
+      "correct": "aboard",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "aboard"
+    },
+    {
+      "item_id": "advancement",
+      "question": "progress to a higher role",
+      "correct": "advancement",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "advancement"
+    },
+    {
+      "item_id": "advertiser",
+      "question": "a firm that advertises",
+      "correct": "advertiser",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "advertiser"
+    },
+    {
+      "item_id": "alternatively",
+      "question": "as another choice",
+      "correct": "alternatively",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "alternatively"
+    },
+    {
+      "item_id": "amuse",
+      "question": "entertain and make smile",
+      "correct": "amuse",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "amuse"
+    },
+    {
+      "item_id": "attorney",
+      "question": "a lawyer",
+      "correct": "attorney",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "attorney"
+    },
+    {
+      "item_id": "authorization",
+      "question": "official permission",
+      "correct": "authorization",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "authorization"
+    },
+    {
+      "item_id": "campus",
+      "question": "grounds of an institution",
+      "correct": "campus",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "campus"
+    },
+    {
+      "item_id": "candy",
+      "question": "a small sweet food",
+      "correct": "candy",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "candy"
+    },
+    {
+      "item_id": "certify",
+      "question": "officially confirm as true",
+      "correct": "certify",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "certify"
+    },
+    {
+      "item_id": "checkout",
+      "question": "paying and leaving a hotel",
+      "correct": "checkout",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "checkout"
+    },
+    {
+      "item_id": "chemistry",
+      "question": "the science of substances",
+      "correct": "chemistry",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "chemistry"
+    },
+    {
+      "item_id": "circulation",
+      "question": "copies of a publication",
+      "correct": "circulation",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "circulation"
+    },
+    {
+      "item_id": "concierge",
+      "question": "a hotel guest assistant",
+      "correct": "concierge",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "concierge"
+    },
+    {
+      "item_id": "consent",
+      "question": "permission given freely",
+      "correct": "consent",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "consent"
+    },
+    {
+      "item_id": "consistently",
+      "question": "in a steady regular way",
+      "correct": "consistently",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "consistently"
+    },
+    {
+      "item_id": "cookie",
+      "question": "a small sweet biscuit",
+      "correct": "cookie",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "cookie"
+    },
+    {
+      "item_id": "deck",
+      "question": "an open outdoor floor",
+      "correct": "deck",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "deck"
+    },
+    {
+      "item_id": "descriptive",
+      "question": "giving a clear description",
+      "correct": "descriptive",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "descriptive"
+    },
+    {
+      "item_id": "detach",
+      "question": "separate from something",
+      "correct": "detach",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "detach"
+    },
+    {
+      "item_id": "documentation",
+      "question": "official papers and records",
+      "correct": "documentation",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "documentation"
+    },
+    {
+      "item_id": "entrepreneur",
+      "question": "a person who starts a business",
+      "correct": "entrepreneur",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "entrepreneur"
+    },
+    {
+      "item_id": "exceptional",
+      "question": "unusually excellent",
+      "correct": "exceptional",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "exceptional"
+    },
+    {
+      "item_id": "familiarize",
+      "question": "make known and accustomed",
+      "correct": "familiarize",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "familiarize"
+    },
+    {
+      "item_id": "hotline",
+      "question": "a direct help phone line",
+      "correct": "hotline",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "hotline"
+    },
+    {
+      "item_id": "intonation",
+      "question": "rise and fall of the voice",
+      "correct": "intonation",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "intonation"
+    },
+    {
+      "item_id": "invention",
+      "question": "a newly created device",
+      "correct": "invention",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "invention"
+    },
+    {
+      "item_id": "irritate",
+      "question": "annoy or cause discomfort",
+      "correct": "irritate",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "irritate"
+    },
+    {
+      "item_id": "locker",
+      "question": "a lockable storage compartment",
+      "correct": "locker",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "locker"
+    },
+    {
+      "item_id": "overlook",
+      "question": "have a view from above",
+      "correct": "overlook",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "overlook"
+    },
+    {
+      "item_id": "patent",
+      "question": "a legal right to an invention",
+      "correct": "patent",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "patent"
+    },
+    {
+      "item_id": "payable",
+      "question": "due to be paid",
+      "correct": "payable",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "payable"
+    },
+    {
+      "item_id": "preliminary",
+      "question": "coming before the main part",
+      "correct": "preliminary",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "preliminary"
+    },
+    {
+      "item_id": "salesman",
+      "question": "a man who sells goods",
+      "correct": "salesman",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "salesman"
+    },
+    {
+      "item_id": "sauna",
+      "question": "a hot steam room",
+      "correct": "sauna",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "sauna"
+    },
+    {
+      "item_id": "smoothly",
+      "question": "without difficulty",
+      "correct": "smoothly",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "smoothly"
+    },
+    {
+      "item_id": "sunshine",
+      "question": "bright light from the sun",
+      "correct": "sunshine",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "sunshine"
+    },
+    {
+      "item_id": "tow",
+      "question": "pull a vehicle with another",
+      "correct": "tow",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "tow"
+    },
+    {
+      "item_id": "translator",
+      "question": "a person who translates",
+      "correct": "translator",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "translator"
+    },
+    {
+      "item_id": "tuition",
+      "question": "fees for instruction",
+      "correct": "tuition",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "tuition"
+    },
+    {
+      "item_id": "unavailable",
+      "question": "not free or reachable",
+      "correct": "unavailable",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "unavailable"
+    },
+    {
+      "item_id": "violation",
+      "question": "breaking a rule",
+      "correct": "violation",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "violation"
+    },
+    {
+      "item_id": "webpage",
+      "question": "a page on a website",
+      "correct": "webpage",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "webpage"
+    },
+    {
+      "item_id": "acceptance",
+      "question": "agreement to receive or approve",
+      "correct": "acceptance",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "acceptance"
+    },
+    {
+      "item_id": "allocate",
+      "question": "assign for a purpose",
+      "correct": "allocate",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "allocate"
+    },
+    {
+      "item_id": "ambitious",
+      "question": "eager for success",
+      "correct": "ambitious",
+      "wrong": [
+        "fasten",
+        "harmful"
+      ],
+      "word": "ambitious"
+    }
+  ]
+}

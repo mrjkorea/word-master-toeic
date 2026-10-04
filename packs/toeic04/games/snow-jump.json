@@ -1,0 +1,1008 @@
+{
+  "pack_id": "toeic04",
+  "title": "TOEIC 301–400",
+  "module_id": "snow_jump",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "pet",
+      "question": "animal kept as a companion",
+      "correct": "pet",
+      "wrong": [
+        "textbook",
+        "accurately"
+      ],
+      "word": "pet"
+    },
+    {
+      "item_id": "textbook",
+      "question": "book used for a course",
+      "correct": "textbook",
+      "wrong": [
+        "pet",
+        "accurately"
+      ],
+      "word": "textbook"
+    },
+    {
+      "item_id": "accurately",
+      "question": "in a correct exact way",
+      "correct": "accurately",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "accurately"
+    },
+    {
+      "item_id": "cabin",
+      "question": "passenger area on a plane",
+      "correct": "cabin",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "cabin"
+    },
+    {
+      "item_id": "conductor",
+      "question": "officer who checks train tickets",
+      "correct": "conductor",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "conductor"
+    },
+    {
+      "item_id": "inspector",
+      "question": "official who checks for compliance",
+      "correct": "inspector",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "inspector"
+    },
+    {
+      "item_id": "intern",
+      "question": "trainee working in an office",
+      "correct": "intern",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "intern"
+    },
+    {
+      "item_id": "semester",
+      "question": "half of an academic year",
+      "correct": "semester",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "semester"
+    },
+    {
+      "item_id": "confirmation",
+      "question": "official statement that a booking is set",
+      "correct": "confirmation",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "confirmation"
+    },
+    {
+      "item_id": "congratulation",
+      "question": "expression of pleasure at success",
+      "correct": "congratulation",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "congratulation"
+    },
+    {
+      "item_id": "expertise",
+      "question": "special skill from experience",
+      "correct": "expertise",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "expertise"
+    },
+    {
+      "item_id": "graph",
+      "question": "chart showing number data",
+      "correct": "graph",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "graph"
+    },
+    {
+      "item_id": "taker",
+      "question": "person who accepts an offer",
+      "correct": "taker",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "taker"
+    },
+    {
+      "item_id": "utility",
+      "question": "company supplying power or water",
+      "correct": "utility",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "utility"
+    },
+    {
+      "item_id": "voucher",
+      "question": "coupon exchanged for a service",
+      "correct": "voucher",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "voucher"
+    },
+    {
+      "item_id": "banker",
+      "question": "person who works at a bank",
+      "correct": "banker",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "banker"
+    },
+    {
+      "item_id": "behalf",
+      "question": "as the representative of someone",
+      "correct": "behalf",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "behalf"
+    },
+    {
+      "item_id": "minimize",
+      "question": "reduce to the smallest amount",
+      "correct": "minimize",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "minimize"
+    },
+    {
+      "item_id": "optional",
+      "question": "available but not required",
+      "correct": "optional",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "optional"
+    },
+    {
+      "item_id": "paycheck",
+      "question": "payment received for work",
+      "correct": "paycheck",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "paycheck"
+    },
+    {
+      "item_id": "polite",
+      "question": "showing good manners",
+      "correct": "polite",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "polite"
+    },
+    {
+      "item_id": "protective",
+      "question": "meant to guard against harm",
+      "correct": "protective",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "protective"
+    },
+    {
+      "item_id": "seller",
+      "question": "person who sells goods",
+      "correct": "seller",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "seller"
+    },
+    {
+      "item_id": "sidewalk",
+      "question": "path for people beside a street",
+      "correct": "sidewalk",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "sidewalk"
+    },
+    {
+      "item_id": "sightsee",
+      "question": "visit places as a tourist",
+      "correct": "sightsee",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "sightsee"
+    },
+    {
+      "item_id": "soup",
+      "question": "liquid food served in a bowl",
+      "correct": "soup",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "soup"
+    },
+    {
+      "item_id": "transit",
+      "question": "movement of goods on the way",
+      "correct": "transit",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "transit"
+    },
+    {
+      "item_id": "wallet",
+      "question": "small case for money and cards",
+      "correct": "wallet",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "wallet"
+    },
+    {
+      "item_id": "cashier",
+      "question": "person who takes customer payments",
+      "correct": "cashier",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "cashier"
+    },
+    {
+      "item_id": "casual",
+      "question": "relaxed and not formal",
+      "correct": "casual",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "casual"
+    },
+    {
+      "item_id": "drill",
+      "question": "tool for making holes",
+      "correct": "drill",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "drill"
+    },
+    {
+      "item_id": "fountain",
+      "question": "water spraying up in a basin",
+      "correct": "fountain",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "fountain"
+    },
+    {
+      "item_id": "juice",
+      "question": "drink pressed from fruit",
+      "correct": "juice",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "juice"
+    },
+    {
+      "item_id": "lane",
+      "question": "marked strip of a road",
+      "correct": "lane",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "lane"
+    },
+    {
+      "item_id": "popularity",
+      "question": "state of being widely liked",
+      "correct": "popularity",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "popularity"
+    },
+    {
+      "item_id": "poster",
+      "question": "large printed sheet on a wall",
+      "correct": "poster",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "poster"
+    },
+    {
+      "item_id": "promptly",
+      "question": "without delay",
+      "correct": "promptly",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "promptly"
+    },
+    {
+      "item_id": "retailer",
+      "question": "business that sells to consumers",
+      "correct": "retailer",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "retailer"
+    },
+    {
+      "item_id": "vacancy",
+      "question": "room still available to book",
+      "correct": "vacancy",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "vacancy"
+    },
+    {
+      "item_id": "bench",
+      "question": "long seat for several people",
+      "correct": "bench",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "bench"
+    },
+    {
+      "item_id": "cumulative",
+      "question": "growing by added totals",
+      "correct": "cumulative",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "cumulative"
+    },
+    {
+      "item_id": "directory",
+      "question": "list of names and contacts",
+      "correct": "directory",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "directory"
+    },
+    {
+      "item_id": "disposal",
+      "question": "act of throwing something away",
+      "correct": "disposal",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "disposal"
+    },
+    {
+      "item_id": "housekeeper",
+      "question": "staff member who cleans hotel rooms",
+      "correct": "housekeeper",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "housekeeper"
+    },
+    {
+      "item_id": "internship",
+      "question": "temporary training job",
+      "correct": "internship",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "internship"
+    },
+    {
+      "item_id": "knowledgeable",
+      "question": "having solid useful knowledge",
+      "correct": "knowledgeable",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "knowledgeable"
+    },
+    {
+      "item_id": "organizer",
+      "question": "person who plans an event",
+      "correct": "organizer",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "organizer"
+    },
+    {
+      "item_id": "overdue",
+      "question": "not paid by the due date",
+      "correct": "overdue",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "overdue"
+    },
+    {
+      "item_id": "prediction",
+      "question": "statement about a future result",
+      "correct": "prediction",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "prediction"
+    },
+    {
+      "item_id": "subscriber",
+      "question": "person who pays for regular issues",
+      "correct": "subscriber",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "subscriber"
+    },
+    {
+      "item_id": "booklet",
+      "question": "small thin book of information",
+      "correct": "booklet",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "booklet"
+    },
+    {
+      "item_id": "conditioner",
+      "question": "hair product used after shampoo",
+      "correct": "conditioner",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "conditioner"
+    },
+    {
+      "item_id": "enroll",
+      "question": "register for a course",
+      "correct": "enroll",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "enroll"
+    },
+    {
+      "item_id": "frustrate",
+      "question": "make someone feel blocked",
+      "correct": "frustrate",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "frustrate"
+    },
+    {
+      "item_id": "garment",
+      "question": "piece of clothing",
+      "correct": "garment",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "garment"
+    },
+    {
+      "item_id": "orientation",
+      "question": "introductory session for new staff",
+      "correct": "orientation",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "orientation"
+    },
+    {
+      "item_id": "outlet",
+      "question": "socket for an electrical plug",
+      "correct": "outlet",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "outlet"
+    },
+    {
+      "item_id": "packet",
+      "question": "small sealed set of documents",
+      "correct": "packet",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "packet"
+    },
+    {
+      "item_id": "plumber",
+      "question": "worker who fixes pipes",
+      "correct": "plumber",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "plumber"
+    },
+    {
+      "item_id": "specification",
+      "question": "detailed description of requirements",
+      "correct": "specification",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "specification"
+    },
+    {
+      "item_id": "auto",
+      "question": "car used for transport",
+      "correct": "auto",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "auto"
+    },
+    {
+      "item_id": "decorate",
+      "question": "add attractive items to a place",
+      "correct": "decorate",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "decorate"
+    },
+    {
+      "item_id": "deduction",
+      "question": "amount subtracted from pay",
+      "correct": "deduction",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "deduction"
+    },
+    {
+      "item_id": "definite",
+      "question": "clear and firmly decided",
+      "correct": "definite",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "definite"
+    },
+    {
+      "item_id": "economical",
+      "question": "saving money in use",
+      "correct": "economical",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "economical"
+    },
+    {
+      "item_id": "efficiently",
+      "question": "in a way that wastes little",
+      "correct": "efficiently",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "efficiently"
+    },
+    {
+      "item_id": "flyer",
+      "question": "printed sheet advertising an event",
+      "correct": "flyer",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "flyer"
+    },
+    {
+      "item_id": "franchise",
+      "question": "right to run a branded business",
+      "correct": "franchise",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "franchise"
+    },
+    {
+      "item_id": "generous",
+      "question": "giving more than expected",
+      "correct": "generous",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "generous"
+    },
+    {
+      "item_id": "interrupt",
+      "question": "stop someone while they speak",
+      "correct": "interrupt",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "interrupt"
+    },
+    {
+      "item_id": "oven",
+      "question": "enclosed appliance for baking",
+      "correct": "oven",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "oven"
+    },
+    {
+      "item_id": "pant",
+      "question": "trousers worn on the legs",
+      "correct": "pant",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "pant"
+    },
+    {
+      "item_id": "profitable",
+      "question": "making more money than spent",
+      "correct": "profitable",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "profitable"
+    },
+    {
+      "item_id": "refrigerator",
+      "question": "appliance that keeps food cold",
+      "correct": "refrigerator",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "refrigerator"
+    },
+    {
+      "item_id": "reimburse",
+      "question": "pay someone back for expenses",
+      "correct": "reimburse",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "reimburse"
+    },
+    {
+      "item_id": "showroom",
+      "question": "room where products are displayed",
+      "correct": "showroom",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "showroom"
+    },
+    {
+      "item_id": "vegetarian",
+      "question": "person who does not eat meat",
+      "correct": "vegetarian",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "vegetarian"
+    },
+    {
+      "item_id": "administrator",
+      "question": "person who manages office operations",
+      "correct": "administrator",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "administrator"
+    },
+    {
+      "item_id": "broker",
+      "question": "agent who arranges a deal",
+      "correct": "broker",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "broker"
+    },
+    {
+      "item_id": "cancellation",
+      "question": "act of calling off a booking",
+      "correct": "cancellation",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "cancellation"
+    },
+    {
+      "item_id": "confidential",
+      "question": "meant to be kept private",
+      "correct": "confidential",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "confidential"
+    },
+    {
+      "item_id": "jet",
+      "question": "aircraft powered by jet engines",
+      "correct": "jet",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "jet"
+    },
+    {
+      "item_id": "realistic",
+      "question": "based on what is practical",
+      "correct": "realistic",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "realistic"
+    },
+    {
+      "item_id": "thoroughly",
+      "question": "in a complete careful way",
+      "correct": "thoroughly",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "thoroughly"
+    },
+    {
+      "item_id": "trash",
+      "question": "waste thrown away",
+      "correct": "trash",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "trash"
+    },
+    {
+      "item_id": "usage",
+      "question": "amount of something used",
+      "correct": "usage",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "usage"
+    },
+    {
+      "item_id": "windy",
+      "question": "with strong moving air",
+      "correct": "windy",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "windy"
+    },
+    {
+      "item_id": "automate",
+      "question": "make a process run by machines",
+      "correct": "automate",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "automate"
+    },
+    {
+      "item_id": "ferry",
+      "question": "boat that carries passengers",
+      "correct": "ferry",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "ferry"
+    },
+    {
+      "item_id": "finalize",
+      "question": "make a decision final",
+      "correct": "finalize",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "finalize"
+    },
+    {
+      "item_id": "incur",
+      "question": "cause a cost to arise",
+      "correct": "incur",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "incur"
+    },
+    {
+      "item_id": "instruct",
+      "question": "tell someone how to do a task",
+      "correct": "instruct",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "instruct"
+    },
+    {
+      "item_id": "loyal",
+      "question": "faithful to a company or person",
+      "correct": "loyal",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "loyal"
+    },
+    {
+      "item_id": "luncheon",
+      "question": "formal lunch for business guests",
+      "correct": "luncheon",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "luncheon"
+    },
+    {
+      "item_id": "microphone",
+      "question": "device that picks up speech",
+      "correct": "microphone",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "microphone"
+    },
+    {
+      "item_id": "overview",
+      "question": "short summary of a whole topic",
+      "correct": "overview",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "overview"
+    },
+    {
+      "item_id": "projector",
+      "question": "device that shows images on a screen",
+      "correct": "projector",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "projector"
+    },
+    {
+      "item_id": "shortage",
+      "question": "situation of not having enough",
+      "correct": "shortage",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "shortage"
+    },
+    {
+      "item_id": "spacious",
+      "question": "having plenty of room",
+      "correct": "spacious",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "spacious"
+    },
+    {
+      "item_id": "accomplishment",
+      "question": "something achieved through effort",
+      "correct": "accomplishment",
+      "wrong": [
+        "pet",
+        "textbook"
+      ],
+      "word": "accomplishment"
+    }
+  ]
+}

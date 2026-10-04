@@ -1,0 +1,1008 @@
+{
+  "pack_id": "toeic11",
+  "title": "TOEIC 1001–1100",
+  "module_id": "word_master",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "pastry",
+      "question": "a sweet baked food item",
+      "correct": "pastry",
+      "wrong": [
+        "personalize",
+        "poorly"
+      ],
+      "word": "pastry"
+    },
+    {
+      "item_id": "personalize",
+      "question": "make something fit one person",
+      "correct": "personalize",
+      "wrong": [
+        "pastry",
+        "poorly"
+      ],
+      "word": "personalize"
+    },
+    {
+      "item_id": "poorly",
+      "question": "in a bad or weak way",
+      "correct": "poorly",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "poorly"
+    },
+    {
+      "item_id": "prestigious",
+      "question": "highly respected and admired",
+      "correct": "prestigious",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "prestigious"
+    },
+    {
+      "item_id": "purser",
+      "question": "ship or airline chief attendant",
+      "correct": "purser",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "purser"
+    },
+    {
+      "item_id": "reassure",
+      "question": "make someone feel less worried",
+      "correct": "reassure",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "reassure"
+    },
+    {
+      "item_id": "resume",
+      "question": "start again after a pause",
+      "correct": "resume",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "resume"
+    },
+    {
+      "item_id": "reunion",
+      "question": "a gathering of people again",
+      "correct": "reunion",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "reunion"
+    },
+    {
+      "item_id": "revolutionize",
+      "question": "change something in a major way",
+      "correct": "revolutionize",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "revolutionize"
+    },
+    {
+      "item_id": "seafood",
+      "question": "food from fish and shellfish",
+      "correct": "seafood",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "seafood"
+    },
+    {
+      "item_id": "signify",
+      "question": "be a sign of something",
+      "correct": "signify",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "signify"
+    },
+    {
+      "item_id": "slot",
+      "question": "an open time for an appointment",
+      "correct": "slot",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "slot"
+    },
+    {
+      "item_id": "steer",
+      "question": "guide a vehicle or a plan",
+      "correct": "steer",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "steer"
+    },
+    {
+      "item_id": "sue",
+      "question": "take someone to court",
+      "correct": "sue",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "sue"
+    },
+    {
+      "item_id": "superb",
+      "question": "extremely good",
+      "correct": "superb",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "superb"
+    },
+    {
+      "item_id": "traditionally",
+      "question": "in a long-established way",
+      "correct": "traditionally",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "traditionally"
+    },
+    {
+      "item_id": "tremendous",
+      "question": "very large or impressive",
+      "correct": "tremendous",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "tremendous"
+    },
+    {
+      "item_id": "underway",
+      "question": "already in progress",
+      "correct": "underway",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "underway"
+    },
+    {
+      "item_id": "unpleasant",
+      "question": "not nice or comfortable",
+      "correct": "unpleasant",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "unpleasant"
+    },
+    {
+      "item_id": "violin",
+      "question": "a stringed musical instrument",
+      "correct": "violin",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "violin"
+    },
+    {
+      "item_id": "ward",
+      "question": "a hospital room section",
+      "correct": "ward",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "ward"
+    },
+    {
+      "item_id": "worthwhile",
+      "question": "worth the time or cost",
+      "correct": "worthwhile",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "worthwhile"
+    },
+    {
+      "item_id": "adapter",
+      "question": "a device that joins plugs",
+      "correct": "adapter",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "adapter"
+    },
+    {
+      "item_id": "advisable",
+      "question": "wise and worth doing",
+      "correct": "advisable",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "advisable"
+    },
+    {
+      "item_id": "archive",
+      "question": "stored records kept for reference",
+      "correct": "archive",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "archive"
+    },
+    {
+      "item_id": "artistic",
+      "question": "showing skill in art",
+      "correct": "artistic",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "artistic"
+    },
+    {
+      "item_id": "assurance",
+      "question": "a firm promise or guarantee",
+      "correct": "assurance",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "assurance"
+    },
+    {
+      "item_id": "athletic",
+      "question": "related to sports and fitness",
+      "correct": "athletic",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "athletic"
+    },
+    {
+      "item_id": "attire",
+      "question": "clothes for a certain occasion",
+      "correct": "attire",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "attire"
+    },
+    {
+      "item_id": "auditor",
+      "question": "a person who checks accounts",
+      "correct": "auditor",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "auditor"
+    },
+    {
+      "item_id": "bankruptcy",
+      "question": "legal inability to pay debts",
+      "correct": "bankruptcy",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "bankruptcy"
+    },
+    {
+      "item_id": "bulk",
+      "question": "a large amount bought together",
+      "correct": "bulk",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "bulk"
+    },
+    {
+      "item_id": "butter",
+      "question": "a soft yellow spread from milk",
+      "correct": "butter",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "butter"
+    },
+    {
+      "item_id": "centimeter",
+      "question": "a small unit of length",
+      "correct": "centimeter",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "centimeter"
+    },
+    {
+      "item_id": "circulate",
+      "question": "pass something around a group",
+      "correct": "circulate",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "circulate"
+    },
+    {
+      "item_id": "comb",
+      "question": "a tool for arranging hair",
+      "correct": "comb",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "comb"
+    },
+    {
+      "item_id": "comfortably",
+      "question": "in a relaxed easy way",
+      "correct": "comfortably",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "comfortably"
+    },
+    {
+      "item_id": "compliance",
+      "question": "the act of following rules",
+      "correct": "compliance",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "compliance"
+    },
+    {
+      "item_id": "contraction",
+      "question": "a shrink in business activity",
+      "correct": "contraction",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "contraction"
+    },
+    {
+      "item_id": "cookbook",
+      "question": "a book of cooking recipes",
+      "correct": "cookbook",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "cookbook"
+    },
+    {
+      "item_id": "cushion",
+      "question": "a soft pad on a seat",
+      "correct": "cushion",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "cushion"
+    },
+    {
+      "item_id": "dose",
+      "question": "a measured amount of medicine",
+      "correct": "dose",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "dose"
+    },
+    {
+      "item_id": "drum",
+      "question": "a musical instrument you strike",
+      "correct": "drum",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "drum"
+    },
+    {
+      "item_id": "embed",
+      "question": "set something firmly inside another",
+      "correct": "embed",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "embed"
+    },
+    {
+      "item_id": "evacuate",
+      "question": "move people out of danger",
+      "correct": "evacuate",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "evacuate"
+    },
+    {
+      "item_id": "expedite",
+      "question": "make a process happen faster",
+      "correct": "expedite",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "expedite"
+    },
+    {
+      "item_id": "extinguisher",
+      "question": "a device that puts out fire",
+      "correct": "extinguisher",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "extinguisher"
+    },
+    {
+      "item_id": "familiarity",
+      "question": "knowing something well",
+      "correct": "familiarity",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "familiarity"
+    },
+    {
+      "item_id": "flaw",
+      "question": "a fault that weakens something",
+      "correct": "flaw",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "flaw"
+    },
+    {
+      "item_id": "fluctuate",
+      "question": "rise and fall repeatedly",
+      "correct": "fluctuate",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "fluctuate"
+    },
+    {
+      "item_id": "fluent",
+      "question": "able to speak a language easily",
+      "correct": "fluent",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "fluent"
+    },
+    {
+      "item_id": "honestly",
+      "question": "in a truthful sincere way",
+      "correct": "honestly",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "honestly"
+    },
+    {
+      "item_id": "housekeep",
+      "question": "clean and manage guest rooms",
+      "correct": "housekeep",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "housekeep"
+    },
+    {
+      "item_id": "hurricane",
+      "question": "a violent tropical wind storm",
+      "correct": "hurricane",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "hurricane"
+    },
+    {
+      "item_id": "hygiene",
+      "question": "practices that keep people clean",
+      "correct": "hygiene",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "hygiene"
+    },
+    {
+      "item_id": "integral",
+      "question": "necessary as a basic part",
+      "correct": "integral",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "integral"
+    },
+    {
+      "item_id": "interactive",
+      "question": "allowing two-way response",
+      "correct": "interactive",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "interactive"
+    },
+    {
+      "item_id": "interfere",
+      "question": "get in the way of something",
+      "correct": "interfere",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "interfere"
+    },
+    {
+      "item_id": "kilogram",
+      "question": "a metric unit of weight",
+      "correct": "kilogram",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "kilogram"
+    },
+    {
+      "item_id": "layoff",
+      "question": "a job cut by the employer",
+      "correct": "layoff",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "layoff"
+    },
+    {
+      "item_id": "lightweight",
+      "question": "weighing less than usual",
+      "correct": "lightweight",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "lightweight"
+    },
+    {
+      "item_id": "merit",
+      "question": "a good quality worth praise",
+      "correct": "merit",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "merit"
+    },
+    {
+      "item_id": "necklace",
+      "question": "jewelry worn around the neck",
+      "correct": "necklace",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "necklace"
+    },
+    {
+      "item_id": "needy",
+      "question": "lacking money or basic support",
+      "correct": "needy",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "needy"
+    },
+    {
+      "item_id": "overpay",
+      "question": "pay more than the right amount",
+      "correct": "overpay",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "overpay"
+    },
+    {
+      "item_id": "pamphlet",
+      "question": "a thin booklet of information",
+      "correct": "pamphlet",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "pamphlet"
+    },
+    {
+      "item_id": "partial",
+      "question": "not complete or whole",
+      "correct": "partial",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "partial"
+    },
+    {
+      "item_id": "penalize",
+      "question": "punish for breaking a rule",
+      "correct": "penalize",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "penalize"
+    },
+    {
+      "item_id": "pollute",
+      "question": "make air or water dirty",
+      "correct": "pollute",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "pollute"
+    },
+    {
+      "item_id": "prescribe",
+      "question": "order a treatment for a patient",
+      "correct": "prescribe",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "prescribe"
+    },
+    {
+      "item_id": "probable",
+      "question": "likely to happen",
+      "correct": "probable",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "probable"
+    },
+    {
+      "item_id": "prominent",
+      "question": "important and easy to notice",
+      "correct": "prominent",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "prominent"
+    },
+    {
+      "item_id": "rainfall",
+      "question": "the amount of rain that falls",
+      "correct": "rainfall",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "rainfall"
+    },
+    {
+      "item_id": "relocation",
+      "question": "a move to a new place",
+      "correct": "relocation",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "relocation"
+    },
+    {
+      "item_id": "residence",
+      "question": "the place where someone lives",
+      "correct": "residence",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "residence"
+    },
+    {
+      "item_id": "retrieve",
+      "question": "get something back",
+      "correct": "retrieve",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "retrieve"
+    },
+    {
+      "item_id": "rider",
+      "question": "a person who rides",
+      "correct": "rider",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "rider"
+    },
+    {
+      "item_id": "rubber",
+      "question": "a flexible waterproof material",
+      "correct": "rubber",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "rubber"
+    },
+    {
+      "item_id": "rug",
+      "question": "a floor covering smaller than carpet",
+      "correct": "rug",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "rug"
+    },
+    {
+      "item_id": "salespeople",
+      "question": "people who sell goods or services",
+      "correct": "salespeople",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "salespeople"
+    },
+    {
+      "item_id": "sharply",
+      "question": "in a sudden strong way",
+      "correct": "sharply",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "sharply"
+    },
+    {
+      "item_id": "similarity",
+      "question": "a way things are alike",
+      "correct": "similarity",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "similarity"
+    },
+    {
+      "item_id": "someday",
+      "question": "at an unknown future time",
+      "correct": "someday",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "someday"
+    },
+    {
+      "item_id": "spectator",
+      "question": "a person who watches an event",
+      "correct": "spectator",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "spectator"
+    },
+    {
+      "item_id": "stereo",
+      "question": "equipment that plays recorded sound",
+      "correct": "stereo",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "stereo"
+    },
+    {
+      "item_id": "storeroom",
+      "question": "a room where supplies are kept",
+      "correct": "storeroom",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "storeroom"
+    },
+    {
+      "item_id": "subsidize",
+      "question": "support with public or company money",
+      "correct": "subsidize",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "subsidize"
+    },
+    {
+      "item_id": "suspicious",
+      "question": "causing a feeling of distrust",
+      "correct": "suspicious",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "suspicious"
+    },
+    {
+      "item_id": "tasty",
+      "question": "having a pleasant flavor",
+      "correct": "tasty",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "tasty"
+    },
+    {
+      "item_id": "terrific",
+      "question": "extremely good",
+      "correct": "terrific",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "terrific"
+    },
+    {
+      "item_id": "underground",
+      "question": "a city rail system below ground",
+      "correct": "underground",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "underground"
+    },
+    {
+      "item_id": "unpaid",
+      "question": "not yet paid",
+      "correct": "unpaid",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "unpaid"
+    },
+    {
+      "item_id": "volleyball",
+      "question": "a team sport with a ball",
+      "correct": "volleyball",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "volleyball"
+    },
+    {
+      "item_id": "wheelchair",
+      "question": "a chair with wheels for mobility",
+      "correct": "wheelchair",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "wheelchair"
+    },
+    {
+      "item_id": "whoever",
+      "question": "any person who",
+      "correct": "whoever",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "whoever"
+    },
+    {
+      "item_id": "wool",
+      "question": "soft fiber from sheep",
+      "correct": "wool",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "wool"
+    },
+    {
+      "item_id": "wrinkle",
+      "question": "a small fold in cloth",
+      "correct": "wrinkle",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "wrinkle"
+    },
+    {
+      "item_id": "accuracy",
+      "question": "the quality of being correct",
+      "correct": "accuracy",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "accuracy"
+    },
+    {
+      "item_id": "anyhow",
+      "question": "in any case",
+      "correct": "anyhow",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "anyhow"
+    },
+    {
+      "item_id": "appetizer",
+      "question": "a small dish before the meal",
+      "correct": "appetizer",
+      "wrong": [
+        "pastry",
+        "personalize"
+      ],
+      "word": "appetizer"
+    }
+  ]
+}

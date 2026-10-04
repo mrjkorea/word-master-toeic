@@ -1,0 +1,407 @@
+{
+  "pack_id": "toeic06",
+  "title": "TOEIC 501–600",
+  "seconds_per_letter": 5,
+  "items": [
+    {
+      "item_id": "lawn",
+      "word": "lawn"
+    },
+    {
+      "item_id": "microscope",
+      "word": "microscope"
+    },
+    {
+      "item_id": "mislead",
+      "word": "mislead"
+    },
+    {
+      "item_id": "misplace",
+      "word": "misplace"
+    },
+    {
+      "item_id": "newsstand",
+      "word": "newsstand"
+    },
+    {
+      "item_id": "overhead",
+      "word": "overhead"
+    },
+    {
+      "item_id": "portfolio",
+      "word": "portfolio"
+    },
+    {
+      "item_id": "rack",
+      "word": "rack"
+    },
+    {
+      "item_id": "remodel",
+      "word": "remodel"
+    },
+    {
+      "item_id": "statistics",
+      "word": "statistics"
+    },
+    {
+      "item_id": "tunnel",
+      "word": "tunnel"
+    },
+    {
+      "item_id": "unlimited",
+      "word": "unlimited"
+    },
+    {
+      "item_id": "vitamin",
+      "word": "vitamin"
+    },
+    {
+      "item_id": "zoo",
+      "word": "zoo"
+    },
+    {
+      "item_id": "alert",
+      "word": "alert"
+    },
+    {
+      "item_id": "auditorium",
+      "word": "auditorium"
+    },
+    {
+      "item_id": "celebrity",
+      "word": "celebrity"
+    },
+    {
+      "item_id": "deduct",
+      "word": "deduct"
+    },
+    {
+      "item_id": "disruption",
+      "word": "disruption"
+    },
+    {
+      "item_id": "electrician",
+      "word": "electrician"
+    },
+    {
+      "item_id": "enthusiastic",
+      "word": "enthusiastic"
+    },
+    {
+      "item_id": "graduation",
+      "word": "graduation"
+    },
+    {
+      "item_id": "icy",
+      "word": "icy"
+    },
+    {
+      "item_id": "irregular",
+      "word": "irregular"
+    },
+    {
+      "item_id": "login",
+      "word": "login"
+    },
+    {
+      "item_id": "managerial",
+      "word": "managerial"
+    },
+    {
+      "item_id": "mineral",
+      "word": "mineral"
+    },
+    {
+      "item_id": "motorcycle",
+      "word": "motorcycle"
+    },
+    {
+      "item_id": "necessity",
+      "word": "necessity"
+    },
+    {
+      "item_id": "planner",
+      "word": "planner"
+    },
+    {
+      "item_id": "programmer",
+      "word": "programmer"
+    },
+    {
+      "item_id": "proofread",
+      "word": "proofread"
+    },
+    {
+      "item_id": "recruiter",
+      "word": "recruiter"
+    },
+    {
+      "item_id": "remainder",
+      "word": "remainder"
+    },
+    {
+      "item_id": "statue",
+      "word": "statue"
+    },
+    {
+      "item_id": "steadily",
+      "word": "steadily"
+    },
+    {
+      "item_id": "stockholder",
+      "word": "stockholder"
+    },
+    {
+      "item_id": "vacant",
+      "word": "vacant"
+    },
+    {
+      "item_id": "accessory",
+      "word": "accessory"
+    },
+    {
+      "item_id": "assembly",
+      "word": "assembly"
+    },
+    {
+      "item_id": "basket",
+      "word": "basket"
+    },
+    {
+      "item_id": "certification",
+      "word": "certification"
+    },
+    {
+      "item_id": "closure",
+      "word": "closure"
+    },
+    {
+      "item_id": "dislike",
+      "word": "dislike"
+    },
+    {
+      "item_id": "downstairs",
+      "word": "downstairs"
+    },
+    {
+      "item_id": "expiration",
+      "word": "expiration"
+    },
+    {
+      "item_id": "headache",
+      "word": "headache"
+    },
+    {
+      "item_id": "jam",
+      "word": "jam"
+    },
+    {
+      "item_id": "nail",
+      "word": "nail"
+    },
+    {
+      "item_id": "optimistic",
+      "word": "optimistic"
+    },
+    {
+      "item_id": "pedestrian",
+      "word": "pedestrian"
+    },
+    {
+      "item_id": "projection",
+      "word": "projection"
+    },
+    {
+      "item_id": "sleeve",
+      "word": "sleeve"
+    },
+    {
+      "item_id": "suburb",
+      "word": "suburb"
+    },
+    {
+      "item_id": "takeover",
+      "word": "takeover"
+    },
+    {
+      "item_id": "unsure",
+      "word": "unsure"
+    },
+    {
+      "item_id": "upstairs",
+      "word": "upstairs"
+    },
+    {
+      "item_id": "verbal",
+      "word": "verbal"
+    },
+    {
+      "item_id": "visa",
+      "word": "visa"
+    },
+    {
+      "item_id": "wildlife",
+      "word": "wildlife"
+    },
+    {
+      "item_id": "workforce",
+      "word": "workforce"
+    },
+    {
+      "item_id": "absent",
+      "word": "absent"
+    },
+    {
+      "item_id": "accumulate",
+      "word": "accumulate"
+    },
+    {
+      "item_id": "appraisal",
+      "word": "appraisal"
+    },
+    {
+      "item_id": "apprentice",
+      "word": "apprentice"
+    },
+    {
+      "item_id": "businessman",
+      "word": "businessman"
+    },
+    {
+      "item_id": "ceiling",
+      "word": "ceiling"
+    },
+    {
+      "item_id": "colorful",
+      "word": "colorful"
+    },
+    {
+      "item_id": "compensate",
+      "word": "compensate"
+    },
+    {
+      "item_id": "costume",
+      "word": "costume"
+    },
+    {
+      "item_id": "editorial",
+      "word": "editorial"
+    },
+    {
+      "item_id": "effectiveness",
+      "word": "effectiveness"
+    },
+    {
+      "item_id": "facilitate",
+      "word": "facilitate"
+    },
+    {
+      "item_id": "firefighter",
+      "word": "firefighter"
+    },
+    {
+      "item_id": "gasoline",
+      "word": "gasoline"
+    },
+    {
+      "item_id": "inappropriate",
+      "word": "inappropriate"
+    },
+    {
+      "item_id": "internet",
+      "word": "internet"
+    },
+    {
+      "item_id": "landlord",
+      "word": "landlord"
+    },
+    {
+      "item_id": "layout",
+      "word": "layout"
+    },
+    {
+      "item_id": "lunchtime",
+      "word": "lunchtime"
+    },
+    {
+      "item_id": "payroll",
+      "word": "payroll"
+    },
+    {
+      "item_id": "pharmaceutical",
+      "word": "pharmaceutical"
+    },
+    {
+      "item_id": "plausible",
+      "word": "plausible"
+    },
+    {
+      "item_id": "premium",
+      "word": "premium"
+    },
+    {
+      "item_id": "safely",
+      "word": "safely"
+    },
+    {
+      "item_id": "simplify",
+      "word": "simplify"
+    },
+    {
+      "item_id": "specialty",
+      "word": "specialty"
+    },
+    {
+      "item_id": "tech",
+      "word": "tech"
+    },
+    {
+      "item_id": "unexpected",
+      "word": "unexpected"
+    },
+    {
+      "item_id": "unspecified",
+      "word": "unspecified"
+    },
+    {
+      "item_id": "adhere",
+      "word": "adhere"
+    },
+    {
+      "item_id": "bankrupt",
+      "word": "bankrupt"
+    },
+    {
+      "item_id": "caution",
+      "word": "caution"
+    },
+    {
+      "item_id": "clip",
+      "word": "clip"
+    },
+    {
+      "item_id": "comply",
+      "word": "comply"
+    },
+    {
+      "item_id": "diner",
+      "word": "diner"
+    },
+    {
+      "item_id": "duplicate",
+      "word": "duplicate"
+    },
+    {
+      "item_id": "eager",
+      "word": "eager"
+    },
+    {
+      "item_id": "economist",
+      "word": "economist"
+    },
+    {
+      "item_id": "embassy",
+      "word": "embassy"
+    }
+  ]
+}

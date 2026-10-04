@@ -1,0 +1,407 @@
+{
+  "pack_id": "toeic11",
+  "title": "TOEIC 1001–1100",
+  "seconds_per_letter": 5,
+  "items": [
+    {
+      "item_id": "pastry",
+      "word": "pastry"
+    },
+    {
+      "item_id": "personalize",
+      "word": "personalize"
+    },
+    {
+      "item_id": "poorly",
+      "word": "poorly"
+    },
+    {
+      "item_id": "prestigious",
+      "word": "prestigious"
+    },
+    {
+      "item_id": "purser",
+      "word": "purser"
+    },
+    {
+      "item_id": "reassure",
+      "word": "reassure"
+    },
+    {
+      "item_id": "resume",
+      "word": "resume"
+    },
+    {
+      "item_id": "reunion",
+      "word": "reunion"
+    },
+    {
+      "item_id": "revolutionize",
+      "word": "revolutionize"
+    },
+    {
+      "item_id": "seafood",
+      "word": "seafood"
+    },
+    {
+      "item_id": "signify",
+      "word": "signify"
+    },
+    {
+      "item_id": "slot",
+      "word": "slot"
+    },
+    {
+      "item_id": "steer",
+      "word": "steer"
+    },
+    {
+      "item_id": "sue",
+      "word": "sue"
+    },
+    {
+      "item_id": "superb",
+      "word": "superb"
+    },
+    {
+      "item_id": "traditionally",
+      "word": "traditionally"
+    },
+    {
+      "item_id": "tremendous",
+      "word": "tremendous"
+    },
+    {
+      "item_id": "underway",
+      "word": "underway"
+    },
+    {
+      "item_id": "unpleasant",
+      "word": "unpleasant"
+    },
+    {
+      "item_id": "violin",
+      "word": "violin"
+    },
+    {
+      "item_id": "ward",
+      "word": "ward"
+    },
+    {
+      "item_id": "worthwhile",
+      "word": "worthwhile"
+    },
+    {
+      "item_id": "adapter",
+      "word": "adapter"
+    },
+    {
+      "item_id": "advisable",
+      "word": "advisable"
+    },
+    {
+      "item_id": "archive",
+      "word": "archive"
+    },
+    {
+      "item_id": "artistic",
+      "word": "artistic"
+    },
+    {
+      "item_id": "assurance",
+      "word": "assurance"
+    },
+    {
+      "item_id": "athletic",
+      "word": "athletic"
+    },
+    {
+      "item_id": "attire",
+      "word": "attire"
+    },
+    {
+      "item_id": "auditor",
+      "word": "auditor"
+    },
+    {
+      "item_id": "bankruptcy",
+      "word": "bankruptcy"
+    },
+    {
+      "item_id": "bulk",
+      "word": "bulk"
+    },
+    {
+      "item_id": "butter",
+      "word": "butter"
+    },
+    {
+      "item_id": "centimeter",
+      "word": "centimeter"
+    },
+    {
+      "item_id": "circulate",
+      "word": "circulate"
+    },
+    {
+      "item_id": "comb",
+      "word": "comb"
+    },
+    {
+      "item_id": "comfortably",
+      "word": "comfortably"
+    },
+    {
+      "item_id": "compliance",
+      "word": "compliance"
+    },
+    {
+      "item_id": "contraction",
+      "word": "contraction"
+    },
+    {
+      "item_id": "cookbook",
+      "word": "cookbook"
+    },
+    {
+      "item_id": "cushion",
+      "word": "cushion"
+    },
+    {
+      "item_id": "dose",
+      "word": "dose"
+    },
+    {
+      "item_id": "drum",
+      "word": "drum"
+    },
+    {
+      "item_id": "embed",
+      "word": "embed"
+    },
+    {
+      "item_id": "evacuate",
+      "word": "evacuate"
+    },
+    {
+      "item_id": "expedite",
+      "word": "expedite"
+    },
+    {
+      "item_id": "extinguisher",
+      "word": "extinguisher"
+    },
+    {
+      "item_id": "familiarity",
+      "word": "familiarity"
+    },
+    {
+      "item_id": "flaw",
+      "word": "flaw"
+    },
+    {
+      "item_id": "fluctuate",
+      "word": "fluctuate"
+    },
+    {
+      "item_id": "fluent",
+      "word": "fluent"
+    },
+    {
+      "item_id": "honestly",
+      "word": "honestly"
+    },
+    {
+      "item_id": "housekeep",
+      "word": "housekeep"
+    },
+    {
+      "item_id": "hurricane",
+      "word": "hurricane"
+    },
+    {
+      "item_id": "hygiene",
+      "word": "hygiene"
+    },
+    {
+      "item_id": "integral",
+      "word": "integral"
+    },
+    {
+      "item_id": "interactive",
+      "word": "interactive"
+    },
+    {
+      "item_id": "interfere",
+      "word": "interfere"
+    },
+    {
+      "item_id": "kilogram",
+      "word": "kilogram"
+    },
+    {
+      "item_id": "layoff",
+      "word": "layoff"
+    },
+    {
+      "item_id": "lightweight",
+      "word": "lightweight"
+    },
+    {
+      "item_id": "merit",
+      "word": "merit"
+    },
+    {
+      "item_id": "necklace",
+      "word": "necklace"
+    },
+    {
+      "item_id": "needy",
+      "word": "needy"
+    },
+    {
+      "item_id": "overpay",
+      "word": "overpay"
+    },
+    {
+      "item_id": "pamphlet",
+      "word": "pamphlet"
+    },
+    {
+      "item_id": "partial",
+      "word": "partial"
+    },
+    {
+      "item_id": "penalize",
+      "word": "penalize"
+    },
+    {
+      "item_id": "pollute",
+      "word": "pollute"
+    },
+    {
+      "item_id": "prescribe",
+      "word": "prescribe"
+    },
+    {
+      "item_id": "probable",
+      "word": "probable"
+    },
+    {
+      "item_id": "prominent",
+      "word": "prominent"
+    },
+    {
+      "item_id": "rainfall",
+      "word": "rainfall"
+    },
+    {
+      "item_id": "relocation",
+      "word": "relocation"
+    },
+    {
+      "item_id": "residence",
+      "word": "residence"
+    },
+    {
+      "item_id": "retrieve",
+      "word": "retrieve"
+    },
+    {
+      "item_id": "rider",
+      "word": "rider"
+    },
+    {
+      "item_id": "rubber",
+      "word": "rubber"
+    },
+    {
+      "item_id": "rug",
+      "word": "rug"
+    },
+    {
+      "item_id": "salespeople",
+      "word": "salespeople"
+    },
+    {
+      "item_id": "sharply",
+      "word": "sharply"
+    },
+    {
+      "item_id": "similarity",
+      "word": "similarity"
+    },
+    {
+      "item_id": "someday",
+      "word": "someday"
+    },
+    {
+      "item_id": "spectator",
+      "word": "spectator"
+    },
+    {
+      "item_id": "stereo",
+      "word": "stereo"
+    },
+    {
+      "item_id": "storeroom",
+      "word": "storeroom"
+    },
+    {
+      "item_id": "subsidize",
+      "word": "subsidize"
+    },
+    {
+      "item_id": "suspicious",
+      "word": "suspicious"
+    },
+    {
+      "item_id": "tasty",
+      "word": "tasty"
+    },
+    {
+      "item_id": "terrific",
+      "word": "terrific"
+    },
+    {
+      "item_id": "underground",
+      "word": "underground"
+    },
+    {
+      "item_id": "unpaid",
+      "word": "unpaid"
+    },
+    {
+      "item_id": "volleyball",
+      "word": "volleyball"
+    },
+    {
+      "item_id": "wheelchair",
+      "word": "wheelchair"
+    },
+    {
+      "item_id": "whoever",
+      "word": "whoever"
+    },
+    {
+      "item_id": "wool",
+      "word": "wool"
+    },
+    {
+      "item_id": "wrinkle",
+      "word": "wrinkle"
+    },
+    {
+      "item_id": "accuracy",
+      "word": "accuracy"
+    },
+    {
+      "item_id": "anyhow",
+      "word": "anyhow"
+    },
+    {
+      "item_id": "appetizer",
+      "word": "appetizer"
+    }
+  ]
+}

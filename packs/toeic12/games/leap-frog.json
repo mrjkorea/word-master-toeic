@@ -1,0 +1,1008 @@
+{
+  "pack_id": "toeic12",
+  "title": "TOEIC 1101–1200",
+  "module_id": "word_master",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "arc",
+      "question": "curved architectural span",
+      "correct": "arc",
+      "wrong": [
+        "audition",
+        "backpack"
+      ],
+      "word": "arc"
+    },
+    {
+      "item_id": "audition",
+      "question": "tryout for a performance role",
+      "correct": "audition",
+      "wrong": [
+        "arc",
+        "backpack"
+      ],
+      "word": "audition"
+    },
+    {
+      "item_id": "backpack",
+      "question": "bag worn on the back",
+      "correct": "backpack",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "backpack"
+    },
+    {
+      "item_id": "ballroom",
+      "question": "large room for formal events",
+      "correct": "ballroom",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "ballroom"
+    },
+    {
+      "item_id": "beneficial",
+      "question": "helpful or producing a good result",
+      "correct": "beneficial",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "beneficial"
+    },
+    {
+      "item_id": "biography",
+      "question": "written story of a person's life",
+      "correct": "biography",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "biography"
+    },
+    {
+      "item_id": "bound",
+      "question": "heading toward a destination",
+      "correct": "bound",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "bound"
+    },
+    {
+      "item_id": "broom",
+      "question": "brush for sweeping floors",
+      "correct": "broom",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "broom"
+    },
+    {
+      "item_id": "cheeseburger",
+      "question": "burger with a slice of cheese",
+      "correct": "cheeseburger",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "cheeseburger"
+    },
+    {
+      "item_id": "chilly",
+      "question": "uncomfortably cool in temperature",
+      "correct": "chilly",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "chilly"
+    },
+    {
+      "item_id": "circus",
+      "question": "show with skilled live performers",
+      "correct": "circus",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "circus"
+    },
+    {
+      "item_id": "compliment",
+      "question": "polite remark of praise",
+      "correct": "compliment",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "compliment"
+    },
+    {
+      "item_id": "consignment",
+      "question": "goods shipped to an agent",
+      "correct": "consignment",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "consignment"
+    },
+    {
+      "item_id": "continental",
+      "question": "of a continent-style breakfast",
+      "correct": "continental",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "continental"
+    },
+    {
+      "item_id": "copyright",
+      "question": "legal right to copy a work",
+      "correct": "copyright",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "copyright"
+    },
+    {
+      "item_id": "countryside",
+      "question": "rural land outside the city",
+      "correct": "countryside",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "countryside"
+    },
+    {
+      "item_id": "demolish",
+      "question": "tear a building down completely",
+      "correct": "demolish",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "demolish"
+    },
+    {
+      "item_id": "departmental",
+      "question": "relating to one department",
+      "correct": "departmental",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "departmental"
+    },
+    {
+      "item_id": "desperate",
+      "question": "feeling an urgent extreme need",
+      "correct": "desperate",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "desperate"
+    },
+    {
+      "item_id": "devastate",
+      "question": "cause severe widespread damage",
+      "correct": "devastate",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "devastate"
+    },
+    {
+      "item_id": "diagnostic",
+      "question": "used to identify a problem",
+      "correct": "diagnostic",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "diagnostic"
+    },
+    {
+      "item_id": "diagram",
+      "question": "simple drawing that explains something",
+      "correct": "diagram",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "diagram"
+    },
+    {
+      "item_id": "diamond",
+      "question": "hard clear precious stone",
+      "correct": "diamond",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "diamond"
+    },
+    {
+      "item_id": "disable",
+      "question": "turn a function or access off",
+      "correct": "disable",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "disable"
+    },
+    {
+      "item_id": "disgust",
+      "question": "strong feeling of dislike",
+      "correct": "disgust",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "disgust"
+    },
+    {
+      "item_id": "donut",
+      "question": "round fried cake with a hole",
+      "correct": "donut",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "donut"
+    },
+    {
+      "item_id": "doorman",
+      "question": "person who watches an entrance",
+      "correct": "doorman",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "doorman"
+    },
+    {
+      "item_id": "electronically",
+      "question": "by means of electronic systems",
+      "correct": "electronically",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "electronically"
+    },
+    {
+      "item_id": "elevate",
+      "question": "raise to a higher level",
+      "correct": "elevate",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "elevate"
+    },
+    {
+      "item_id": "engagement",
+      "question": "scheduled business appointment",
+      "correct": "engagement",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "engagement"
+    },
+    {
+      "item_id": "enrollment",
+      "question": "act of officially joining",
+      "correct": "enrollment",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "enrollment"
+    },
+    {
+      "item_id": "euro",
+      "question": "currency used in much of Europe",
+      "correct": "euro",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "euro"
+    },
+    {
+      "item_id": "forbid",
+      "question": "order that something must not happen",
+      "correct": "forbid",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "forbid"
+    },
+    {
+      "item_id": "fork",
+      "question": "eating utensil with pointed prongs",
+      "correct": "fork",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "fork"
+    },
+    {
+      "item_id": "foster",
+      "question": "encourage growth or development",
+      "correct": "foster",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "foster"
+    },
+    {
+      "item_id": "getaway",
+      "question": "short trip taken to rest",
+      "correct": "getaway",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "getaway"
+    },
+    {
+      "item_id": "gossip",
+      "question": "talk about others' private lives",
+      "correct": "gossip",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "gossip"
+    },
+    {
+      "item_id": "hacker",
+      "question": "person who breaks into computers",
+      "correct": "hacker",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "hacker"
+    },
+    {
+      "item_id": "hardworking",
+      "question": "putting steady effort into work",
+      "correct": "hardworking",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "hardworking"
+    },
+    {
+      "item_id": "impatient",
+      "question": "annoyed by having to wait",
+      "correct": "impatient",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "impatient"
+    },
+    {
+      "item_id": "indirect",
+      "question": "not by the straight route",
+      "correct": "indirect",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "indirect"
+    },
+    {
+      "item_id": "interpreter",
+      "question": "person who translates speech aloud",
+      "correct": "interpreter",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "interpreter"
+    },
+    {
+      "item_id": "intersection",
+      "question": "place where roads cross",
+      "correct": "intersection",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "intersection"
+    },
+    {
+      "item_id": "irrelevant",
+      "question": "not related to the matter",
+      "correct": "irrelevant",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "irrelevant"
+    },
+    {
+      "item_id": "jeans",
+      "question": "pants made of denim",
+      "correct": "jeans",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "jeans"
+    },
+    {
+      "item_id": "journalism",
+      "question": "work of reporting the news",
+      "correct": "journalism",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "journalism"
+    },
+    {
+      "item_id": "letterhead",
+      "question": "printed heading on official paper",
+      "correct": "letterhead",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "letterhead"
+    },
+    {
+      "item_id": "lifeguard",
+      "question": "person who watches swimmers",
+      "correct": "lifeguard",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "lifeguard"
+    },
+    {
+      "item_id": "modem",
+      "question": "device that sends data by line",
+      "correct": "modem",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "modem"
+    },
+    {
+      "item_id": "monument",
+      "question": "structure built to honor something",
+      "correct": "monument",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "monument"
+    },
+    {
+      "item_id": "mosquito",
+      "question": "small flying insect that bites",
+      "correct": "mosquito",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "mosquito"
+    },
+    {
+      "item_id": "obligate",
+      "question": "bind someone by a duty",
+      "correct": "obligate",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "obligate"
+    },
+    {
+      "item_id": "oblige",
+      "question": "do what someone has asked",
+      "correct": "oblige",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "oblige"
+    },
+    {
+      "item_id": "occurrence",
+      "question": "something that happens",
+      "correct": "occurrence",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "occurrence"
+    },
+    {
+      "item_id": "operational",
+      "question": "working and ready for use",
+      "correct": "operational",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "operational"
+    },
+    {
+      "item_id": "outage",
+      "question": "period when a service stops",
+      "correct": "outage",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "outage"
+    },
+    {
+      "item_id": "overcrowd",
+      "question": "fill with too many people",
+      "correct": "overcrowd",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "overcrowd"
+    },
+    {
+      "item_id": "paralegal",
+      "question": "legal assistant who is not a lawyer",
+      "correct": "paralegal",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "paralegal"
+    },
+    {
+      "item_id": "partially",
+      "question": "only to some degree",
+      "correct": "partially",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "partially"
+    },
+    {
+      "item_id": "pepper",
+      "question": "hot spice used on food",
+      "correct": "pepper",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "pepper"
+    },
+    {
+      "item_id": "permanently",
+      "question": "in a lasting way",
+      "correct": "permanently",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "permanently"
+    },
+    {
+      "item_id": "plow",
+      "question": "farm tool that turns soil",
+      "correct": "plow",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "plow"
+    },
+    {
+      "item_id": "query",
+      "question": "question asking for information",
+      "correct": "query",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "query"
+    },
+    {
+      "item_id": "railway",
+      "question": "track system for trains",
+      "correct": "railway",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "railway"
+    },
+    {
+      "item_id": "raincoat",
+      "question": "coat that keeps rain off",
+      "correct": "raincoat",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "raincoat"
+    },
+    {
+      "item_id": "reconsider",
+      "question": "think about a decision again",
+      "correct": "reconsider",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "reconsider"
+    },
+    {
+      "item_id": "redesign",
+      "question": "design something again differently",
+      "correct": "redesign",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "redesign"
+    },
+    {
+      "item_id": "rehearsal",
+      "question": "practice before a performance",
+      "correct": "rehearsal",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "rehearsal"
+    },
+    {
+      "item_id": "relaxation",
+      "question": "rest that eases stress",
+      "correct": "relaxation",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "relaxation"
+    },
+    {
+      "item_id": "repetition",
+      "question": "doing something again",
+      "correct": "repetition",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "repetition"
+    },
+    {
+      "item_id": "retreat",
+      "question": "offsite trip for work planning",
+      "correct": "retreat",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "retreat"
+    },
+    {
+      "item_id": "salon",
+      "question": "shop for hair and beauty",
+      "correct": "salon",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "salon"
+    },
+    {
+      "item_id": "satellite",
+      "question": "craft that orbits and relays signals",
+      "correct": "satellite",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "satellite"
+    },
+    {
+      "item_id": "scenery",
+      "question": "natural view of a place",
+      "correct": "scenery",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "scenery"
+    },
+    {
+      "item_id": "serial",
+      "question": "belonging to a numbered series",
+      "correct": "serial",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "serial"
+    },
+    {
+      "item_id": "sew",
+      "question": "join cloth with needle and thread",
+      "correct": "sew",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "sew"
+    },
+    {
+      "item_id": "sketch",
+      "question": "quick rough drawing",
+      "correct": "sketch",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "sketch"
+    },
+    {
+      "item_id": "smartphone",
+      "question": "phone with computer features",
+      "correct": "smartphone",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "smartphone"
+    },
+    {
+      "item_id": "soar",
+      "question": "rise quickly to a high level",
+      "correct": "soar",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "soar"
+    },
+    {
+      "item_id": "stimulus",
+      "question": "something that prompts activity",
+      "correct": "stimulus",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "stimulus"
+    },
+    {
+      "item_id": "stockbroker",
+      "question": "person who trades shares for clients",
+      "correct": "stockbroker",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "stockbroker"
+    },
+    {
+      "item_id": "tablecloth",
+      "question": "cloth covering a table",
+      "correct": "tablecloth",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "tablecloth"
+    },
+    {
+      "item_id": "thirsty",
+      "question": "needing something to drink",
+      "correct": "thirsty",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "thirsty"
+    },
+    {
+      "item_id": "thrill",
+      "question": "sudden feeling of excitement",
+      "correct": "thrill",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "thrill"
+    },
+    {
+      "item_id": "tile",
+      "question": "flat piece covering a surface",
+      "correct": "tile",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "tile"
+    },
+    {
+      "item_id": "toiletry",
+      "question": "item for washing or grooming",
+      "correct": "toiletry",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "toiletry"
+    },
+    {
+      "item_id": "trademark",
+      "question": "legally protected brand sign",
+      "correct": "trademark",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "trademark"
+    },
+    {
+      "item_id": "tropical",
+      "question": "of hot regions near the equator",
+      "correct": "tropical",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "tropical"
+    },
+    {
+      "item_id": "tuna",
+      "question": "large ocean fish eaten as food",
+      "correct": "tuna",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "tuna"
+    },
+    {
+      "item_id": "unemployed",
+      "question": "without a paid job",
+      "correct": "unemployed",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "unemployed"
+    },
+    {
+      "item_id": "validate",
+      "question": "check that something is valid",
+      "correct": "validate",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "validate"
+    },
+    {
+      "item_id": "vanilla",
+      "question": "sweet flavor from a tropical pod",
+      "correct": "vanilla",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "vanilla"
+    },
+    {
+      "item_id": "willingness",
+      "question": "ready attitude to do something",
+      "correct": "willingness",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "willingness"
+    },
+    {
+      "item_id": "wristwatch",
+      "question": "watch worn on the wrist",
+      "correct": "wristwatch",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "wristwatch"
+    },
+    {
+      "item_id": "abide",
+      "question": "follow a rule or decision",
+      "correct": "abide",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "abide"
+    },
+    {
+      "item_id": "actively",
+      "question": "in a busy engaged way",
+      "correct": "actively",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "actively"
+    },
+    {
+      "item_id": "allergy",
+      "question": "harmful reaction to a substance",
+      "correct": "allergy",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "allergy"
+    },
+    {
+      "item_id": "apprehensive",
+      "question": "worried something bad may happen",
+      "correct": "apprehensive",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "apprehensive"
+    },
+    {
+      "item_id": "automotive",
+      "question": "relating to motor vehicles",
+      "correct": "automotive",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "automotive"
+    },
+    {
+      "item_id": "bacteria",
+      "question": "tiny organisms, some of them harmful",
+      "correct": "bacteria",
+      "wrong": [
+        "arc",
+        "audition"
+      ],
+      "word": "bacteria"
+    }
+  ]
+}

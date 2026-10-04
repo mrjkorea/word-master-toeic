@@ -1,0 +1,1008 @@
+{
+  "pack_id": "toeic02",
+  "title": "TOEIC 101–200",
+  "module_id": "word_master",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "exit",
+      "question": "way out of a building",
+      "correct": "exit",
+      "wrong": [
+        "attendee",
+        "cruise"
+      ],
+      "word": "exit"
+    },
+    {
+      "item_id": "attendee",
+      "question": "person at a meeting",
+      "correct": "attendee",
+      "wrong": [
+        "exit",
+        "cruise"
+      ],
+      "word": "attendee"
+    },
+    {
+      "item_id": "cruise",
+      "question": "trip on a ship",
+      "correct": "cruise",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "cruise"
+    },
+    {
+      "item_id": "birthday",
+      "question": "day of one's birth",
+      "correct": "birthday",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "birthday"
+    },
+    {
+      "item_id": "cafe",
+      "question": "small restaurant for coffee",
+      "correct": "café",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "café"
+    },
+    {
+      "item_id": "comprehension",
+      "question": "ability to understand",
+      "correct": "comprehension",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "comprehension"
+    },
+    {
+      "item_id": "mall",
+      "question": "large indoor shopping center",
+      "correct": "mall",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "mall"
+    },
+    {
+      "item_id": "medication",
+      "question": "medicine a doctor prescribes",
+      "correct": "medication",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "medication"
+    },
+    {
+      "item_id": "recycle",
+      "question": "process waste for reuse",
+      "correct": "recycle",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "recycle"
+    },
+    {
+      "item_id": "renew",
+      "question": "extend a contract again",
+      "correct": "renew",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "renew"
+    },
+    {
+      "item_id": "tenant",
+      "question": "person who rents property",
+      "correct": "tenant",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "tenant"
+    },
+    {
+      "item_id": "sandwich",
+      "question": "bread filled with food",
+      "correct": "sandwich",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "sandwich"
+    },
+    {
+      "item_id": "departure",
+      "question": "act of leaving on a trip",
+      "correct": "departure",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "departure"
+    },
+    {
+      "item_id": "mini",
+      "question": "very small in size",
+      "correct": "mini",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "mini"
+    },
+    {
+      "item_id": "fitness",
+      "question": "good physical condition",
+      "correct": "fitness",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "fitness"
+    },
+    {
+      "item_id": "inconvenience",
+      "question": "something that causes trouble",
+      "correct": "inconvenience",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "inconvenience"
+    },
+    {
+      "item_id": "banquet",
+      "question": "formal dinner for guests",
+      "correct": "banquet",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "banquet"
+    },
+    {
+      "item_id": "closet",
+      "question": "small room for clothes",
+      "correct": "closet",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "closet"
+    },
+    {
+      "item_id": "unreal",
+      "question": "not real or believable",
+      "correct": "unreal",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "unreal"
+    },
+    {
+      "item_id": "distractor",
+      "question": "something that pulls attention",
+      "correct": "distractor",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "distractor"
+    },
+    {
+      "item_id": "expire",
+      "question": "reach the end date",
+      "correct": "expire",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "expire"
+    },
+    {
+      "item_id": "folder",
+      "question": "cover that holds papers",
+      "correct": "folder",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "folder"
+    },
+    {
+      "item_id": "photocopy",
+      "question": "make a paper copy",
+      "correct": "photocopy",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "photocopy"
+    },
+    {
+      "item_id": "renovate",
+      "question": "repair and update a building",
+      "correct": "renovate",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "renovate"
+    },
+    {
+      "item_id": "sunny",
+      "question": "bright with strong sunlight",
+      "correct": "sunny",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "sunny"
+    },
+    {
+      "item_id": "calendar",
+      "question": "chart of days and months",
+      "correct": "calendar",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "calendar"
+    },
+    {
+      "item_id": "donation",
+      "question": "money or goods given",
+      "correct": "donation",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "donation"
+    },
+    {
+      "item_id": "feedback",
+      "question": "comments on finished work",
+      "correct": "feedback",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "feedback"
+    },
+    {
+      "item_id": "shortly",
+      "question": "in a very short time",
+      "correct": "shortly",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "shortly"
+    },
+    {
+      "item_id": "snack",
+      "question": "small food between meals",
+      "correct": "snack",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "snack"
+    },
+    {
+      "item_id": "warehouse",
+      "question": "large building for storage",
+      "correct": "warehouse",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "warehouse"
+    },
+    {
+      "item_id": "copier",
+      "question": "machine that copies paper",
+      "correct": "copier",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "copier"
+    },
+    {
+      "item_id": "provider",
+      "question": "company that supplies a service",
+      "correct": "provider",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "provider"
+    },
+    {
+      "item_id": "beverage",
+      "question": "drink served to guests",
+      "correct": "beverage",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "beverage"
+    },
+    {
+      "item_id": "hungry",
+      "question": "wanting something to eat",
+      "correct": "hungry",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "hungry"
+    },
+    {
+      "item_id": "inspection",
+      "question": "official check of something",
+      "correct": "inspection",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "inspection"
+    },
+    {
+      "item_id": "recipient",
+      "question": "person who receives something",
+      "correct": "recipient",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "recipient"
+    },
+    {
+      "item_id": "aisle",
+      "question": "walkway between rows of seats",
+      "correct": "aisle",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "aisle"
+    },
+    {
+      "item_id": "inspect",
+      "question": "look at something carefully",
+      "correct": "inspect",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "inspect"
+    },
+    {
+      "item_id": "mechanic",
+      "question": "person who repairs machines",
+      "correct": "mechanic",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "mechanic"
+    },
+    {
+      "item_id": "merger",
+      "question": "joining of two companies",
+      "correct": "merger",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "merger"
+    },
+    {
+      "item_id": "soccer",
+      "question": "team sport played with a ball",
+      "correct": "soccer",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "soccer"
+    },
+    {
+      "item_id": "sweater",
+      "question": "warm knitted top",
+      "correct": "sweater",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "sweater"
+    },
+    {
+      "item_id": "ingredient",
+      "question": "item used in a recipe",
+      "correct": "ingredient",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "ingredient"
+    },
+    {
+      "item_id": "rewrite",
+      "question": "write something again",
+      "correct": "rewrite",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "rewrite"
+    },
+    {
+      "item_id": "itinerary",
+      "question": "plan of a trip",
+      "correct": "itinerary",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "itinerary"
+    },
+    {
+      "item_id": "workplace",
+      "question": "place where people work",
+      "correct": "workplace",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "workplace"
+    },
+    {
+      "item_id": "architect",
+      "question": "person who designs buildings",
+      "correct": "architect",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "architect"
+    },
+    {
+      "item_id": "convenience",
+      "question": "ease and suitability",
+      "correct": "convenience",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "convenience"
+    },
+    {
+      "item_id": "eligible",
+      "question": "qualified to take part",
+      "correct": "eligible",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "eligible"
+    },
+    {
+      "item_id": "indoor",
+      "question": "located inside a building",
+      "correct": "indoor",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "indoor"
+    },
+    {
+      "item_id": "baggage",
+      "question": "bags a traveler carries",
+      "correct": "baggage",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "baggage"
+    },
+    {
+      "item_id": "dial",
+      "question": "enter a phone number",
+      "correct": "dial",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "dial"
+    },
+    {
+      "item_id": "container",
+      "question": "box that holds goods",
+      "correct": "container",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "container"
+    },
+    {
+      "item_id": "drawer",
+      "question": "sliding box in a desk",
+      "correct": "drawer",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "drawer"
+    },
+    {
+      "item_id": "lab",
+      "question": "room for scientific work",
+      "correct": "lab",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "lab"
+    },
+    {
+      "item_id": "submission",
+      "question": "act of handing work in",
+      "correct": "submission",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "submission"
+    },
+    {
+      "item_id": "bulletin",
+      "question": "short official notice",
+      "correct": "bulletin",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "bulletin"
+    },
+    {
+      "item_id": "certificate",
+      "question": "official paper of completion",
+      "correct": "certificate",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "certificate"
+    },
+    {
+      "item_id": "gym",
+      "question": "room for physical exercise",
+      "correct": "gym",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "gym"
+    },
+    {
+      "item_id": "highway",
+      "question": "major road for fast travel",
+      "correct": "highway",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "highway"
+    },
+    {
+      "item_id": "respondent",
+      "question": "person who answers a survey",
+      "correct": "respondent",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "respondent"
+    },
+    {
+      "item_id": "jewelry",
+      "question": "ornaments worn on the body",
+      "correct": "jewelry",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "jewelry"
+    },
+    {
+      "item_id": "overtime",
+      "question": "extra hours beyond the schedule",
+      "correct": "overtime",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "overtime"
+    },
+    {
+      "item_id": "battery",
+      "question": "device that stores power",
+      "correct": "battery",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "battery"
+    },
+    {
+      "item_id": "donate",
+      "question": "give money or goods",
+      "correct": "donate",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "donate"
+    },
+    {
+      "item_id": "outstanding",
+      "question": "excellent above the usual",
+      "correct": "outstanding",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "outstanding"
+    },
+    {
+      "item_id": "skim",
+      "question": "read quickly for main ideas",
+      "correct": "skim",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "skim"
+    },
+    {
+      "item_id": "briefcase",
+      "question": "case for carrying documents",
+      "correct": "briefcase",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "briefcase"
+    },
+    {
+      "item_id": "dessert",
+      "question": "sweet food after a meal",
+      "correct": "dessert",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "dessert"
+    },
+    {
+      "item_id": "impact",
+      "question": "strong effect on a result",
+      "correct": "impact",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "impact"
+    },
+    {
+      "item_id": "innovative",
+      "question": "new and original in design",
+      "correct": "innovative",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "innovative"
+    },
+    {
+      "item_id": "inquire",
+      "question": "ask for information",
+      "correct": "inquire",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "inquire"
+    },
+    {
+      "item_id": "overnight",
+      "question": "lasting through the night",
+      "correct": "overnight",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "overnight"
+    },
+    {
+      "item_id": "venue",
+      "question": "place where an event is held",
+      "correct": "venue",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "venue"
+    },
+    {
+      "item_id": "commuter",
+      "question": "person who travels to work",
+      "correct": "commuter",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "commuter"
+    },
+    {
+      "item_id": "logo",
+      "question": "symbol that identifies a company",
+      "correct": "logo",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "logo"
+    },
+    {
+      "item_id": "newsletter",
+      "question": "regular update sent to readers",
+      "correct": "newsletter",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "newsletter"
+    },
+    {
+      "item_id": "advisor",
+      "question": "person who gives professional advice",
+      "correct": "advisor",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "advisor"
+    },
+    {
+      "item_id": "cartridge",
+      "question": "replaceable ink unit",
+      "correct": "cartridge",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "cartridge"
+    },
+    {
+      "item_id": "cloudy",
+      "question": "covered with clouds",
+      "correct": "cloudy",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "cloudy"
+    },
+    {
+      "item_id": "photographer",
+      "question": "person who takes photographs",
+      "correct": "photographer",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "photographer"
+    },
+    {
+      "item_id": "shopper",
+      "question": "person who is shopping",
+      "correct": "shopper",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "shopper"
+    },
+    {
+      "item_id": "tag",
+      "question": "small label attached to an item",
+      "correct": "tag",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "tag"
+    },
+    {
+      "item_id": "announcer",
+      "question": "person who makes public announcements",
+      "correct": "announcer",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "announcer"
+    },
+    {
+      "item_id": "aspect",
+      "question": "one part of a situation",
+      "correct": "aspect",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "aspect"
+    },
+    {
+      "item_id": "audit",
+      "question": "official review of accounts",
+      "correct": "audit",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "audit"
+    },
+    {
+      "item_id": "contractor",
+      "question": "person hired to do work",
+      "correct": "contractor",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "contractor"
+    },
+    {
+      "item_id": "download",
+      "question": "copy a file from a network",
+      "correct": "download",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "download"
+    },
+    {
+      "item_id": "password",
+      "question": "secret code for access",
+      "correct": "password",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "password"
+    },
+    {
+      "item_id": "prohibit",
+      "question": "officially forbid an action",
+      "correct": "prohibit",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "prohibit"
+    },
+    {
+      "item_id": "stadium",
+      "question": "large place for sports events",
+      "correct": "stadium",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "stadium"
+    },
+    {
+      "item_id": "terminal",
+      "question": "building where flights begin",
+      "correct": "terminal",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "terminal"
+    },
+    {
+      "item_id": "weekday",
+      "question": "day from Monday to Friday",
+      "correct": "weekday",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "weekday"
+    },
+    {
+      "item_id": "bonus",
+      "question": "extra pay beyond salary",
+      "correct": "bonus",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "bonus"
+    },
+    {
+      "item_id": "cart",
+      "question": "wheeled carrier for bags",
+      "correct": "cart",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "cart"
+    },
+    {
+      "item_id": "delicious",
+      "question": "very pleasant in taste",
+      "correct": "delicious",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "delicious"
+    },
+    {
+      "item_id": "ink",
+      "question": "liquid used for printing",
+      "correct": "ink",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "ink"
+    },
+    {
+      "item_id": "supervise",
+      "question": "watch and direct other workers",
+      "correct": "supervise",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "supervise"
+    },
+    {
+      "item_id": "waitress",
+      "question": "woman who serves restaurant guests",
+      "correct": "waitress",
+      "wrong": [
+        "exit",
+        "attendee"
+      ],
+      "word": "waitress"
+    }
+  ]
+}

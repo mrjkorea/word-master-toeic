@@ -1,0 +1,407 @@
+{
+  "pack_id": "toeic09",
+  "title": "TOEIC 801–900",
+  "seconds_per_letter": 5,
+  "items": [
+    {
+      "item_id": "absorb",
+      "word": "absorb"
+    },
+    {
+      "item_id": "administer",
+      "word": "administer"
+    },
+    {
+      "item_id": "ample",
+      "word": "ample"
+    },
+    {
+      "item_id": "antique",
+      "word": "antique"
+    },
+    {
+      "item_id": "bean",
+      "word": "bean"
+    },
+    {
+      "item_id": "browse",
+      "word": "browse"
+    },
+    {
+      "item_id": "bye",
+      "word": "bye"
+    },
+    {
+      "item_id": "careless",
+      "word": "careless"
+    },
+    {
+      "item_id": "collector",
+      "word": "collector"
+    },
+    {
+      "item_id": "conform",
+      "word": "conform"
+    },
+    {
+      "item_id": "congestion",
+      "word": "congestion"
+    },
+    {
+      "item_id": "contradiction",
+      "word": "contradiction"
+    },
+    {
+      "item_id": "contrary",
+      "word": "contrary"
+    },
+    {
+      "item_id": "diploma",
+      "word": "diploma"
+    },
+    {
+      "item_id": "distributor",
+      "word": "distributor"
+    },
+    {
+      "item_id": "dive",
+      "word": "dive"
+    },
+    {
+      "item_id": "energetic",
+      "word": "energetic"
+    },
+    {
+      "item_id": "environmentally",
+      "word": "environmentally"
+    },
+    {
+      "item_id": "escalator",
+      "word": "escalator"
+    },
+    {
+      "item_id": "exotic",
+      "word": "exotic"
+    },
+    {
+      "item_id": "fabric",
+      "word": "fabric"
+    },
+    {
+      "item_id": "generalization",
+      "word": "generalization"
+    },
+    {
+      "item_id": "guidance",
+      "word": "guidance"
+    },
+    {
+      "item_id": "gum",
+      "word": "gum"
+    },
+    {
+      "item_id": "hesitant",
+      "word": "hesitant"
+    },
+    {
+      "item_id": "indicator",
+      "word": "indicator"
+    },
+    {
+      "item_id": "individually",
+      "word": "individually"
+    },
+    {
+      "item_id": "junior",
+      "word": "junior"
+    },
+    {
+      "item_id": "lifestyle",
+      "word": "lifestyle"
+    },
+    {
+      "item_id": "likewise",
+      "word": "likewise"
+    },
+    {
+      "item_id": "morale",
+      "word": "morale"
+    },
+    {
+      "item_id": "orchestra",
+      "word": "orchestra"
+    },
+    {
+      "item_id": "organizational",
+      "word": "organizational"
+    },
+    {
+      "item_id": "outlook",
+      "word": "outlook"
+    },
+    {
+      "item_id": "physics",
+      "word": "physics"
+    },
+    {
+      "item_id": "pole",
+      "word": "pole"
+    },
+    {
+      "item_id": "puzzle",
+      "word": "puzzle"
+    },
+    {
+      "item_id": "reflexive",
+      "word": "reflexive"
+    },
+    {
+      "item_id": "snowy",
+      "word": "snowy"
+    },
+    {
+      "item_id": "steak",
+      "word": "steak"
+    },
+    {
+      "item_id": "sticker",
+      "word": "sticker"
+    },
+    {
+      "item_id": "telecommunication",
+      "word": "telecommunication"
+    },
+    {
+      "item_id": "timely",
+      "word": "timely"
+    },
+    {
+      "item_id": "uncomfortable",
+      "word": "uncomfortable"
+    },
+    {
+      "item_id": "amenity",
+      "word": "amenity"
+    },
+    {
+      "item_id": "approximate",
+      "word": "approximate"
+    },
+    {
+      "item_id": "await",
+      "word": "await"
+    },
+    {
+      "item_id": "barbecue",
+      "word": "barbecue"
+    },
+    {
+      "item_id": "beginner",
+      "word": "beginner"
+    },
+    {
+      "item_id": "biology",
+      "word": "biology"
+    },
+    {
+      "item_id": "blanket",
+      "word": "blanket"
+    },
+    {
+      "item_id": "chairperson",
+      "word": "chairperson"
+    },
+    {
+      "item_id": "charitable",
+      "word": "charitable"
+    },
+    {
+      "item_id": "checkup",
+      "word": "checkup"
+    },
+    {
+      "item_id": "cooler",
+      "word": "cooler"
+    },
+    {
+      "item_id": "crane",
+      "word": "crane"
+    },
+    {
+      "item_id": "dealership",
+      "word": "dealership"
+    },
+    {
+      "item_id": "dependable",
+      "word": "dependable"
+    },
+    {
+      "item_id": "disconnect",
+      "word": "disconnect"
+    },
+    {
+      "item_id": "dispose",
+      "word": "dispose"
+    },
+    {
+      "item_id": "disrupt",
+      "word": "disrupt"
+    },
+    {
+      "item_id": "dynamic",
+      "word": "dynamic"
+    },
+    {
+      "item_id": "enthusiastically",
+      "word": "enthusiastically"
+    },
+    {
+      "item_id": "freelance",
+      "word": "freelance"
+    },
+    {
+      "item_id": "grill",
+      "word": "grill"
+    },
+    {
+      "item_id": "habitual",
+      "word": "habitual"
+    },
+    {
+      "item_id": "internationally",
+      "word": "internationally"
+    },
+    {
+      "item_id": "invaluable",
+      "word": "invaluable"
+    },
+    {
+      "item_id": "messenger",
+      "word": "messenger"
+    },
+    {
+      "item_id": "paperback",
+      "word": "paperback"
+    },
+    {
+      "item_id": "rebate",
+      "word": "rebate"
+    },
+    {
+      "item_id": "recur",
+      "word": "recur"
+    },
+    {
+      "item_id": "reproduce",
+      "word": "reproduce"
+    },
+    {
+      "item_id": "spray",
+      "word": "spray"
+    },
+    {
+      "item_id": "staple",
+      "word": "staple"
+    },
+    {
+      "item_id": "strategic",
+      "word": "strategic"
+    },
+    {
+      "item_id": "stripe",
+      "word": "stripe"
+    },
+    {
+      "item_id": "teen",
+      "word": "teen"
+    },
+    {
+      "item_id": "tempt",
+      "word": "tempt"
+    },
+    {
+      "item_id": "timer",
+      "word": "timer"
+    },
+    {
+      "item_id": "unload",
+      "word": "unload"
+    },
+    {
+      "item_id": "unusually",
+      "word": "unusually"
+    },
+    {
+      "item_id": "vacate",
+      "word": "vacate"
+    },
+    {
+      "item_id": "whale",
+      "word": "whale"
+    },
+    {
+      "item_id": "wisely",
+      "word": "wisely"
+    },
+    {
+      "item_id": "amateur",
+      "word": "amateur"
+    },
+    {
+      "item_id": "ambassador",
+      "word": "ambassador"
+    },
+    {
+      "item_id": "anew",
+      "word": "anew"
+    },
+    {
+      "item_id": "architectural",
+      "word": "architectural"
+    },
+    {
+      "item_id": "attain",
+      "word": "attain"
+    },
+    {
+      "item_id": "balloon",
+      "word": "balloon"
+    },
+    {
+      "item_id": "blueprint",
+      "word": "blueprint"
+    },
+    {
+      "item_id": "bug",
+      "word": "bug"
+    },
+    {
+      "item_id": "cautious",
+      "word": "cautious"
+    },
+    {
+      "item_id": "circuit",
+      "word": "circuit"
+    },
+    {
+      "item_id": "clap",
+      "word": "clap"
+    },
+    {
+      "item_id": "commerce",
+      "word": "commerce"
+    },
+    {
+      "item_id": "convey",
+      "word": "convey"
+    },
+    {
+      "item_id": "cord",
+      "word": "cord"
+    },
+    {
+      "item_id": "counselor",
+      "word": "counselor"
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "pack_id": "toeic02",
+  "title": "TOEIC 101–200",
+  "seconds_per_letter": 5,
+  "items": [
+    {
+      "item_id": "exit",
+      "word": "exit"
+    },
+    {
+      "item_id": "attendee",
+      "word": "attendee"
+    },
+    {
+      "item_id": "cruise",
+      "word": "cruise"
+    },
+    {
+      "item_id": "birthday",
+      "word": "birthday"
+    },
+    {
+      "item_id": "cafe",
+      "word": "café"
+    },
+    {
+      "item_id": "comprehension",
+      "word": "comprehension"
+    },
+    {
+      "item_id": "mall",
+      "word": "mall"
+    },
+    {
+      "item_id": "medication",
+      "word": "medication"
+    },
+    {
+      "item_id": "recycle",
+      "word": "recycle"
+    },
+    {
+      "item_id": "renew",
+      "word": "renew"
+    },
+    {
+      "item_id": "tenant",
+      "word": "tenant"
+    },
+    {
+      "item_id": "sandwich",
+      "word": "sandwich"
+    },
+    {
+      "item_id": "departure",
+      "word": "departure"
+    },
+    {
+      "item_id": "mini",
+      "word": "mini"
+    },
+    {
+      "item_id": "fitness",
+      "word": "fitness"
+    },
+    {
+      "item_id": "inconvenience",
+      "word": "inconvenience"
+    },
+    {
+      "item_id": "banquet",
+      "word": "banquet"
+    },
+    {
+      "item_id": "closet",
+      "word": "closet"
+    },
+    {
+      "item_id": "unreal",
+      "word": "unreal"
+    },
+    {
+      "item_id": "distractor",
+      "word": "distractor"
+    },
+    {
+      "item_id": "expire",
+      "word": "expire"
+    },
+    {
+      "item_id": "folder",
+      "word": "folder"
+    },
+    {
+      "item_id": "photocopy",
+      "word": "photocopy"
+    },
+    {
+      "item_id": "renovate",
+      "word": "renovate"
+    },
+    {
+      "item_id": "sunny",
+      "word": "sunny"
+    },
+    {
+      "item_id": "calendar",
+      "word": "calendar"
+    },
+    {
+      "item_id": "donation",
+      "word": "donation"
+    },
+    {
+      "item_id": "feedback",
+      "word": "feedback"
+    },
+    {
+      "item_id": "shortly",
+      "word": "shortly"
+    },
+    {
+      "item_id": "snack",
+      "word": "snack"
+    },
+    {
+      "item_id": "warehouse",
+      "word": "warehouse"
+    },
+    {
+      "item_id": "copier",
+      "word": "copier"
+    },
+    {
+      "item_id": "provider",
+      "word": "provider"
+    },
+    {
+      "item_id": "beverage",
+      "word": "beverage"
+    },
+    {
+      "item_id": "hungry",
+      "word": "hungry"
+    },
+    {
+      "item_id": "inspection",
+      "word": "inspection"
+    },
+    {
+      "item_id": "recipient",
+      "word": "recipient"
+    },
+    {
+      "item_id": "aisle",
+      "word": "aisle"
+    },
+    {
+      "item_id": "inspect",
+      "word": "inspect"
+    },
+    {
+      "item_id": "mechanic",
+      "word": "mechanic"
+    },
+    {
+      "item_id": "merger",
+      "word": "merger"
+    },
+    {
+      "item_id": "soccer",
+      "word": "soccer"
+    },
+    {
+      "item_id": "sweater",
+      "word": "sweater"
+    },
+    {
+      "item_id": "ingredient",
+      "word": "ingredient"
+    },
+    {
+      "item_id": "rewrite",
+      "word": "rewrite"
+    },
+    {
+      "item_id": "itinerary",
+      "word": "itinerary"
+    },
+    {
+      "item_id": "workplace",
+      "word": "workplace"
+    },
+    {
+      "item_id": "architect",
+      "word": "architect"
+    },
+    {
+      "item_id": "convenience",
+      "word": "convenience"
+    },
+    {
+      "item_id": "eligible",
+      "word": "eligible"
+    },
+    {
+      "item_id": "indoor",
+      "word": "indoor"
+    },
+    {
+      "item_id": "baggage",
+      "word": "baggage"
+    },
+    {
+      "item_id": "dial",
+      "word": "dial"
+    },
+    {
+      "item_id": "container",
+      "word": "container"
+    },
+    {
+      "item_id": "drawer",
+      "word": "drawer"
+    },
+    {
+      "item_id": "lab",
+      "word": "lab"
+    },
+    {
+      "item_id": "submission",
+      "word": "submission"
+    },
+    {
+      "item_id": "bulletin",
+      "word": "bulletin"
+    },
+    {
+      "item_id": "certificate",
+      "word": "certificate"
+    },
+    {
+      "item_id": "gym",
+      "word": "gym"
+    },
+    {
+      "item_id": "highway",
+      "word": "highway"
+    },
+    {
+      "item_id": "respondent",
+      "word": "respondent"
+    },
+    {
+      "item_id": "jewelry",
+      "word": "jewelry"
+    },
+    {
+      "item_id": "overtime",
+      "word": "overtime"
+    },
+    {
+      "item_id": "battery",
+      "word": "battery"
+    },
+    {
+      "item_id": "donate",
+      "word": "donate"
+    },
+    {
+      "item_id": "outstanding",
+      "word": "outstanding"
+    },
+    {
+      "item_id": "skim",
+      "word": "skim"
+    },
+    {
+      "item_id": "briefcase",
+      "word": "briefcase"
+    },
+    {
+      "item_id": "dessert",
+      "word": "dessert"
+    },
+    {
+      "item_id": "impact",
+      "word": "impact"
+    },
+    {
+      "item_id": "innovative",
+      "word": "innovative"
+    },
+    {
+      "item_id": "inquire",
+      "word": "inquire"
+    },
+    {
+      "item_id": "overnight",
+      "word": "overnight"
+    },
+    {
+      "item_id": "venue",
+      "word": "venue"
+    },
+    {
+      "item_id": "commuter",
+      "word": "commuter"
+    },
+    {
+      "item_id": "logo",
+      "word": "logo"
+    },
+    {
+      "item_id": "newsletter",
+      "word": "newsletter"
+    },
+    {
+      "item_id": "advisor",
+      "word": "advisor"
+    },
+    {
+      "item_id": "cartridge",
+      "word": "cartridge"
+    },
+    {
+      "item_id": "cloudy",
+      "word": "cloudy"
+    },
+    {
+      "item_id": "photographer",
+      "word": "photographer"
+    },
+    {
+      "item_id": "shopper",
+      "word": "shopper"
+    },
+    {
+      "item_id": "tag",
+      "word": "tag"
+    },
+    {
+      "item_id": "announcer",
+      "word": "announcer"
+    },
+    {
+      "item_id": "aspect",
+      "word": "aspect"
+    },
+    {
+      "item_id": "audit",
+      "word": "audit"
+    },
+    {
+      "item_id": "contractor",
+      "word": "contractor"
+    },
+    {
+      "item_id": "download",
+      "word": "download"
+    },
+    {
+      "item_id": "password",
+      "word": "password"
+    },
+    {
+      "item_id": "prohibit",
+      "word": "prohibit"
+    },
+    {
+      "item_id": "stadium",
+      "word": "stadium"
+    },
+    {
+      "item_id": "terminal",
+      "word": "terminal"
+    },
+    {
+      "item_id": "weekday",
+      "word": "weekday"
+    },
+    {
+      "item_id": "bonus",
+      "word": "bonus"
+    },
+    {
+      "item_id": "cart",
+      "word": "cart"
+    },
+    {
+      "item_id": "delicious",
+      "word": "delicious"
+    },
+    {
+      "item_id": "ink",
+      "word": "ink"
+    },
+    {
+      "item_id": "supervise",
+      "word": "supervise"
+    },
+    {
+      "item_id": "waitress",
+      "word": "waitress"
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "pack_id": "toeic14",
+  "title": "TOEIC 1301–1400",
+  "seconds_per_letter": 5,
+  "items": [
+    {
+      "item_id": "colleague",
+      "word": "colleague"
+    },
+    {
+      "item_id": "volunteer",
+      "word": "volunteer"
+    },
+    {
+      "item_id": "dealer",
+      "word": "dealer"
+    },
+    {
+      "item_id": "guard",
+      "word": "guard"
+    },
+    {
+      "item_id": "detective",
+      "word": "detective"
+    },
+    {
+      "item_id": "thief",
+      "word": "thief"
+    },
+    {
+      "item_id": "burglar",
+      "word": "burglar"
+    },
+    {
+      "item_id": "robber",
+      "word": "robber"
+    },
+    {
+      "item_id": "prisoner",
+      "word": "prisoner"
+    },
+    {
+      "item_id": "paramedic",
+      "word": "paramedic"
+    },
+    {
+      "item_id": "stretcher",
+      "word": "stretcher"
+    },
+    {
+      "item_id": "crutch",
+      "word": "crutch"
+    },
+    {
+      "item_id": "bandage",
+      "word": "bandage"
+    },
+    {
+      "item_id": "plaster",
+      "word": "plaster"
+    },
+    {
+      "item_id": "syringe",
+      "word": "syringe"
+    },
+    {
+      "item_id": "thermometer",
+      "word": "thermometer"
+    },
+    {
+      "item_id": "stethoscope",
+      "word": "stethoscope"
+    },
+    {
+      "item_id": "scalpel",
+      "word": "scalpel"
+    },
+    {
+      "item_id": "telescope",
+      "word": "telescope"
+    },
+    {
+      "item_id": "binoculars",
+      "word": "binoculars"
+    },
+    {
+      "item_id": "tripod",
+      "word": "tripod"
+    },
+    {
+      "item_id": "lens",
+      "word": "lens"
+    },
+    {
+      "item_id": "flash",
+      "word": "flash"
+    },
+    {
+      "item_id": "album",
+      "word": "album"
+    },
+    {
+      "item_id": "frame",
+      "word": "frame"
+    },
+    {
+      "item_id": "portrait",
+      "word": "portrait"
+    },
+    {
+      "item_id": "landscape",
+      "word": "landscape"
+    },
+    {
+      "item_id": "easel",
+      "word": "easel"
+    },
+    {
+      "item_id": "canvas",
+      "word": "canvas"
+    },
+    {
+      "item_id": "palette",
+      "word": "palette"
+    },
+    {
+      "item_id": "crayon",
+      "word": "crayon"
+    },
+    {
+      "item_id": "marker",
+      "word": "marker"
+    },
+    {
+      "item_id": "pencil",
+      "word": "pencil"
+    },
+    {
+      "item_id": "eraser",
+      "word": "eraser"
+    },
+    {
+      "item_id": "ruler",
+      "word": "ruler"
+    },
+    {
+      "item_id": "scissors",
+      "word": "scissors"
+    },
+    {
+      "item_id": "clipboard",
+      "word": "clipboard"
+    },
+    {
+      "item_id": "notepad",
+      "word": "notepad"
+    },
+    {
+      "item_id": "compass",
+      "word": "compass"
+    },
+    {
+      "item_id": "globe",
+      "word": "globe"
+    },
+    {
+      "item_id": "atlas",
+      "word": "atlas"
+    },
+    {
+      "item_id": "handbag",
+      "word": "handbag"
+    },
+    {
+      "item_id": "stamp",
+      "word": "stamp"
+    },
+    {
+      "item_id": "envelope",
+      "word": "envelope"
+    },
+    {
+      "item_id": "ribbon",
+      "word": "ribbon"
+    },
+    {
+      "item_id": "candle",
+      "word": "candle"
+    },
+    {
+      "item_id": "flashlight",
+      "word": "flashlight"
+    },
+    {
+      "item_id": "mirror",
+      "word": "mirror"
+    },
+    {
+      "item_id": "curtain",
+      "word": "curtain"
+    },
+    {
+      "item_id": "carpet",
+      "word": "carpet"
+    },
+    {
+      "item_id": "mattress",
+      "word": "mattress"
+    },
+    {
+      "item_id": "armchair",
+      "word": "armchair"
+    },
+    {
+      "item_id": "stool",
+      "word": "stool"
+    },
+    {
+      "item_id": "cupboard",
+      "word": "cupboard"
+    },
+    {
+      "item_id": "wardrobe",
+      "word": "wardrobe"
+    },
+    {
+      "item_id": "hanger",
+      "word": "hanger"
+    },
+    {
+      "item_id": "doorbell",
+      "word": "doorbell"
+    },
+    {
+      "item_id": "staircase",
+      "word": "staircase"
+    },
+    {
+      "item_id": "porch",
+      "word": "porch"
+    },
+    {
+      "item_id": "patio",
+      "word": "patio"
+    },
+    {
+      "item_id": "attic",
+      "word": "attic"
+    },
+    {
+      "item_id": "chimney",
+      "word": "chimney"
+    },
+    {
+      "item_id": "roof",
+      "word": "roof"
+    },
+    {
+      "item_id": "fence",
+      "word": "fence"
+    },
+    {
+      "item_id": "driveway",
+      "word": "driveway"
+    },
+    {
+      "item_id": "crosswalk",
+      "word": "crosswalk"
+    },
+    {
+      "item_id": "mailbox",
+      "word": "mailbox"
+    },
+    {
+      "item_id": "newspaper",
+      "word": "newspaper"
+    },
+    {
+      "item_id": "magazine",
+      "word": "magazine"
+    },
+    {
+      "item_id": "comic",
+      "word": "comic"
+    },
+    {
+      "item_id": "novel",
+      "word": "novel"
+    },
+    {
+      "item_id": "dictionary",
+      "word": "dictionary"
+    },
+    {
+      "item_id": "notebook",
+      "word": "notebook"
+    },
+    {
+      "item_id": "medal",
+      "word": "medal"
+    },
+    {
+      "item_id": "trophy",
+      "word": "trophy"
+    },
+    {
+      "item_id": "uniform",
+      "word": "uniform"
+    },
+    {
+      "item_id": "goggles",
+      "word": "goggles"
+    },
+    {
+      "item_id": "mittens",
+      "word": "mittens"
+    },
+    {
+      "item_id": "necktie",
+      "word": "necktie"
+    },
+    {
+      "item_id": "apron",
+      "word": "apron"
+    },
+    {
+      "item_id": "sneaker",
+      "word": "sneaker"
+    },
+    {
+      "item_id": "sandal",
+      "word": "sandal"
+    },
+    {
+      "item_id": "boot",
+      "word": "boot"
+    },
+    {
+      "item_id": "slipper",
+      "word": "slipper"
+    },
+    {
+      "item_id": "puddle",
+      "word": "puddle"
+    },
+    {
+      "item_id": "snowman",
+      "word": "snowman"
+    },
+    {
+      "item_id": "rainbow",
+      "word": "rainbow"
+    },
+    {
+      "item_id": "cloud",
+      "word": "cloud"
+    },
+    {
+      "item_id": "breeze",
+      "word": "breeze"
+    },
+    {
+      "item_id": "tornado",
+      "word": "tornado"
+    },
+    {
+      "item_id": "volcano",
+      "word": "volcano"
+    },
+    {
+      "item_id": "island",
+      "word": "island"
+    },
+    {
+      "item_id": "harbor",
+      "word": "harbor"
+    },
+    {
+      "item_id": "pier",
+      "word": "pier"
+    },
+    {
+      "item_id": "lighthouse",
+      "word": "lighthouse"
+    },
+    {
+      "item_id": "buoy",
+      "word": "buoy"
+    },
+    {
+      "item_id": "anchor",
+      "word": "anchor"
+    },
+    {
+      "item_id": "sail",
+      "word": "sail"
+    },
+    {
+      "item_id": "cockpit",
+      "word": "cockpit"
+    },
+    {
+      "item_id": "runway",
+      "word": "runway"
+    }
+  ]
+}

@@ -1,0 +1,1008 @@
+{
+  "pack_id": "toeic03",
+  "title": "TOEIC 201–300",
+  "module_id": "snow_jump",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "cleaner",
+      "question": "person who cleans a workplace",
+      "correct": "cleaner",
+      "wrong": [
+        "developer",
+        "headquarter"
+      ],
+      "word": "cleaner"
+    },
+    {
+      "item_id": "developer",
+      "question": "person who builds software",
+      "correct": "developer",
+      "wrong": [
+        "cleaner",
+        "headquarter"
+      ],
+      "word": "developer"
+    },
+    {
+      "item_id": "headquarter",
+      "question": "main office of a company",
+      "correct": "headquarter",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "headquarter"
+    },
+    {
+      "item_id": "shuttle",
+      "question": "vehicle on a short regular route",
+      "correct": "shuttle",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "shuttle"
+    },
+    {
+      "item_id": "stationery",
+      "question": "paper and office writing supplies",
+      "correct": "stationery",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "stationery"
+    },
+    {
+      "item_id": "subscribe",
+      "question": "pay to receive a service regularly",
+      "correct": "subscribe",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "subscribe"
+    },
+    {
+      "item_id": "alike",
+      "question": "similar to one another",
+      "correct": "alike",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "alike"
+    },
+    {
+      "item_id": "flavor",
+      "question": "taste of a food or drink",
+      "correct": "flavor",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "flavor"
+    },
+    {
+      "item_id": "picnic",
+      "question": "outdoor meal for a group",
+      "correct": "picnic",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "picnic"
+    },
+    {
+      "item_id": "recipe",
+      "question": "instructions for preparing a dish",
+      "correct": "recipe",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "recipe"
+    },
+    {
+      "item_id": "refreshment",
+      "question": "light food or drink served",
+      "correct": "refreshment",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "refreshment"
+    },
+    {
+      "item_id": "administrative",
+      "question": "related to office management",
+      "correct": "administrative",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "administrative"
+    },
+    {
+      "item_id": "authorize",
+      "question": "give official permission",
+      "correct": "authorize",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "authorize"
+    },
+    {
+      "item_id": "commonly",
+      "question": "in a usual or frequent way",
+      "correct": "commonly",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "commonly"
+    },
+    {
+      "item_id": "distribution",
+      "question": "supplying goods to customers",
+      "correct": "distribution",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "distribution"
+    },
+    {
+      "item_id": "sofa",
+      "question": "long padded seat for guests",
+      "correct": "sofa",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "sofa"
+    },
+    {
+      "item_id": "accommodate",
+      "question": "provide lodging for guests",
+      "correct": "accommodate",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "accommodate"
+    },
+    {
+      "item_id": "affordable",
+      "question": "cheap enough for most people",
+      "correct": "affordable",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "affordable"
+    },
+    {
+      "item_id": "annoy",
+      "question": "make someone feel irritated",
+      "correct": "annoy",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "annoy"
+    },
+    {
+      "item_id": "commute",
+      "question": "travel regularly to work",
+      "correct": "commute",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "commute"
+    },
+    {
+      "item_id": "coordinate",
+      "question": "organize people or tasks together",
+      "correct": "coordinate",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "coordinate"
+    },
+    {
+      "item_id": "paperwork",
+      "question": "routine office forms and documents",
+      "correct": "paperwork",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "paperwork"
+    },
+    {
+      "item_id": "quit",
+      "question": "leave a job",
+      "correct": "quit",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "quit"
+    },
+    {
+      "item_id": "authority",
+      "question": "official power to decide",
+      "correct": "authority",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "authority"
+    },
+    {
+      "item_id": "flu",
+      "question": "a common viral illness",
+      "correct": "flu",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "flu"
+    },
+    {
+      "item_id": "captain",
+      "question": "officer in charge of a flight",
+      "correct": "captain",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "captain"
+    },
+    {
+      "item_id": "installation",
+      "question": "putting equipment into place",
+      "correct": "installation",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "installation"
+    },
+    {
+      "item_id": "trainer",
+      "question": "person who teaches job skills",
+      "correct": "trainer",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "trainer"
+    },
+    {
+      "item_id": "availability",
+      "question": "whether something is free to use",
+      "correct": "availability",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "availability"
+    },
+    {
+      "item_id": "bargain",
+      "question": "something bought at a low price",
+      "correct": "bargain",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "bargain"
+    },
+    {
+      "item_id": "complimentary",
+      "question": "given free of charge",
+      "correct": "complimentary",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "complimentary"
+    },
+    {
+      "item_id": "hike",
+      "question": "a long walk outdoors",
+      "correct": "hike",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "hike"
+    },
+    {
+      "item_id": "midnight",
+      "question": "twelve o'clock at night",
+      "correct": "midnight",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "midnight"
+    },
+    {
+      "item_id": "productivity",
+      "question": "rate of useful work done",
+      "correct": "productivity",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "productivity"
+    },
+    {
+      "item_id": "rainy",
+      "question": "having a lot of rain",
+      "correct": "rainy",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "rainy"
+    },
+    {
+      "item_id": "relocate",
+      "question": "move to a new place",
+      "correct": "relocate",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "relocate"
+    },
+    {
+      "item_id": "trainee",
+      "question": "person learning a new job",
+      "correct": "trainee",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "trainee"
+    },
+    {
+      "item_id": "transaction",
+      "question": "a business deal or payment",
+      "correct": "transaction",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "transaction"
+    },
+    {
+      "item_id": "unhappy",
+      "question": "not pleased or satisfied",
+      "correct": "unhappy",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "unhappy"
+    },
+    {
+      "item_id": "verify",
+      "question": "check that something is correct",
+      "correct": "verify",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "verify"
+    },
+    {
+      "item_id": "automobile",
+      "question": "a passenger road vehicle",
+      "correct": "automobile",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "automobile"
+    },
+    {
+      "item_id": "courier",
+      "question": "person who delivers packages",
+      "correct": "courier",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "courier"
+    },
+    {
+      "item_id": "incomplete",
+      "question": "not finished or missing parts",
+      "correct": "incomplete",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "incomplete"
+    },
+    {
+      "item_id": "questionnaire",
+      "question": "a form with set questions",
+      "correct": "questionnaire",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "questionnaire"
+    },
+    {
+      "item_id": "baseball",
+      "question": "a team sport played with a bat",
+      "correct": "baseball",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "baseball"
+    },
+    {
+      "item_id": "dock",
+      "question": "place where ships are loaded",
+      "correct": "dock",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "dock"
+    },
+    {
+      "item_id": "lamp",
+      "question": "a device that gives light",
+      "correct": "lamp",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "lamp"
+    },
+    {
+      "item_id": "lately",
+      "question": "in the recent past",
+      "correct": "lately",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "lately"
+    },
+    {
+      "item_id": "machinery",
+      "question": "machines used for work",
+      "correct": "machinery",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "machinery"
+    },
+    {
+      "item_id": "presenter",
+      "question": "person who gives a presentation",
+      "correct": "presenter",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "presenter"
+    },
+    {
+      "item_id": "seldom",
+      "question": "not often",
+      "correct": "seldom",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "seldom"
+    },
+    {
+      "item_id": "signature",
+      "question": "a person's name written by hand",
+      "correct": "signature",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "signature"
+    },
+    {
+      "item_id": "worldwide",
+      "question": "covering the whole world",
+      "correct": "worldwide",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "worldwide"
+    },
+    {
+      "item_id": "carrier",
+      "question": "company that transports goods",
+      "correct": "carrier",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "carrier"
+    },
+    {
+      "item_id": "designate",
+      "question": "officially choose someone for a role",
+      "correct": "designate",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "designate"
+    },
+    {
+      "item_id": "exclusive",
+      "question": "limited to one group",
+      "correct": "exclusive",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "exclusive"
+    },
+    {
+      "item_id": "grocery",
+      "question": "food sold by a grocer",
+      "correct": "grocery",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "grocery"
+    },
+    {
+      "item_id": "homework",
+      "question": "research done before a meeting",
+      "correct": "homework",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "homework"
+    },
+    {
+      "item_id": "memorandum",
+      "question": "a short official office note",
+      "correct": "memorandum",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "memorandum"
+    },
+    {
+      "item_id": "photocopier",
+      "question": "machine that copies documents",
+      "correct": "photocopier",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "photocopier"
+    },
+    {
+      "item_id": "suite",
+      "question": "connected rooms in a hotel",
+      "correct": "suite",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "suite"
+    },
+    {
+      "item_id": "thorough",
+      "question": "careful and complete",
+      "correct": "thorough",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "thorough"
+    },
+    {
+      "item_id": "bookstore",
+      "question": "a shop that sells books",
+      "correct": "bookstore",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "bookstore"
+    },
+    {
+      "item_id": "cater",
+      "question": "provide food for an event",
+      "correct": "cater",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "cater"
+    },
+    {
+      "item_id": "dental",
+      "question": "related to teeth or dentistry",
+      "correct": "dental",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "dental"
+    },
+    {
+      "item_id": "duration",
+      "question": "length of time something lasts",
+      "correct": "duration",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "duration"
+    },
+    {
+      "item_id": "lounge",
+      "question": "a comfortable waiting room",
+      "correct": "lounge",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "lounge"
+    },
+    {
+      "item_id": "painter",
+      "question": "person who paints rooms",
+      "correct": "painter",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "painter"
+    },
+    {
+      "item_id": "patron",
+      "question": "a customer of a business",
+      "correct": "patron",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "patron"
+    },
+    {
+      "item_id": "prescription",
+      "question": "a doctor's order for medicine",
+      "correct": "prescription",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "prescription"
+    },
+    {
+      "item_id": "productive",
+      "question": "achieving a lot of useful work",
+      "correct": "productive",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "productive"
+    },
+    {
+      "item_id": "salad",
+      "question": "a cold dish of mixed vegetables",
+      "correct": "salad",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "salad"
+    },
+    {
+      "item_id": "stack",
+      "question": "a neat pile of things",
+      "correct": "stack",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "stack"
+    },
+    {
+      "item_id": "delegate",
+      "question": "give a task to someone else",
+      "correct": "delegate",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "delegate"
+    },
+    {
+      "item_id": "salesperson",
+      "question": "person whose job is selling",
+      "correct": "salesperson",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "salesperson"
+    },
+    {
+      "item_id": "calculator",
+      "question": "a device used for arithmetic",
+      "correct": "calculator",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "calculator"
+    },
+    {
+      "item_id": "completion",
+      "question": "the finishing of something",
+      "correct": "completion",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "completion"
+    },
+    {
+      "item_id": "defect",
+      "question": "a fault in a product",
+      "correct": "defect",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "defect"
+    },
+    {
+      "item_id": "garbage",
+      "question": "waste that is thrown away",
+      "correct": "garbage",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "garbage"
+    },
+    {
+      "item_id": "omit",
+      "question": "leave something out on purpose",
+      "correct": "omit",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "omit"
+    },
+    {
+      "item_id": "spite",
+      "question": "a wish to hurt someone",
+      "correct": "spite",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "spite"
+    },
+    {
+      "item_id": "bathroom",
+      "question": "a room with a toilet and sink",
+      "correct": "bathroom",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "bathroom"
+    },
+    {
+      "item_id": "cab",
+      "question": "a hired car with a driver",
+      "correct": "cab",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "cab"
+    },
+    {
+      "item_id": "correspondence",
+      "question": "letters and messages exchanged",
+      "correct": "correspondence",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "correspondence"
+    },
+    {
+      "item_id": "ladder",
+      "question": "portable steps for climbing",
+      "correct": "ladder",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "ladder"
+    },
+    {
+      "item_id": "photography",
+      "question": "the work of taking photos",
+      "correct": "photography",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "photography"
+    },
+    {
+      "item_id": "sculpture",
+      "question": "art shaped from stone or metal",
+      "correct": "sculpture",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "sculpture"
+    },
+    {
+      "item_id": "anniversary",
+      "question": "yearly date of a past event",
+      "correct": "anniversary",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "anniversary"
+    },
+    {
+      "item_id": "buffet",
+      "question": "a self-serve meal",
+      "correct": "buffet",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "buffet"
+    },
+    {
+      "item_id": "defective",
+      "question": "having a fault",
+      "correct": "defective",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "defective"
+    },
+    {
+      "item_id": "ice-cream",
+      "question": "a frozen sweet milk dessert",
+      "correct": "ice cream",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "ice cream"
+    },
+    {
+      "item_id": "leak",
+      "question": "liquid escaping through a crack",
+      "correct": "leak",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "leak"
+    },
+    {
+      "item_id": "occupancy",
+      "question": "share of rooms currently in use",
+      "correct": "occupancy",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "occupancy"
+    },
+    {
+      "item_id": "proficiency",
+      "question": "a high level of skill",
+      "correct": "proficiency",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "proficiency"
+    },
+    {
+      "item_id": "renewal",
+      "question": "extending an agreement again",
+      "correct": "renewal",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "renewal"
+    },
+    {
+      "item_id": "urgent",
+      "question": "needing immediate action",
+      "correct": "urgent",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "urgent"
+    },
+    {
+      "item_id": "annually",
+      "question": "once every year",
+      "correct": "annually",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "annually"
+    },
+    {
+      "item_id": "basketball",
+      "question": "a team sport with a hoop",
+      "correct": "basketball",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "basketball"
+    },
+    {
+      "item_id": "delete",
+      "question": "remove stored data",
+      "correct": "delete",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "delete"
+    },
+    {
+      "item_id": "illogical",
+      "question": "not reasonable or sensible",
+      "correct": "illogical",
+      "wrong": [
+        "cleaner",
+        "developer"
+      ],
+      "word": "illogical"
+    }
+  ]
+}

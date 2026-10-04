@@ -1,0 +1,407 @@
+{
+  "pack_id": "toeic07",
+  "title": "TOEIC 601–700",
+  "seconds_per_letter": 5,
+  "items": [
+    {
+      "item_id": "fasten",
+      "word": "fasten"
+    },
+    {
+      "item_id": "harmful",
+      "word": "harmful"
+    },
+    {
+      "item_id": "informative",
+      "word": "informative"
+    },
+    {
+      "item_id": "institute",
+      "word": "institute"
+    },
+    {
+      "item_id": "kit",
+      "word": "kit"
+    },
+    {
+      "item_id": "locally",
+      "word": "locally"
+    },
+    {
+      "item_id": "mentor",
+      "word": "mentor"
+    },
+    {
+      "item_id": "nominate",
+      "word": "nominate"
+    },
+    {
+      "item_id": "opt",
+      "word": "opt"
+    },
+    {
+      "item_id": "parade",
+      "word": "parade"
+    },
+    {
+      "item_id": "physician",
+      "word": "physician"
+    },
+    {
+      "item_id": "polish",
+      "word": "polish"
+    },
+    {
+      "item_id": "postage",
+      "word": "postage"
+    },
+    {
+      "item_id": "recreational",
+      "word": "recreational"
+    },
+    {
+      "item_id": "rehearse",
+      "word": "rehearse"
+    },
+    {
+      "item_id": "removal",
+      "word": "removal"
+    },
+    {
+      "item_id": "satisfactory",
+      "word": "satisfactory"
+    },
+    {
+      "item_id": "seasonal",
+      "word": "seasonal"
+    },
+    {
+      "item_id": "separately",
+      "word": "separately"
+    },
+    {
+      "item_id": "turnover",
+      "word": "turnover"
+    },
+    {
+      "item_id": "unnecessary",
+      "word": "unnecessary"
+    },
+    {
+      "item_id": "accordingly",
+      "word": "accordingly"
+    },
+    {
+      "item_id": "apple",
+      "word": "apple"
+    },
+    {
+      "item_id": "applicable",
+      "word": "applicable"
+    },
+    {
+      "item_id": "auction",
+      "word": "auction"
+    },
+    {
+      "item_id": "balcony",
+      "word": "balcony"
+    },
+    {
+      "item_id": "basement",
+      "word": "basement"
+    },
+    {
+      "item_id": "beforehand",
+      "word": "beforehand"
+    },
+    {
+      "item_id": "culinary",
+      "word": "culinary"
+    },
+    {
+      "item_id": "documentary",
+      "word": "documentary"
+    },
+    {
+      "item_id": "downturn",
+      "word": "downturn"
+    },
+    {
+      "item_id": "earthquake",
+      "word": "earthquake"
+    },
+    {
+      "item_id": "elegant",
+      "word": "elegant"
+    },
+    {
+      "item_id": "excessive",
+      "word": "excessive"
+    },
+    {
+      "item_id": "generic",
+      "word": "generic"
+    },
+    {
+      "item_id": "jazz",
+      "word": "jazz"
+    },
+    {
+      "item_id": "lifetime",
+      "word": "lifetime"
+    },
+    {
+      "item_id": "massage",
+      "word": "massage"
+    },
+    {
+      "item_id": "maximize",
+      "word": "maximize"
+    },
+    {
+      "item_id": "mild",
+      "word": "mild"
+    },
+    {
+      "item_id": "ongoing",
+      "word": "ongoing"
+    },
+    {
+      "item_id": "periodically",
+      "word": "periodically"
+    },
+    {
+      "item_id": "pie",
+      "word": "pie"
+    },
+    {
+      "item_id": "plug",
+      "word": "plug"
+    },
+    {
+      "item_id": "recruitment",
+      "word": "recruitment"
+    },
+    {
+      "item_id": "referee",
+      "word": "referee"
+    },
+    {
+      "item_id": "referral",
+      "word": "referral"
+    },
+    {
+      "item_id": "renown",
+      "word": "renown"
+    },
+    {
+      "item_id": "runner",
+      "word": "runner"
+    },
+    {
+      "item_id": "sock",
+      "word": "sock"
+    },
+    {
+      "item_id": "spam",
+      "word": "spam"
+    },
+    {
+      "item_id": "surf",
+      "word": "surf"
+    },
+    {
+      "item_id": "timetable",
+      "word": "timetable"
+    },
+    {
+      "item_id": "vase",
+      "word": "vase"
+    },
+    {
+      "item_id": "aboard",
+      "word": "aboard"
+    },
+    {
+      "item_id": "advancement",
+      "word": "advancement"
+    },
+    {
+      "item_id": "advertiser",
+      "word": "advertiser"
+    },
+    {
+      "item_id": "alternatively",
+      "word": "alternatively"
+    },
+    {
+      "item_id": "amuse",
+      "word": "amuse"
+    },
+    {
+      "item_id": "attorney",
+      "word": "attorney"
+    },
+    {
+      "item_id": "authorization",
+      "word": "authorization"
+    },
+    {
+      "item_id": "campus",
+      "word": "campus"
+    },
+    {
+      "item_id": "candy",
+      "word": "candy"
+    },
+    {
+      "item_id": "certify",
+      "word": "certify"
+    },
+    {
+      "item_id": "checkout",
+      "word": "checkout"
+    },
+    {
+      "item_id": "chemistry",
+      "word": "chemistry"
+    },
+    {
+      "item_id": "circulation",
+      "word": "circulation"
+    },
+    {
+      "item_id": "concierge",
+      "word": "concierge"
+    },
+    {
+      "item_id": "consent",
+      "word": "consent"
+    },
+    {
+      "item_id": "consistently",
+      "word": "consistently"
+    },
+    {
+      "item_id": "cookie",
+      "word": "cookie"
+    },
+    {
+      "item_id": "deck",
+      "word": "deck"
+    },
+    {
+      "item_id": "descriptive",
+      "word": "descriptive"
+    },
+    {
+      "item_id": "detach",
+      "word": "detach"
+    },
+    {
+      "item_id": "documentation",
+      "word": "documentation"
+    },
+    {
+      "item_id": "entrepreneur",
+      "word": "entrepreneur"
+    },
+    {
+      "item_id": "exceptional",
+      "word": "exceptional"
+    },
+    {
+      "item_id": "familiarize",
+      "word": "familiarize"
+    },
+    {
+      "item_id": "hotline",
+      "word": "hotline"
+    },
+    {
+      "item_id": "intonation",
+      "word": "intonation"
+    },
+    {
+      "item_id": "invention",
+      "word": "invention"
+    },
+    {
+      "item_id": "irritate",
+      "word": "irritate"
+    },
+    {
+      "item_id": "locker",
+      "word": "locker"
+    },
+    {
+      "item_id": "overlook",
+      "word": "overlook"
+    },
+    {
+      "item_id": "patent",
+      "word": "patent"
+    },
+    {
+      "item_id": "payable",
+      "word": "payable"
+    },
+    {
+      "item_id": "preliminary",
+      "word": "preliminary"
+    },
+    {
+      "item_id": "salesman",
+      "word": "salesman"
+    },
+    {
+      "item_id": "sauna",
+      "word": "sauna"
+    },
+    {
+      "item_id": "smoothly",
+      "word": "smoothly"
+    },
+    {
+      "item_id": "sunshine",
+      "word": "sunshine"
+    },
+    {
+      "item_id": "tow",
+      "word": "tow"
+    },
+    {
+      "item_id": "translator",
+      "word": "translator"
+    },
+    {
+      "item_id": "tuition",
+      "word": "tuition"
+    },
+    {
+      "item_id": "unavailable",
+      "word": "unavailable"
+    },
+    {
+      "item_id": "violation",
+      "word": "violation"
+    },
+    {
+      "item_id": "webpage",
+      "word": "webpage"
+    },
+    {
+      "item_id": "acceptance",
+      "word": "acceptance"
+    },
+    {
+      "item_id": "allocate",
+      "word": "allocate"
+    },
+    {
+      "item_id": "ambitious",
+      "word": "ambitious"
+    }
+  ]
+}

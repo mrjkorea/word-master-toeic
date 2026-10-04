@@ -1,0 +1,407 @@
+{
+  "pack_id": "toeic13",
+  "title": "TOEIC 1201–1300",
+  "seconds_per_letter": 5,
+  "items": [
+    {
+      "item_id": "broaden",
+      "word": "broaden"
+    },
+    {
+      "item_id": "bulb",
+      "word": "bulb"
+    },
+    {
+      "item_id": "by-law",
+      "word": "by-law"
+    },
+    {
+      "item_id": "cheer",
+      "word": "cheer"
+    },
+    {
+      "item_id": "complication",
+      "word": "complication"
+    },
+    {
+      "item_id": "considerate",
+      "word": "considerate"
+    },
+    {
+      "item_id": "daytime",
+      "word": "daytime"
+    },
+    {
+      "item_id": "decoration",
+      "word": "decoration"
+    },
+    {
+      "item_id": "discard",
+      "word": "discard"
+    },
+    {
+      "item_id": "drastically",
+      "word": "drastically"
+    },
+    {
+      "item_id": "erase",
+      "word": "erase"
+    },
+    {
+      "item_id": "explorer",
+      "word": "explorer"
+    },
+    {
+      "item_id": "factual",
+      "word": "factual"
+    },
+    {
+      "item_id": "fixture",
+      "word": "fixture"
+    },
+    {
+      "item_id": "footwear",
+      "word": "footwear"
+    },
+    {
+      "item_id": "genre",
+      "word": "genre"
+    },
+    {
+      "item_id": "gymnasium",
+      "word": "gymnasium"
+    },
+    {
+      "item_id": "hereby",
+      "word": "hereby"
+    },
+    {
+      "item_id": "hesitation",
+      "word": "hesitation"
+    },
+    {
+      "item_id": "homemade",
+      "word": "homemade"
+    },
+    {
+      "item_id": "hospitality",
+      "word": "hospitality"
+    },
+    {
+      "item_id": "incoming",
+      "word": "incoming"
+    },
+    {
+      "item_id": "induction",
+      "word": "induction"
+    },
+    {
+      "item_id": "inspiration",
+      "word": "inspiration"
+    },
+    {
+      "item_id": "intently",
+      "word": "intently"
+    },
+    {
+      "item_id": "mower",
+      "word": "mower"
+    },
+    {
+      "item_id": "nutrition",
+      "word": "nutrition"
+    },
+    {
+      "item_id": "restatement",
+      "word": "restatement"
+    },
+    {
+      "item_id": "sedan",
+      "word": "sedan"
+    },
+    {
+      "item_id": "sunscreen",
+      "word": "sunscreen"
+    },
+    {
+      "item_id": "wellness",
+      "word": "wellness"
+    },
+    {
+      "item_id": "workbook",
+      "word": "workbook"
+    },
+    {
+      "item_id": "bookcase",
+      "word": "bookcase"
+    },
+    {
+      "item_id": "cleanliness",
+      "word": "cleanliness"
+    },
+    {
+      "item_id": "contestant",
+      "word": "contestant"
+    },
+    {
+      "item_id": "ethics",
+      "word": "ethics"
+    },
+    {
+      "item_id": "healthful",
+      "word": "healthful"
+    },
+    {
+      "item_id": "inefficient",
+      "word": "inefficient"
+    },
+    {
+      "item_id": "liter",
+      "word": "liter"
+    },
+    {
+      "item_id": "recession",
+      "word": "recession"
+    },
+    {
+      "item_id": "timeline",
+      "word": "timeline"
+    },
+    {
+      "item_id": "unreliable",
+      "word": "unreliable"
+    },
+    {
+      "item_id": "acclaim",
+      "word": "acclaim"
+    },
+    {
+      "item_id": "chronic",
+      "word": "chronic"
+    },
+    {
+      "item_id": "deteriorate",
+      "word": "deteriorate"
+    },
+    {
+      "item_id": "resemble",
+      "word": "resemble"
+    },
+    {
+      "item_id": "unauthorized",
+      "word": "unauthorized"
+    },
+    {
+      "item_id": "violate",
+      "word": "violate"
+    },
+    {
+      "item_id": "unplug",
+      "word": "unplug"
+    },
+    {
+      "item_id": "videoconference",
+      "word": "videoconference"
+    },
+    {
+      "item_id": "cook",
+      "word": "cook"
+    },
+    {
+      "item_id": "nurse",
+      "word": "nurse"
+    },
+    {
+      "item_id": "pilot",
+      "word": "pilot"
+    },
+    {
+      "item_id": "janitor",
+      "word": "janitor"
+    },
+    {
+      "item_id": "sailor",
+      "word": "sailor"
+    },
+    {
+      "item_id": "soldier",
+      "word": "soldier"
+    },
+    {
+      "item_id": "farmer",
+      "word": "farmer"
+    },
+    {
+      "item_id": "lawyer",
+      "word": "lawyer"
+    },
+    {
+      "item_id": "engineer",
+      "word": "engineer"
+    },
+    {
+      "item_id": "porter",
+      "word": "porter"
+    },
+    {
+      "item_id": "journalist",
+      "word": "journalist"
+    },
+    {
+      "item_id": "welder",
+      "word": "welder"
+    },
+    {
+      "item_id": "barber",
+      "word": "barber"
+    },
+    {
+      "item_id": "butcher",
+      "word": "butcher"
+    },
+    {
+      "item_id": "florist",
+      "word": "florist"
+    },
+    {
+      "item_id": "grocer",
+      "word": "grocer"
+    },
+    {
+      "item_id": "miner",
+      "word": "miner"
+    },
+    {
+      "item_id": "shepherd",
+      "word": "shepherd"
+    },
+    {
+      "item_id": "cowboy",
+      "word": "cowboy"
+    },
+    {
+      "item_id": "bride",
+      "word": "bride"
+    },
+    {
+      "item_id": "groom",
+      "word": "groom"
+    },
+    {
+      "item_id": "toddler",
+      "word": "toddler"
+    },
+    {
+      "item_id": "infant",
+      "word": "infant"
+    },
+    {
+      "item_id": "uncle",
+      "word": "uncle"
+    },
+    {
+      "item_id": "aunt",
+      "word": "aunt"
+    },
+    {
+      "item_id": "cousin",
+      "word": "cousin"
+    },
+    {
+      "item_id": "neighbor",
+      "word": "neighbor"
+    },
+    {
+      "item_id": "stranger",
+      "word": "stranger"
+    },
+    {
+      "item_id": "tourist",
+      "word": "tourist"
+    },
+    {
+      "item_id": "passenger",
+      "word": "passenger"
+    },
+    {
+      "item_id": "cyclist",
+      "word": "cyclist"
+    },
+    {
+      "item_id": "jogger",
+      "word": "jogger"
+    },
+    {
+      "item_id": "swimmer",
+      "word": "swimmer"
+    },
+    {
+      "item_id": "diver",
+      "word": "diver"
+    },
+    {
+      "item_id": "climber",
+      "word": "climber"
+    },
+    {
+      "item_id": "skier",
+      "word": "skier"
+    },
+    {
+      "item_id": "goalkeeper",
+      "word": "goalkeeper"
+    },
+    {
+      "item_id": "umpire",
+      "word": "umpire"
+    },
+    {
+      "item_id": "coach",
+      "word": "coach"
+    },
+    {
+      "item_id": "artist",
+      "word": "artist"
+    },
+    {
+      "item_id": "musician",
+      "word": "musician"
+    },
+    {
+      "item_id": "dancer",
+      "word": "dancer"
+    },
+    {
+      "item_id": "singer",
+      "word": "singer"
+    },
+    {
+      "item_id": "actor",
+      "word": "actor"
+    },
+    {
+      "item_id": "sculptor",
+      "word": "sculptor"
+    },
+    {
+      "item_id": "poet",
+      "word": "poet"
+    },
+    {
+      "item_id": "professor",
+      "word": "professor"
+    },
+    {
+      "item_id": "pupil",
+      "word": "pupil"
+    },
+    {
+      "item_id": "roommate",
+      "word": "roommate"
+    },
+    {
+      "item_id": "boss",
+      "word": "boss"
+    }
+  ]
+}

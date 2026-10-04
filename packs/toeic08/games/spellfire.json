@@ -1,0 +1,407 @@
+{
+  "pack_id": "toeic08",
+  "title": "TOEIC 701–800",
+  "seconds_per_letter": 5,
+  "items": [
+    {
+      "item_id": "appendix",
+      "word": "appendix"
+    },
+    {
+      "item_id": "booth",
+      "word": "booth"
+    },
+    {
+      "item_id": "clarify",
+      "word": "clarify"
+    },
+    {
+      "item_id": "classmate",
+      "word": "classmate"
+    },
+    {
+      "item_id": "compile",
+      "word": "compile"
+    },
+    {
+      "item_id": "correction",
+      "word": "correction"
+    },
+    {
+      "item_id": "customize",
+      "word": "customize"
+    },
+    {
+      "item_id": "dedication",
+      "word": "dedication"
+    },
+    {
+      "item_id": "diagnose",
+      "word": "diagnose"
+    },
+    {
+      "item_id": "discontinue",
+      "word": "discontinue"
+    },
+    {
+      "item_id": "dishwasher",
+      "word": "dishwasher"
+    },
+    {
+      "item_id": "drought",
+      "word": "drought"
+    },
+    {
+      "item_id": "economize",
+      "word": "economize"
+    },
+    {
+      "item_id": "entree",
+      "word": "entrée"
+    },
+    {
+      "item_id": "firework",
+      "word": "firework"
+    },
+    {
+      "item_id": "freight",
+      "word": "freight"
+    },
+    {
+      "item_id": "fry",
+      "word": "fry"
+    },
+    {
+      "item_id": "gallon",
+      "word": "gallon"
+    },
+    {
+      "item_id": "gardener",
+      "word": "gardener"
+    },
+    {
+      "item_id": "ideally",
+      "word": "ideally"
+    },
+    {
+      "item_id": "inclusive",
+      "word": "inclusive"
+    },
+    {
+      "item_id": "insufficient",
+      "word": "insufficient"
+    },
+    {
+      "item_id": "introductory",
+      "word": "introductory"
+    },
+    {
+      "item_id": "junk",
+      "word": "junk"
+    },
+    {
+      "item_id": "maam",
+      "word": "ma'am"
+    },
+    {
+      "item_id": "mileage",
+      "word": "mileage"
+    },
+    {
+      "item_id": "noisy",
+      "word": "noisy"
+    },
+    {
+      "item_id": "pan",
+      "word": "pan"
+    },
+    {
+      "item_id": "parcel",
+      "word": "parcel"
+    },
+    {
+      "item_id": "pasta",
+      "word": "pasta"
+    },
+    {
+      "item_id": "periodical",
+      "word": "periodical"
+    },
+    {
+      "item_id": "pill",
+      "word": "pill"
+    },
+    {
+      "item_id": "portable",
+      "word": "portable"
+    },
+    {
+      "item_id": "punctual",
+      "word": "punctual"
+    },
+    {
+      "item_id": "recreation",
+      "word": "recreation"
+    },
+    {
+      "item_id": "relieve",
+      "word": "relieve"
+    },
+    {
+      "item_id": "reminder",
+      "word": "reminder"
+    },
+    {
+      "item_id": "rumor",
+      "word": "rumor"
+    },
+    {
+      "item_id": "scarf",
+      "word": "scarf"
+    },
+    {
+      "item_id": "seaside",
+      "word": "seaside"
+    },
+    {
+      "item_id": "shorten",
+      "word": "shorten"
+    },
+    {
+      "item_id": "specially",
+      "word": "specially"
+    },
+    {
+      "item_id": "spill",
+      "word": "spill"
+    },
+    {
+      "item_id": "spouse",
+      "word": "spouse"
+    },
+    {
+      "item_id": "subtract",
+      "word": "subtract"
+    },
+    {
+      "item_id": "tablet",
+      "word": "tablet"
+    },
+    {
+      "item_id": "ton",
+      "word": "ton"
+    },
+    {
+      "item_id": "vend",
+      "word": "vend"
+    },
+    {
+      "item_id": "yoga",
+      "word": "yoga"
+    },
+    {
+      "item_id": "accent",
+      "word": "accent"
+    },
+    {
+      "item_id": "advisory",
+      "word": "advisory"
+    },
+    {
+      "item_id": "asleep",
+      "word": "asleep"
+    },
+    {
+      "item_id": "authentic",
+      "word": "authentic"
+    },
+    {
+      "item_id": "bakery",
+      "word": "bakery"
+    },
+    {
+      "item_id": "carton",
+      "word": "carton"
+    },
+    {
+      "item_id": "compartment",
+      "word": "compartment"
+    },
+    {
+      "item_id": "compatible",
+      "word": "compatible"
+    },
+    {
+      "item_id": "consumption",
+      "word": "consumption"
+    },
+    {
+      "item_id": "conveniently",
+      "word": "conveniently"
+    },
+    {
+      "item_id": "cosmetic",
+      "word": "cosmetic"
+    },
+    {
+      "item_id": "courtesy",
+      "word": "courtesy"
+    },
+    {
+      "item_id": "creativity",
+      "word": "creativity"
+    },
+    {
+      "item_id": "disagreement",
+      "word": "disagreement"
+    },
+    {
+      "item_id": "disappointment",
+      "word": "disappointment"
+    },
+    {
+      "item_id": "dissatisfy",
+      "word": "dissatisfy"
+    },
+    {
+      "item_id": "enjoyable",
+      "word": "enjoyable"
+    },
+    {
+      "item_id": "faculty",
+      "word": "faculty"
+    },
+    {
+      "item_id": "favorable",
+      "word": "favorable"
+    },
+    {
+      "item_id": "foreman",
+      "word": "foreman"
+    },
+    {
+      "item_id": "forum",
+      "word": "forum"
+    },
+    {
+      "item_id": "founder",
+      "word": "founder"
+    },
+    {
+      "item_id": "fundraise",
+      "word": "fundraise"
+    },
+    {
+      "item_id": "graphics",
+      "word": "graphics"
+    },
+    {
+      "item_id": "handy",
+      "word": "handy"
+    },
+    {
+      "item_id": "hazardous",
+      "word": "hazardous"
+    },
+    {
+      "item_id": "healthcare",
+      "word": "healthcare"
+    },
+    {
+      "item_id": "humidity",
+      "word": "humidity"
+    },
+    {
+      "item_id": "influential",
+      "word": "influential"
+    },
+    {
+      "item_id": "nationwide",
+      "word": "nationwide"
+    },
+    {
+      "item_id": "pad",
+      "word": "pad"
+    },
+    {
+      "item_id": "paraphrase",
+      "word": "paraphrase"
+    },
+    {
+      "item_id": "placement",
+      "word": "placement"
+    },
+    {
+      "item_id": "postal",
+      "word": "postal"
+    },
+    {
+      "item_id": "publicity",
+      "word": "publicity"
+    },
+    {
+      "item_id": "renter",
+      "word": "renter"
+    },
+    {
+      "item_id": "repairperson",
+      "word": "repairperson"
+    },
+    {
+      "item_id": "repeatedly",
+      "word": "repeatedly"
+    },
+    {
+      "item_id": "restroom",
+      "word": "restroom"
+    },
+    {
+      "item_id": "silently",
+      "word": "silently"
+    },
+    {
+      "item_id": "spa",
+      "word": "spa"
+    },
+    {
+      "item_id": "spreadsheet",
+      "word": "spreadsheet"
+    },
+    {
+      "item_id": "stapler",
+      "word": "stapler"
+    },
+    {
+      "item_id": "streamline",
+      "word": "streamline"
+    },
+    {
+      "item_id": "substantially",
+      "word": "substantially"
+    },
+    {
+      "item_id": "teller",
+      "word": "teller"
+    },
+    {
+      "item_id": "tidy",
+      "word": "tidy"
+    },
+    {
+      "item_id": "toll",
+      "word": "toll"
+    },
+    {
+      "item_id": "toner",
+      "word": "toner"
+    },
+    {
+      "item_id": "urgently",
+      "word": "urgently"
+    },
+    {
+      "item_id": "walkway",
+      "word": "walkway"
+    }
+  ]
+}

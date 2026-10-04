@@ -1,0 +1,1008 @@
+{
+  "pack_id": "toeic14",
+  "title": "TOEIC 1301–1400",
+  "module_id": "word_master",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "colleague",
+      "question": "person you work with",
+      "correct": "colleague",
+      "wrong": [
+        "volunteer",
+        "dealer"
+      ],
+      "word": "colleague"
+    },
+    {
+      "item_id": "volunteer",
+      "question": "unpaid helper at an event",
+      "correct": "volunteer",
+      "wrong": [
+        "colleague",
+        "dealer"
+      ],
+      "word": "volunteer"
+    },
+    {
+      "item_id": "dealer",
+      "question": "seller of goods or vehicles",
+      "correct": "dealer",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "dealer"
+    },
+    {
+      "item_id": "guard",
+      "question": "person who watches a site",
+      "correct": "guard",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "guard"
+    },
+    {
+      "item_id": "detective",
+      "question": "investigator of a crime",
+      "correct": "detective",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "detective"
+    },
+    {
+      "item_id": "thief",
+      "question": "person who steals property",
+      "correct": "thief",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "thief"
+    },
+    {
+      "item_id": "burglar",
+      "question": "person who breaks in to steal",
+      "correct": "burglar",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "burglar"
+    },
+    {
+      "item_id": "robber",
+      "question": "person who steals by force",
+      "correct": "robber",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "robber"
+    },
+    {
+      "item_id": "prisoner",
+      "question": "person held in custody",
+      "correct": "prisoner",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "prisoner"
+    },
+    {
+      "item_id": "paramedic",
+      "question": "emergency medical responder",
+      "correct": "paramedic",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "paramedic"
+    },
+    {
+      "item_id": "stretcher",
+      "question": "bed used to carry patients",
+      "correct": "stretcher",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "stretcher"
+    },
+    {
+      "item_id": "crutch",
+      "question": "support for an injured leg",
+      "correct": "crutch",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "crutch"
+    },
+    {
+      "item_id": "bandage",
+      "question": "cloth wrap for a wound",
+      "correct": "bandage",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "bandage"
+    },
+    {
+      "item_id": "plaster",
+      "question": "adhesive strip for a cut",
+      "correct": "plaster",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "plaster"
+    },
+    {
+      "item_id": "syringe",
+      "question": "device that injects medicine",
+      "correct": "syringe",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "syringe"
+    },
+    {
+      "item_id": "thermometer",
+      "question": "tool that measures body temperature",
+      "correct": "thermometer",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "thermometer"
+    },
+    {
+      "item_id": "stethoscope",
+      "question": "tool for listening to the chest",
+      "correct": "stethoscope",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "stethoscope"
+    },
+    {
+      "item_id": "scalpel",
+      "question": "small knife used in surgery",
+      "correct": "scalpel",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "scalpel"
+    },
+    {
+      "item_id": "telescope",
+      "question": "tube for viewing distant objects",
+      "correct": "telescope",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "telescope"
+    },
+    {
+      "item_id": "binoculars",
+      "question": "paired lenses for distant viewing",
+      "correct": "binoculars",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "binoculars"
+    },
+    {
+      "item_id": "tripod",
+      "question": "three-legged stand for a camera",
+      "correct": "tripod",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "tripod"
+    },
+    {
+      "item_id": "lens",
+      "question": "glass piece in a camera",
+      "correct": "lens",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "lens"
+    },
+    {
+      "item_id": "flash",
+      "question": "burst of light for photos",
+      "correct": "flash",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "flash"
+    },
+    {
+      "item_id": "album",
+      "question": "book that holds photographs",
+      "correct": "album",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "album"
+    },
+    {
+      "item_id": "frame",
+      "question": "border around a picture",
+      "correct": "frame",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "frame"
+    },
+    {
+      "item_id": "portrait",
+      "question": "picture of a person's face",
+      "correct": "portrait",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "portrait"
+    },
+    {
+      "item_id": "landscape",
+      "question": "painting of outdoor scenery",
+      "correct": "landscape",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "landscape"
+    },
+    {
+      "item_id": "easel",
+      "question": "stand that holds a canvas",
+      "correct": "easel",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "easel"
+    },
+    {
+      "item_id": "canvas",
+      "question": "cloth surface for a painting",
+      "correct": "canvas",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "canvas"
+    },
+    {
+      "item_id": "palette",
+      "question": "board for mixing paint",
+      "correct": "palette",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "palette"
+    },
+    {
+      "item_id": "crayon",
+      "question": "wax stick for drawing",
+      "correct": "crayon",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "crayon"
+    },
+    {
+      "item_id": "marker",
+      "question": "thick pen with colored ink",
+      "correct": "marker",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "marker"
+    },
+    {
+      "item_id": "pencil",
+      "question": "thin stick for writing",
+      "correct": "pencil",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "pencil"
+    },
+    {
+      "item_id": "eraser",
+      "question": "tool that removes pencil marks",
+      "correct": "eraser",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "eraser"
+    },
+    {
+      "item_id": "ruler",
+      "question": "straight edge for measuring",
+      "correct": "ruler",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "ruler"
+    },
+    {
+      "item_id": "scissors",
+      "question": "tool for cutting paper",
+      "correct": "scissors",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "scissors"
+    },
+    {
+      "item_id": "clipboard",
+      "question": "board that holds papers",
+      "correct": "clipboard",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "clipboard"
+    },
+    {
+      "item_id": "notepad",
+      "question": "small pad for notes",
+      "correct": "notepad",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "notepad"
+    },
+    {
+      "item_id": "compass",
+      "question": "tool that shows direction",
+      "correct": "compass",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "compass"
+    },
+    {
+      "item_id": "globe",
+      "question": "model of the earth",
+      "correct": "globe",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "globe"
+    },
+    {
+      "item_id": "atlas",
+      "question": "book of maps",
+      "correct": "atlas",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "atlas"
+    },
+    {
+      "item_id": "handbag",
+      "question": "bag carried by hand",
+      "correct": "handbag",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "handbag"
+    },
+    {
+      "item_id": "stamp",
+      "question": "postage label for mail",
+      "correct": "stamp",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "stamp"
+    },
+    {
+      "item_id": "envelope",
+      "question": "paper cover for a letter",
+      "correct": "envelope",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "envelope"
+    },
+    {
+      "item_id": "ribbon",
+      "question": "narrow strip of fabric",
+      "correct": "ribbon",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "ribbon"
+    },
+    {
+      "item_id": "candle",
+      "question": "wax stick that burns",
+      "correct": "candle",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "candle"
+    },
+    {
+      "item_id": "flashlight",
+      "question": "portable battery light",
+      "correct": "flashlight",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "flashlight"
+    },
+    {
+      "item_id": "mirror",
+      "question": "glass that reflects an image",
+      "correct": "mirror",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "mirror"
+    },
+    {
+      "item_id": "curtain",
+      "question": "cloth covering a window",
+      "correct": "curtain",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "curtain"
+    },
+    {
+      "item_id": "carpet",
+      "question": "floor covering of fabric",
+      "correct": "carpet",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "carpet"
+    },
+    {
+      "item_id": "mattress",
+      "question": "padded bed surface",
+      "correct": "mattress",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "mattress"
+    },
+    {
+      "item_id": "armchair",
+      "question": "chair with arm supports",
+      "correct": "armchair",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "armchair"
+    },
+    {
+      "item_id": "stool",
+      "question": "seat without a back",
+      "correct": "stool",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "stool"
+    },
+    {
+      "item_id": "cupboard",
+      "question": "cabinet for storing items",
+      "correct": "cupboard",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "cupboard"
+    },
+    {
+      "item_id": "wardrobe",
+      "question": "cabinet for hanging clothes",
+      "correct": "wardrobe",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "wardrobe"
+    },
+    {
+      "item_id": "hanger",
+      "question": "hook for hanging clothes",
+      "correct": "hanger",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "hanger"
+    },
+    {
+      "item_id": "doorbell",
+      "question": "button that rings at a door",
+      "correct": "doorbell",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "doorbell"
+    },
+    {
+      "item_id": "staircase",
+      "question": "set of indoor steps",
+      "correct": "staircase",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "staircase"
+    },
+    {
+      "item_id": "porch",
+      "question": "covered entrance to a building",
+      "correct": "porch",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "porch"
+    },
+    {
+      "item_id": "patio",
+      "question": "paved outdoor seating area",
+      "correct": "patio",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "patio"
+    },
+    {
+      "item_id": "attic",
+      "question": "space under the roof",
+      "correct": "attic",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "attic"
+    },
+    {
+      "item_id": "chimney",
+      "question": "flue that vents smoke",
+      "correct": "chimney",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "chimney"
+    },
+    {
+      "item_id": "roof",
+      "question": "top cover of a building",
+      "correct": "roof",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "roof"
+    },
+    {
+      "item_id": "fence",
+      "question": "barrier around a property",
+      "correct": "fence",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "fence"
+    },
+    {
+      "item_id": "driveway",
+      "question": "private road to a building",
+      "correct": "driveway",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "driveway"
+    },
+    {
+      "item_id": "crosswalk",
+      "question": "marked place to cross a street",
+      "correct": "crosswalk",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "crosswalk"
+    },
+    {
+      "item_id": "mailbox",
+      "question": "box for receiving mail",
+      "correct": "mailbox",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "mailbox"
+    },
+    {
+      "item_id": "newspaper",
+      "question": "printed daily news publication",
+      "correct": "newspaper",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "newspaper"
+    },
+    {
+      "item_id": "magazine",
+      "question": "periodical with articles and photos",
+      "correct": "magazine",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "magazine"
+    },
+    {
+      "item_id": "comic",
+      "question": "illustrated story book",
+      "correct": "comic",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "comic"
+    },
+    {
+      "item_id": "novel",
+      "question": "long fictional book",
+      "correct": "novel",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "novel"
+    },
+    {
+      "item_id": "dictionary",
+      "question": "book of word meanings",
+      "correct": "dictionary",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "dictionary"
+    },
+    {
+      "item_id": "notebook",
+      "question": "bound book for writing",
+      "correct": "notebook",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "notebook"
+    },
+    {
+      "item_id": "medal",
+      "question": "award disk on a ribbon",
+      "correct": "medal",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "medal"
+    },
+    {
+      "item_id": "trophy",
+      "question": "prize cup for a winner",
+      "correct": "trophy",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "trophy"
+    },
+    {
+      "item_id": "uniform",
+      "question": "standard work clothing",
+      "correct": "uniform",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "uniform"
+    },
+    {
+      "item_id": "goggles",
+      "question": "protective eyewear",
+      "correct": "goggles",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "goggles"
+    },
+    {
+      "item_id": "mittens",
+      "question": "gloves without separate fingers",
+      "correct": "mittens",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "mittens"
+    },
+    {
+      "item_id": "necktie",
+      "question": "cloth worn at a collar",
+      "correct": "necktie",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "necktie"
+    },
+    {
+      "item_id": "apron",
+      "question": "cloth worn over clothes",
+      "correct": "apron",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "apron"
+    },
+    {
+      "item_id": "sneaker",
+      "question": "casual athletic shoe",
+      "correct": "sneaker",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "sneaker"
+    },
+    {
+      "item_id": "sandal",
+      "question": "open shoe with straps",
+      "correct": "sandal",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "sandal"
+    },
+    {
+      "item_id": "boot",
+      "question": "sturdy shoe covering the ankle",
+      "correct": "boot",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "boot"
+    },
+    {
+      "item_id": "slipper",
+      "question": "soft indoor shoe",
+      "correct": "slipper",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "slipper"
+    },
+    {
+      "item_id": "puddle",
+      "question": "small pool of rainwater",
+      "correct": "puddle",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "puddle"
+    },
+    {
+      "item_id": "snowman",
+      "question": "figure made of snow",
+      "correct": "snowman",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "snowman"
+    },
+    {
+      "item_id": "rainbow",
+      "question": "colored arc after rain",
+      "correct": "rainbow",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "rainbow"
+    },
+    {
+      "item_id": "cloud",
+      "question": "mass of water vapor in the sky",
+      "correct": "cloud",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "cloud"
+    },
+    {
+      "item_id": "breeze",
+      "question": "light gentle wind",
+      "correct": "breeze",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "breeze"
+    },
+    {
+      "item_id": "tornado",
+      "question": "violent spinning windstorm",
+      "correct": "tornado",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "tornado"
+    },
+    {
+      "item_id": "volcano",
+      "question": "mountain that erupts lava",
+      "correct": "volcano",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "volcano"
+    },
+    {
+      "item_id": "island",
+      "question": "land surrounded by water",
+      "correct": "island",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "island"
+    },
+    {
+      "item_id": "harbor",
+      "question": "sheltered port for ships",
+      "correct": "harbor",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "harbor"
+    },
+    {
+      "item_id": "pier",
+      "question": "platform extending into water",
+      "correct": "pier",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "pier"
+    },
+    {
+      "item_id": "lighthouse",
+      "question": "tower with a warning light",
+      "correct": "lighthouse",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "lighthouse"
+    },
+    {
+      "item_id": "buoy",
+      "question": "floating marker in water",
+      "correct": "buoy",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "buoy"
+    },
+    {
+      "item_id": "anchor",
+      "question": "heavy hook that holds a ship",
+      "correct": "anchor",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "anchor"
+    },
+    {
+      "item_id": "sail",
+      "question": "cloth that catches the wind",
+      "correct": "sail",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "sail"
+    },
+    {
+      "item_id": "cockpit",
+      "question": "pilot seat area in an aircraft",
+      "correct": "cockpit",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "cockpit"
+    },
+    {
+      "item_id": "runway",
+      "question": "paved strip for aircraft",
+      "correct": "runway",
+      "wrong": [
+        "colleague",
+        "volunteer"
+      ],
+      "word": "runway"
+    }
+  ]
+}

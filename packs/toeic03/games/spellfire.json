@@ -1,0 +1,407 @@
+{
+  "pack_id": "toeic03",
+  "title": "TOEIC 201–300",
+  "seconds_per_letter": 5,
+  "items": [
+    {
+      "item_id": "cleaner",
+      "word": "cleaner"
+    },
+    {
+      "item_id": "developer",
+      "word": "developer"
+    },
+    {
+      "item_id": "headquarter",
+      "word": "headquarter"
+    },
+    {
+      "item_id": "shuttle",
+      "word": "shuttle"
+    },
+    {
+      "item_id": "stationery",
+      "word": "stationery"
+    },
+    {
+      "item_id": "subscribe",
+      "word": "subscribe"
+    },
+    {
+      "item_id": "alike",
+      "word": "alike"
+    },
+    {
+      "item_id": "flavor",
+      "word": "flavor"
+    },
+    {
+      "item_id": "picnic",
+      "word": "picnic"
+    },
+    {
+      "item_id": "recipe",
+      "word": "recipe"
+    },
+    {
+      "item_id": "refreshment",
+      "word": "refreshment"
+    },
+    {
+      "item_id": "administrative",
+      "word": "administrative"
+    },
+    {
+      "item_id": "authorize",
+      "word": "authorize"
+    },
+    {
+      "item_id": "commonly",
+      "word": "commonly"
+    },
+    {
+      "item_id": "distribution",
+      "word": "distribution"
+    },
+    {
+      "item_id": "sofa",
+      "word": "sofa"
+    },
+    {
+      "item_id": "accommodate",
+      "word": "accommodate"
+    },
+    {
+      "item_id": "affordable",
+      "word": "affordable"
+    },
+    {
+      "item_id": "annoy",
+      "word": "annoy"
+    },
+    {
+      "item_id": "commute",
+      "word": "commute"
+    },
+    {
+      "item_id": "coordinate",
+      "word": "coordinate"
+    },
+    {
+      "item_id": "paperwork",
+      "word": "paperwork"
+    },
+    {
+      "item_id": "quit",
+      "word": "quit"
+    },
+    {
+      "item_id": "authority",
+      "word": "authority"
+    },
+    {
+      "item_id": "flu",
+      "word": "flu"
+    },
+    {
+      "item_id": "captain",
+      "word": "captain"
+    },
+    {
+      "item_id": "installation",
+      "word": "installation"
+    },
+    {
+      "item_id": "trainer",
+      "word": "trainer"
+    },
+    {
+      "item_id": "availability",
+      "word": "availability"
+    },
+    {
+      "item_id": "bargain",
+      "word": "bargain"
+    },
+    {
+      "item_id": "complimentary",
+      "word": "complimentary"
+    },
+    {
+      "item_id": "hike",
+      "word": "hike"
+    },
+    {
+      "item_id": "midnight",
+      "word": "midnight"
+    },
+    {
+      "item_id": "productivity",
+      "word": "productivity"
+    },
+    {
+      "item_id": "rainy",
+      "word": "rainy"
+    },
+    {
+      "item_id": "relocate",
+      "word": "relocate"
+    },
+    {
+      "item_id": "trainee",
+      "word": "trainee"
+    },
+    {
+      "item_id": "transaction",
+      "word": "transaction"
+    },
+    {
+      "item_id": "unhappy",
+      "word": "unhappy"
+    },
+    {
+      "item_id": "verify",
+      "word": "verify"
+    },
+    {
+      "item_id": "automobile",
+      "word": "automobile"
+    },
+    {
+      "item_id": "courier",
+      "word": "courier"
+    },
+    {
+      "item_id": "incomplete",
+      "word": "incomplete"
+    },
+    {
+      "item_id": "questionnaire",
+      "word": "questionnaire"
+    },
+    {
+      "item_id": "baseball",
+      "word": "baseball"
+    },
+    {
+      "item_id": "dock",
+      "word": "dock"
+    },
+    {
+      "item_id": "lamp",
+      "word": "lamp"
+    },
+    {
+      "item_id": "lately",
+      "word": "lately"
+    },
+    {
+      "item_id": "machinery",
+      "word": "machinery"
+    },
+    {
+      "item_id": "presenter",
+      "word": "presenter"
+    },
+    {
+      "item_id": "seldom",
+      "word": "seldom"
+    },
+    {
+      "item_id": "signature",
+      "word": "signature"
+    },
+    {
+      "item_id": "worldwide",
+      "word": "worldwide"
+    },
+    {
+      "item_id": "carrier",
+      "word": "carrier"
+    },
+    {
+      "item_id": "designate",
+      "word": "designate"
+    },
+    {
+      "item_id": "exclusive",
+      "word": "exclusive"
+    },
+    {
+      "item_id": "grocery",
+      "word": "grocery"
+    },
+    {
+      "item_id": "homework",
+      "word": "homework"
+    },
+    {
+      "item_id": "memorandum",
+      "word": "memorandum"
+    },
+    {
+      "item_id": "photocopier",
+      "word": "photocopier"
+    },
+    {
+      "item_id": "suite",
+      "word": "suite"
+    },
+    {
+      "item_id": "thorough",
+      "word": "thorough"
+    },
+    {
+      "item_id": "bookstore",
+      "word": "bookstore"
+    },
+    {
+      "item_id": "cater",
+      "word": "cater"
+    },
+    {
+      "item_id": "dental",
+      "word": "dental"
+    },
+    {
+      "item_id": "duration",
+      "word": "duration"
+    },
+    {
+      "item_id": "lounge",
+      "word": "lounge"
+    },
+    {
+      "item_id": "painter",
+      "word": "painter"
+    },
+    {
+      "item_id": "patron",
+      "word": "patron"
+    },
+    {
+      "item_id": "prescription",
+      "word": "prescription"
+    },
+    {
+      "item_id": "productive",
+      "word": "productive"
+    },
+    {
+      "item_id": "salad",
+      "word": "salad"
+    },
+    {
+      "item_id": "stack",
+      "word": "stack"
+    },
+    {
+      "item_id": "delegate",
+      "word": "delegate"
+    },
+    {
+      "item_id": "salesperson",
+      "word": "salesperson"
+    },
+    {
+      "item_id": "calculator",
+      "word": "calculator"
+    },
+    {
+      "item_id": "completion",
+      "word": "completion"
+    },
+    {
+      "item_id": "defect",
+      "word": "defect"
+    },
+    {
+      "item_id": "garbage",
+      "word": "garbage"
+    },
+    {
+      "item_id": "omit",
+      "word": "omit"
+    },
+    {
+      "item_id": "spite",
+      "word": "spite"
+    },
+    {
+      "item_id": "bathroom",
+      "word": "bathroom"
+    },
+    {
+      "item_id": "cab",
+      "word": "cab"
+    },
+    {
+      "item_id": "correspondence",
+      "word": "correspondence"
+    },
+    {
+      "item_id": "ladder",
+      "word": "ladder"
+    },
+    {
+      "item_id": "photography",
+      "word": "photography"
+    },
+    {
+      "item_id": "sculpture",
+      "word": "sculpture"
+    },
+    {
+      "item_id": "anniversary",
+      "word": "anniversary"
+    },
+    {
+      "item_id": "buffet",
+      "word": "buffet"
+    },
+    {
+      "item_id": "defective",
+      "word": "defective"
+    },
+    {
+      "item_id": "ice-cream",
+      "word": "ice cream"
+    },
+    {
+      "item_id": "leak",
+      "word": "leak"
+    },
+    {
+      "item_id": "occupancy",
+      "word": "occupancy"
+    },
+    {
+      "item_id": "proficiency",
+      "word": "proficiency"
+    },
+    {
+      "item_id": "renewal",
+      "word": "renewal"
+    },
+    {
+      "item_id": "urgent",
+      "word": "urgent"
+    },
+    {
+      "item_id": "annually",
+      "word": "annually"
+    },
+    {
+      "item_id": "basketball",
+      "word": "basketball"
+    },
+    {
+      "item_id": "delete",
+      "word": "delete"
+    },
+    {
+      "item_id": "illogical",
+      "word": "illogical"
+    }
+  ]
+}
