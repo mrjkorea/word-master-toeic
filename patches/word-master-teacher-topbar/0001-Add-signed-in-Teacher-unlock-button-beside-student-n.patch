@@ -1,0 +1,565 @@
+From 73076a61e803182fa57b7ffe62dd08d10afa0516 Mon Sep 17 00:00:00 2001
+From: Cursor Agent <cursoragent@cursor.com>
+Date: Tue, 27 Oct 2026 07:15:46 +0000
+Subject: [PATCH] Add signed-in Teacher unlock button beside student name
+
+Show a top-bar Teacher control whenever a student is signed in (not public
+pack mode). PIN unlock uses study_teacher_check on mrj-signin, matching Study
+World; server isTeacher still enables teacher mode without a PIN. Session PIN
+unlock reveals the existing teacher jump bar until Lock or sign-out.
+---
+ css/app.css                        |  81 ++++++++++++
+ index.html                         |  19 +--
+ js/app.js                          |  49 +++++++-
+ js/mrj-teacher-unlock.js           | 191 ++++++++++++++++++++++++++++-
+ preview.html                       |   5 +-
+ scripts/mrj_teacher_unlock_test.js |  45 +++++++
+ scripts/test_open_and_name_test.js |   1 +
+ version.json                       |   2 +-
+ 8 files changed, 379 insertions(+), 14 deletions(-)
+ create mode 100644 scripts/mrj_teacher_unlock_test.js
+
+diff --git a/css/app.css b/css/app.css
+index 60f57700..c90e308d 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -74,6 +74,87 @@ button:disabled:not(.choice) { cursor: not-allowed; opacity: 0.38; }
+ }
+ .topbar.no-back { grid-template-columns: minmax(0, 1fr) auto auto; }
+ .topbar.no-back .icon-btn { display: none; }
++.topbar-user-actions {
++  display: flex;
++  align-items: center;
++  gap: 6px;
++  min-width: 0;
++  justify-self: end;
++}
++.teacher-unlock-btn {
++  min-height: 36px;
++  padding: 0 10px;
++  border-radius: 980px;
++  border: 1px solid var(--line);
++  background: #f3e8ff;
++  color: #4a148c;
++  font-size: 11px;
++  font-weight: 800;
++  white-space: nowrap;
++}
++.teacher-unlock-btn.is-unlocked {
++  background: #e8f5e9;
++  color: var(--ok-ink);
++  border-color: #81c784;
++}
++.wm-teacher-unlock-overlay {
++  position: fixed;
++  inset: 0;
++  z-index: 12000;
++  display: grid;
++  place-items: center;
++  padding: 16px;
++  background: rgba(0, 0, 0, 0.45);
++}
++.wm-teacher-unlock-card {
++  width: min(100%, 320px);
++  padding: 18px 16px 14px;
++  border-radius: 16px;
++  border: 1px solid var(--line);
++  background: #fff;
++  box-shadow: var(--shadow);
++}
++.wm-teacher-unlock-card h3 {
++  margin: 0 0 8px;
++  font-size: 18px;
++}
++.wm-tch-student {
++  margin: 0 0 12px;
++  font-size: 14px;
++}
++.wm-tch-pin-label input {
++  width: 100%;
++  min-height: 44px;
++  padding: 0 12px;
++  border-radius: 10px;
++  border: 1px solid var(--line);
++  font-size: 16px;
++}
++.wm-tch-err {
++  margin: 8px 0 0;
++  font-size: 13px;
++  color: var(--bad);
++}
++.wm-tch-actions {
++  display: flex;
++  gap: 8px;
++  margin-top: 14px;
++}
++.wm-tch-go,
++.wm-tch-cancel {
++  flex: 1;
++  min-height: 44px;
++  border-radius: 10px;
++  font-weight: 700;
++}
++.wm-tch-go {
++  background: var(--navy);
++  color: #fff;
++}
++.wm-tch-cancel {
++  background: #f2f2f7;
++  color: var(--ink);
++}
+ .student-name-btn {
+   max-width: 120px;
+   min-height: 36px;
+diff --git a/index.html b/index.html
+index d50eee92..1ebe2c3c 100644
+--- a/index.html
++++ b/index.html
+@@ -7,7 +7,7 @@
+   <meta name="mobile-web-app-capable" content="yes" />
+   <meta name="theme-color" content="#f6f3ec" />
+   <title>MRJ Word Master</title>
+-  <link rel="stylesheet" href="css/app.css?v=20261027-culture-m08" />
++  <link rel="stylesheet" href="css/app.css?v=20261027-teacher-topbar" />
+ </head>
+ <body>
+   <div id="phone" class="phone">
+@@ -21,7 +21,10 @@
+         <span class="sr-only" data-i18n="lang_label">Language</span>
+         <select id="lang-select" aria-label="Language"></select>
+       </label>
+-      <button type="button" class="student-name-btn" id="btn-student-name" data-mrj-own-record hidden></button>
++      <div class="topbar-user-actions">
++        <button type="button" class="teacher-unlock-btn" id="btn-teacher-unlock" hidden title="Teacher unlock">👩‍🏫 Teacher</button>
++        <button type="button" class="student-name-btn" id="btn-student-name" data-mrj-own-record hidden></button>
++      </div>
+     </header>
+ 
+     <div class="teacher-bar" id="teacher-bar">
+@@ -552,7 +555,7 @@
+       document.write('<script src="https://mrjkorea.github.io/mrj-signin/mrj-auth-boot.js" data-mrj-app="word-master"><\/script>');
+     }
+   </script>
+-  <script src="js/factory-algo.js?v=20261027-culture-m08"></script>
++  <script src="js/factory-algo.js?v=20261027-teacher-topbar"></script>
+   <script src="js/meet-lock.js?v=20260923-meetlock"></script>
+   <script src="js/start-slice.js?v=20261023-setrange"></script>
+   <script src="js/i18n.js?v=20260923-l1"></script>
+@@ -566,11 +569,11 @@
+   <script src="js/teacher-classroom.js?v=20261013-cloud"></script>
+   <script src="js/class-progress-ui.js?v=20261014-daily"></script>
+   <script src="js/score-progress-panel.js?v=20261014-daily"></script>
+-  <script src="js/mrj-teacher-unlock.js?v=20261022-teacher-mode"></script>
+-  <script>window.WM_BUILD_ID="20261027-culture-m08";</script>
+-  <script src="js/version-watch.js?v=20261027-culture-m08"></script>
++  <script src="js/mrj-teacher-unlock.js?v=20261027-teacher-topbar"></script>
++  <script>window.WM_BUILD_ID="20261027-teacher-topbar";</script>
++  <script src="js/version-watch.js?v=20261027-teacher-topbar"></script>
+   <script src="js/spell-stop.js?v=20260930-spellstop"></script>
+-  <script src="js/path-lock.js?v=20261027-culture-m08"></script>
+-  <script src="js/app.js?v=20261027-culture-m08"></script>
++  <script src="js/path-lock.js?v=20261027-teacher-topbar"></script>
++  <script src="js/app.js?v=20261027-teacher-topbar"></script>
+ </body>
+ </html>
+diff --git a/js/app.js b/js/app.js
+index f86cce10..405ca226 100644
+--- a/js/app.js
++++ b/js/app.js
+@@ -472,6 +472,36 @@
+       btn.textContent = "";
+       btn.title = "";
+     }
++    paintTeacherUnlockBtn();
++  }
++
++  function paintTeacherUnlockBtn() {
++    const btn = $("#btn-teacher-unlock");
++    if (!btn) return;
++    const id = currentStudentId();
++    const show = !!id && !isPublicMode();
++    btn.hidden = !show;
++    if (!show) return;
++    const unlock = window.MRJTeacherUnlock;
++    const on = unlock && typeof unlock.isMrjTeacher === "function" && unlock.isMrjTeacher();
++    btn.textContent = unlock && typeof unlock.topbarLabel === "function" ? unlock.topbarLabel() : "Teacher";
++    btn.classList.toggle("is-unlocked", !!on);
++    btn.title = on ? "Teacher mode (tap to lock)" : "Teacher unlock";
++  }
++
++  function refreshTeacherChrome() {
++    paintTeacherUnlockBtn();
++    const teacher = teacherNow();
++    document.body.classList.toggle("is-teacher", teacher);
++    document.body.classList.toggle("is-student", !teacher);
++    const tb = $("#teacher-bar");
++    if (tb) {
++      const quiet = currentScreen === "boot" || currentScreen === "name" || currentScreen === "home";
++      const typing = currentScreen === "learn" || currentScreen === "test";
++      tb.hidden = !teacher || quiet || typing || currentScreen === "playgame";
++    }
++    if (currentScreen === "set") renderSetHome();
++    else if (currentScreen === "home") renderHome();
+   }
+   let currentScreen = "boot";
+   let speechUnlocked = false;
+@@ -733,6 +763,9 @@
+     state.accountPin = "";
+     if (!id) {
+       state.displayName = "";
++      if (window.MRJTeacherUnlock && typeof window.MRJTeacherUnlock.lockPinSession === "function") {
++        window.MRJTeacherUnlock.lockPinSession();
++      }
+       showSharedDoor();
+       showScreen("boot");
+       return;
+@@ -771,9 +804,11 @@
+   if (window.addEventListener) {
+     window.addEventListener("mrj-auth-ready", onAuthReady);
+     document.addEventListener("mrj-teacher", function () {
+-      if (currentScreen === "set") renderSetHome();
+-      else if (currentScreen === "home") renderHome();
++      refreshTeacherChrome();
+     });
++    if (window.MRJTeacherUnlock && typeof window.MRJTeacherUnlock.installRefresh === "function") {
++      window.MRJTeacherUnlock.installRefresh(refreshTeacherChrome);
++    }
+     window.addEventListener("mrj-wm-save-status", function (ev) {
+       const ok = !!(ev && ev.detail && ev.detail.ok);
+       const err = ev && ev.detail && ev.detail.error ? String(ev.detail.error) : "";
+@@ -1347,6 +1382,7 @@
+     paintStudentNameBtn();
+     back.hidden = name === "boot" || name === "home";
+     voice.hidden = false;
++    paintTeacherUnlockBtn();
+     const tb = $("#teacher-bar");
+     const teacher = teacherNow();
+     document.body.classList.toggle("is-teacher", teacher);
+@@ -4475,6 +4511,15 @@
+     $("#btn-back").addEventListener("click", goBack);
+     const nameBtn = $("#btn-student-name");
+     if (nameBtn) nameBtn.addEventListener("click", openScoreRecord);
++    const teacherBtn = $("#btn-teacher-unlock");
++    if (teacherBtn) {
++      teacherBtn.addEventListener("click", function () {
++        if (!currentStudentId()) return;
++        const unlock = window.MRJTeacherUnlock;
++        if (!unlock || typeof unlock.handleTopbarClick !== "function") return;
++        unlock.handleTopbarClick(refreshTeacherChrome);
++      });
++    }
+     $$(".voice-btn").forEach(function (btn) {
+       btn.addEventListener("click", function () {
+         setVoice(btn.getAttribute("data-voice"));
+diff --git a/js/mrj-teacher-unlock.js b/js/mrj-teacher-unlock.js
+index 1a869aa3..ed9519c5 100644
+--- a/js/mrj-teacher-unlock.js
++++ b/js/mrj-teacher-unlock.js
+@@ -1,17 +1,56 @@
+ (function (root) {
+   "use strict";
+ 
+-  function isMrjTeacher() {
++  var pinSessionUnlocked = false;
++
++  function authApi() {
++    return root.MRJSignin || root.MRJ_AUTH || null;
++  }
++
++  function isServerTeacher() {
+     try {
+-      var api = root.MRJSignin || root.MRJ_AUTH;
++      var api = authApi();
+       return !!(api && typeof api.isTeacher === "function" && api.isTeacher());
+     } catch (ignore) {
+       return false;
+     }
+   }
+ 
++  function isMrjTeacher() {
++    return isServerTeacher() || pinSessionUnlocked;
++  }
++
++  function isPinSessionUnlocked() {
++    return pinSessionUnlocked;
++  }
++
++  function lockPinSession() {
++    if (!pinSessionUnlocked) return;
++    pinSessionUnlocked = false;
++    notifyRefresh_();
++  }
++
++  function unlockPinSession() {
++    pinSessionUnlocked = true;
++    notifyRefresh_();
++    try {
++      if (root.document) {
++        root.document.dispatchEvent(new root.CustomEvent("mrj-teacher", { detail: { source: "pin" } }));
++      }
++    } catch (ignore) {}
++  }
++
++  var refreshCb = null;
++
++  function notifyRefresh_() {
++    try {
++      if (typeof refreshCb === "function") refreshCb();
++    } catch (ignore) {}
++  }
++
+   function installRefresh(onRefresh) {
+     if (!root.document || typeof onRefresh !== "function") return;
++    refreshCb = onRefresh;
+     root.document.addEventListener("mrj-teacher", function () {
+       try {
+         onRefresh();
+@@ -19,8 +58,156 @@
+     });
+   }
+ 
++  function teacherCheck(pin) {
++    var api = authApi();
++    if (api && api.preview) {
++      return Promise.resolve(
++        api.teacherCheck
++          ? api.teacherCheck(pin)
++          : { ok: false, message: "Preview has no teacher check." }
++      );
++    }
++    if (!api || !api.ENDPOINT) {
++      return Promise.resolve({ ok: false, message: "Sign-in is not loaded." });
++    }
++    var body = {
++      action: "study_teacher_check",
++      pin: pin,
++      id: api.student && api.student(),
++      token: api.token && api.token(),
++    };
++    return fetch(api.ENDPOINT, {
++      method: "POST",
++      redirect: "follow",
++      headers: { "Content-Type": "text/plain;charset=utf-8" },
++      body: JSON.stringify(body),
++    })
++      .then(function (r) {
++        return r.json();
++      })
++      .catch(function () {
++        return { ok: false, message: "Network error." };
++      })
++      .then(function (r) {
++        if (r && r.error === "bad_action") {
++          return {
++            ok: false,
++            message: "Teacher check is not on the server yet (deploy study_teacher_check).",
++          };
++        }
++        return r || { ok: false };
++      });
++  }
++
++  var overlayEl = null;
++
++  function closeOverlay_() {
++    if (overlayEl && overlayEl.parentNode) overlayEl.parentNode.removeChild(overlayEl);
++    overlayEl = null;
++  }
++
++  function esc_(s) {
++    return String(s).replace(/[&<>"]/g, function (c) {
++      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
++    });
++  }
++
++  function promptPin_(who, onDone) {
++    if (!root.document || !root.document.body) return;
++    closeOverlay_();
++    overlayEl = root.document.createElement("div");
++    overlayEl.className = "wm-teacher-unlock-overlay";
++    overlayEl.innerHTML =
++      '<div class="wm-teacher-unlock-card" role="dialog" aria-labelledby="wm-tch-title">' +
++      '<h3 id="wm-tch-title">Teacher</h3>' +
++      '<p class="wm-tch-student">Student: <b>' +
++      esc_(who) +
++      "</b></p>" +
++      '<label class="wm-tch-pin-label"><span class="sr-only">Teacher PIN</span>' +
++      '<input type="password" id="wm-tch-pin" autocomplete="off" placeholder="PIN" /></label>' +
++      '<p class="wm-tch-err" id="wm-tch-err" hidden></p>' +
++      '<div class="wm-tch-actions">' +
++      '<button type="button" class="wm-tch-go" id="wm-tch-go">Unlock</button>' +
++      '<button type="button" class="wm-tch-cancel" id="wm-tch-cancel">Cancel</button>' +
++      "</div></div>";
++    root.document.body.appendChild(overlayEl);
++    var pin = overlayEl.querySelector("#wm-tch-pin");
++    var err = overlayEl.querySelector("#wm-tch-err");
++    var go = function () {
++      err.hidden = false;
++      err.textContent = "Checking…";
++      teacherCheck(String(pin.value || "").trim()).then(function (r) {
++        if (r && r.ok) {
++          closeOverlay_();
++          unlockPinSession();
++          if (typeof onDone === "function") onDone(true);
++        } else {
++          err.textContent = (r && r.message) || "Wrong PIN.";
++        }
++      });
++    };
++    overlayEl.querySelector("#wm-tch-go").onclick = go;
++    overlayEl.querySelector("#wm-tch-cancel").onclick = function () {
++      closeOverlay_();
++      if (typeof onDone === "function") onDone(false);
++    };
++    overlayEl.addEventListener("click", function (e) {
++      if (e.target === overlayEl) {
++        closeOverlay_();
++        if (typeof onDone === "function") onDone(false);
++      }
++    });
++    pin.addEventListener("keydown", function (e) {
++      if (e.key === "Enter") go();
++    });
++    pin.focus();
++  }
++
++  function openUnlockFlow(onDone) {
++    var api = authApi();
++    var who = api && api.student && api.student();
++    if (!who) {
++      if (root.alert) root.alert("Sign the student in first.");
++      return;
++    }
++    if (isServerTeacher()) {
++      if (typeof onDone === "function") onDone(true);
++      return;
++    }
++    if (pinSessionUnlocked) {
++      if (typeof onDone === "function") onDone(true);
++      return;
++    }
++    promptPin_(who, onDone);
++  }
++
++  function handleTopbarClick(onDone) {
++    if (isMrjTeacher() && !isServerTeacher() && pinSessionUnlocked) {
++      lockPinSession();
++      if (typeof onDone === "function") onDone();
++      return;
++    }
++    if (isMrjTeacher()) {
++      if (typeof onDone === "function") onDone();
++      return;
++    }
++    openUnlockFlow(onDone);
++  }
++
++  function topbarLabel() {
++    if (isMrjTeacher()) return "🔓 Teacher";
++    return "👩‍🏫 Teacher";
++  }
++
+   root.MRJTeacherUnlock = {
+     isMrjTeacher: isMrjTeacher,
++    isServerTeacher: isServerTeacher,
++    isPinSessionUnlocked: isPinSessionUnlocked,
++    lockPinSession: lockPinSession,
+     installRefresh: installRefresh,
++    openUnlockFlow: openUnlockFlow,
++    handleTopbarClick: handleTopbarClick,
++    topbarLabel: topbarLabel,
++    teacherCheck: teacherCheck,
+   };
+ })(typeof globalThis !== "undefined" ? globalThis : typeof window !== "undefined" ? window : this);
+diff --git a/preview.html b/preview.html
+index b3d5d203..12360909 100644
+--- a/preview.html
++++ b/preview.html
+@@ -22,7 +22,10 @@
+         <span class="sr-only" data-i18n="lang_label">Language</span>
+         <select id="lang-select" aria-label="Language"></select>
+       </label>
+-      <button type="button" class="student-name-btn" id="btn-student-name" data-mrj-own-record hidden></button>
++      <div class="topbar-user-actions">
++        <button type="button" class="teacher-unlock-btn" id="btn-teacher-unlock" hidden title="Teacher unlock">👩‍🏫 Teacher</button>
++        <button type="button" class="student-name-btn" id="btn-student-name" data-mrj-own-record hidden></button>
++      </div>
+     </header>
+ 
+     <div class="teacher-bar" id="teacher-bar">
+diff --git a/scripts/mrj_teacher_unlock_test.js b/scripts/mrj_teacher_unlock_test.js
+new file mode 100644
+index 00000000..c99582b4
+--- /dev/null
++++ b/scripts/mrj_teacher_unlock_test.js
+@@ -0,0 +1,45 @@
++"use strict";
++
++const fs = require("fs");
++const path = require("path");
++const vm = require("vm");
++
++const root = path.join(__dirname, "..");
++const src = fs.readFileSync(path.join(root, "js/mrj-teacher-unlock.js"), "utf8");
++
++if (/localStorage/.test(src)) {
++  console.error("mrj-teacher-unlock must not use localStorage");
++  process.exit(1);
++}
++if (!/study_teacher_check/.test(src)) {
++  console.error("mrj-teacher-unlock must call study_teacher_check");
++  process.exit(1);
++}
++if (!/isTeacher\(\)/.test(src)) {
++  console.error("mrj-teacher-unlock must honor MRJSignin.isTeacher");
++  process.exit(1);
++}
++
++const sandbox = { globalThis: {}, window: {}, document: { addEventListener: function () {} } };
++sandbox.globalThis = sandbox;
++sandbox.window = sandbox;
++vm.runInNewContext(src, sandbox);
++
++const U = sandbox.MRJTeacherUnlock;
++if (!U || typeof U.isMrjTeacher !== "function") {
++  console.error("MRJTeacherUnlock export missing");
++  process.exit(1);
++}
++
++sandbox.MRJSignin = { isTeacher: function () { return false; } };
++if (U.isMrjTeacher()) {
++  console.error("should not be teacher before unlock");
++  process.exit(1);
++}
++sandbox.MRJSignin = { isTeacher: function () { return true; } };
++if (!U.isMrjTeacher()) {
++  console.error("server isTeacher should enable teacher mode");
++  process.exit(1);
++}
++
++console.log("mrj_teacher_unlock_test: ok");
+diff --git a/scripts/test_open_and_name_test.js b/scripts/test_open_and_name_test.js
+index 2c0d1797..af9e4502 100644
+--- a/scripts/test_open_and_name_test.js
++++ b/scripts/test_open_and_name_test.js
+@@ -22,6 +22,7 @@ if (!cacheKey(index, "js/wm-pack-save.js")) fail("wm-pack-save cache");
+ if (index.indexOf("btn-class-progress") === -1) fail("class progress button");
+ if (!cacheKey(index, "mrj-scores.js")) fail("mrj-scores cache");
+ if (index.indexOf('id="btn-student-name"') === -1) fail("missing top-right name button");
++if (index.indexOf('id="btn-teacher-unlock"') === -1) fail("missing top-right teacher unlock button");
+ if (index.indexOf("data-mrj-own-record") === -1) fail("name button missing data-mrj-own-record");
+ 
+ const topbarEnd = index.indexOf("</header>");
+diff --git a/version.json b/version.json
+index 27bc2f4e..0fb052bd 100644
+--- a/version.json
++++ b/version.json
+@@ -1,4 +1,4 @@
+ {
+-  "build": "20261027-culture-m08",
++  "build": "20261027-teacher-topbar",
+   "app": "word-master"
+ }
+-- 
+2.43.0
+

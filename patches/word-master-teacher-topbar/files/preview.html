@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en" data-book="blue">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="robots" content="noindex" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#f6f3ec" />
+  <title>MRJ Word Master</title>
+  <link rel="stylesheet" href="css/app.css?v=20261023-setrange" />
+</head>
+<body>
+  <div id="phone" class="phone">
+    <header class="topbar" id="topbar" hidden>
+      <button type="button" class="icon-btn" id="btn-back" hidden data-i18n-aria="back">←</button>
+      <div class="brand">
+        <h1>Word Master</h1>
+        <p class="set-range-banner" id="set-range-banner" hidden></p>
+      </div>
+      <label class="lang-wrap">
+        <span class="sr-only" data-i18n="lang_label">Language</span>
+        <select id="lang-select" aria-label="Language"></select>
+      </label>
+      <div class="topbar-user-actions">
+        <button type="button" class="teacher-unlock-btn" id="btn-teacher-unlock" hidden title="Teacher unlock">👩‍🏫 Teacher</button>
+        <button type="button" class="student-name-btn" id="btn-student-name" data-mrj-own-record hidden></button>
+      </div>
+    </header>
+
+    <div class="teacher-bar" id="teacher-bar">
+      <button type="button" id="btn-skip-word" data-i18n="skip_word">Skip word</button>
+      <button type="button" id="btn-skip-step" data-i18n="skip_step">Skip step</button>
+      <button type="button" data-jump="intro" data-i18n="jump_meet">1 Meet</button>
+      <button type="button" data-jump="A" data-i18n="jump_learn">2 Learn</button>
+      <button type="button" data-jump="B" data-i18n="jump_dict">3 Dictation</button>
+      <button type="button" data-jump="C" data-i18n="jump_write">4 Write</button>
+      <button type="button" data-jump="games" data-i18n="jump_games">5 Games</button>
+      <button type="button" data-jump="test" data-i18n="jump_test">6 Test</button>
+      <button type="button" id="btn-class-progress">Class progress</button>
+    </div>
+    <div class="voice-bar" id="voice-toggle">
+      <button type="button" class="voice-btn" data-voice="us_m" data-i18n="voice_us_m" aria-pressed="true">US male</button>
+      <button type="button" class="voice-btn" data-voice="us_f" data-i18n="voice_us_f">US female</button>
+      <button type="button" class="voice-btn" data-voice="uk_m" data-i18n="voice_uk_m">UK male</button>
+      <button type="button" class="voice-btn" data-voice="uk_f" data-i18n="voice_uk_f">UK female</button>
+      <button type="button" class="voice-btn fun" data-voice="grandma" data-i18n="voice_grandma">Grandma</button>
+      <button type="button" class="voice-btn fun" data-voice="leo" data-i18n="voice_teenager">Teenager</button>
+      <button type="button" class="voice-btn fun" data-voice="grandpa" data-i18n="voice_grandpa">Grandpa</button>
+      <button type="button" class="voice-btn fun" data-voice="robot" data-i18n="voice_robot">Robot</button>
+    </div>
+
+    <main id="stage" class="stage">
+      <section class="screen screen-boot active" id="screen-boot" data-screen="boot">
+        <div class="boot-hero">
+          <div class="logo-mark" aria-hidden="true">MRJ</div>
+          <p class="eyebrow" data-i18n="boot_kicker">Learn English words</p>
+          <h2 class="hero-title">Word Master</h2>
+          <p class="hero-sub" data-i18n="boot_sub">See · hear · spell · write</p>
+        </div>
+        <button type="button" class="tap-start" id="btn-tap-start">
+          <span class="tap-big" data-i18n="tap_start">Tap to start</span>
+          <span class="tap-ko" data-i18n="tap_hint">Turns sound on</span>
+        </button>
+      </section>
+
+      <section class="screen" id="screen-record" data-screen="record">
+        <h2 class="record-title">Score record</h2>
+        <ul class="score-record-list" id="score-record-list"></ul>
+        <p class="score-record-empty" id="score-record-empty" hidden>No scores yet.</p>
+      </section>
+
+      <section class="screen" id="screen-class-progress" data-screen="class-progress">
+        <h2 class="record-title">Class progress</h2>
+        <p class="class-progress-status" id="class-progress-status"></p>
+        <p class="class-progress-incomplete-warn" id="class-progress-incomplete-warn" hidden></p>
+        <div class="class-progress-students" id="class-progress-students"></div>
+        <div class="class-progress-packs" id="class-progress-packs"></div>
+        <div class="class-progress-daily" id="class-progress-daily" hidden></div>
+        <div class="class-progress-table-wrap">
+          <table class="class-progress-table" id="class-progress-table"></table>
+        </div>
+      </section>
+
+      <section class="screen" id="screen-home" data-screen="home">
+        <p class="hello" id="hello-line"></p>
+        <p class="progress-too-large-warn" id="progress-too-large-warn" hidden>Your saved work is very big. Please tell your teacher.</p>
+        <button type="button" class="signout-link" id="btn-signout" hidden>Sign out</button>
+        <div class="stats-card" id="stats-card">
+          <p id="stats-line"></p>
+          <button type="button" class="chunk" id="btn-word-list"><strong data-i18n="words_az">Words A–Z</strong><em data-i18n="word_list_em">See every word A–Z</em></button>
+        </div>
+        <p class="due-line" id="due-line" hidden></p>
+        <p class="path-note">Numbers are the order. Colors are the kind of word. Gold ring = do this next.</p>
+        <div class="home-stack">
+          <button type="button" class="chunk continue" id="btn-continue" hidden>
+            <span class="chip-tag" data-i18n="continue">Continue</span>
+            <strong id="continue-title">Set</strong>
+            <em id="continue-meta"></em>
+          </button>
+          <div class="index-lanes">
+            <section class="lane lane-nouns">
+              <h3>Nouns <em>things</em></h3>
+              <div class="lane-grid">
+                <button type="button" class="pack-tile" id="btn-pack-nouns100" data-pack="nouns100" data-step="1">
+                  <b>1</b><strong>1–100</strong><em>time · year</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-nouns200" data-pack="nouns200" data-step="4">
+                  <b>4</b><strong>101–200</strong><em>police · price</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-nouns300" data-pack="nouns300" data-step="9">
+                  <b>9</b><strong>201–300</strong><em>nature · data</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-nouns400" data-pack="nouns400" data-step="12">
+                  <b>12</b><strong>301–400</strong><em>region · effort</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-nouns500" data-pack="nouns500" data-step="14">
+                  <b>14</b><strong>401–500</strong><em>campaign · advice</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-nouns600" data-pack="nouns600" data-step="17">
+                  <b>17</b><strong>501–600</strong><em>strategy · scene</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-nouns700" data-pack="nouns700" data-step="20">
+                  <b>20</b><strong>601–700</strong><em>public · estate</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-nouns800" data-pack="nouns800" data-step="23">
+                  <b>23</b><strong>701–800</strong><em>total · construction</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-nouns900" data-pack="nouns900" data-step="26">
+                  <b>26</b><strong>801–900</strong><em>expert · experiment</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-nouns1000" data-pack="nouns1000" data-step="28">
+                  <b>28</b><strong>901–1000</strong><em>chain · enemy</em>
+                </button>
+              </div>
+            </section>
+            <section class="lane lane-verbs">
+              <h3>Verbs <em>actions</em></h3>
+              <div class="lane-grid">
+                <button type="button" class="pack-tile" id="btn-pack-verbs100" data-pack="verbs100" data-step="2">
+                  <b>2</b><strong>1–100</strong><em>be · have · do</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-verbs200" data-pack="verbs200" data-step="6">
+                  <b>6</b><strong>101–200</strong><em>sell · report</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-verbs300" data-pack="verbs300" data-step="10">
+                  <b>10</b><strong>201–300</strong><em>replace · reflect</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-verbs400" data-pack="verbs400" data-step="15">
+                  <b>15</b><strong>301–400</strong><em>bind · launch</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-verbs500" data-pack="verbs500" data-step="21">
+                  <b>21</b><strong>401–500</strong><em>accompany · earn</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-verbs600" data-pack="verbs600" data-step="24">
+                  <b>24</b><strong>501–600</strong><em>cook · amount</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-verbs700" data-pack="verbs700" data-step="29">
+                  <b>29</b><strong>601–700</strong><em>tap · request</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-verbs800" data-pack="verbs800" data-step="31">
+                  <b>31</b><strong>701–800</strong><em>respect · aid</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-verbs900" data-pack="verbs900" data-step="33">
+                  <b>33</b><strong>801–900</strong><em>colour · edit</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-verbs1000" data-pack="verbs1000" data-step="35">
+                  <b>35</b><strong>901–1000</strong><em>excite · erect</em>
+                </button>
+              </div>
+            </section>
+            <section class="lane lane-adj">
+              <h3>Adjectives <em>describing words</em></h3>
+              <div class="lane-grid">
+                <button type="button" class="pack-tile" id="btn-pack-adjectives100" data-pack="adjectives100" data-step="3">
+                  <b>3</b><strong>1–100</strong><em>new · good</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-adjectives200" data-pack="adjectives200" data-step="7">
+                  <b>7</b><strong>101–200</strong><em>basic · successful</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-adjectives300" data-pack="adjectives300" data-step="11">
+                  <b>11</b><strong>201–300</strong><em>afraid · limited</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-adjectives400" data-pack="adjectives400" data-step="16">
+                  <b>16</b><strong>301–400</strong><em>yellow · dear</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-adjectives500" data-pack="adjectives500" data-step="22">
+                  <b>22</b><strong>401–500</strong><em>smooth · dominant</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-adjectives600" data-pack="adjectives600" data-step="25">
+                  <b>25</b><strong>501–600</strong><em>acute · bare</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-adjectives700" data-pack="adjectives700" data-step="30">
+                  <b>30</b><strong>601–700</strong><em>realistic · content</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-adjectives800" data-pack="adjectives800" data-step="32">
+                  <b>32</b><strong>701–800</strong><em>boring · unlike</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-adjectives900" data-pack="adjectives900" data-step="34">
+                  <b>34</b><strong>801–900</strong><em>tender · linear</em>
+                </button>
+              </div>
+            </section>
+            <section class="lane lane-little">
+              <h3>Little words <em>the · of · and</em></h3>
+              <div class="lane-grid">
+                <button type="button" class="pack-tile" id="btn-pack-little100" data-pack="little100" data-step="5">
+                  <b>5</b><strong>1–100</strong><em>the · of · and</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-little210" data-pack="little210" data-step="18">
+                  <b>18</b><strong>101–210</strong><em>before · towards</em>
+                </button>
+              </div>
+            </section>
+            <section class="lane lane-adv">
+              <h3>Adverbs <em>how · when · where</em></h3>
+              <div class="lane-grid">
+                <button type="button" class="pack-tile" id="btn-pack-adverbs100" data-pack="adverbs100" data-step="8">
+                  <b>8</b><strong>1–100</strong><em>not · out · up</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-adverbs200" data-pack="adverbs200" data-step="13">
+                  <b>13</b><strong>101–200</strong><em>apart · easily</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-adverbs300" data-pack="adverbs300" data-step="19">
+                  <b>19</b><strong>201–300</strong><em>gradually · essentially</em>
+                </button>
+                <button type="button" class="pack-tile" id="btn-pack-adverbs427" data-pack="adverbs427" data-step="27">
+                  <b>27</b><strong>301–427</strong><em>instantly · broadly</em>
+                </button>
+              </div>
+            </section>
+            <section class="lane lane-ielts">
+              <h3>IELTS</h3>
+              <div class="lane-grid">
+                <button type="button" class="pack-tile" id="btn-pack-ielts01" data-pack="ielts01"><b>1</b><strong>1–100</strong></button>
+                <button type="button" class="pack-tile" id="btn-pack-ielts02" data-pack="ielts02"><b>2</b><strong>101–200</strong></button>
+                <button type="button" class="pack-tile" id="btn-pack-ielts03" data-pack="ielts03"><b>3</b><strong>201–300</strong></button>
+                <button type="button" class="pack-tile" id="btn-pack-ielts04" data-pack="ielts04"><b>4</b><strong>301–400</strong></button>
+                <button type="button" class="pack-tile" id="btn-pack-ielts05" data-pack="ielts05"><b>5</b><strong>401–500</strong></button>
+                <button type="button" class="pack-tile" id="btn-pack-ielts06" data-pack="ielts06"><b>6</b><strong>501–600</strong></button>
+                <button type="button" class="pack-tile" id="btn-pack-ielts07" data-pack="ielts07"><b>7</b><strong>601–700</strong></button>
+                <button type="button" class="pack-tile" id="btn-pack-ielts08" data-pack="ielts08"><b>8</b><strong>701–800</strong></button>
+                <button type="button" class="pack-tile" id="btn-pack-ielts09" data-pack="ielts09"><b>9</b><strong>801–900</strong></button>
+                <button type="button" class="pack-tile" id="btn-pack-ielts10" data-pack="ielts10"><b>10</b><strong>901–1000</strong></button>
+                <button type="button" class="pack-tile" id="btn-pack-ielts11" data-pack="ielts11"><b>11</b><strong>1001–1100</strong></button>
+                <button type="button" class="pack-tile" id="btn-pack-ielts12" data-pack="ielts12"><b>12</b><strong>1101–1200</strong></button>
+                <button type="button" class="pack-tile" id="btn-pack-ielts13" data-pack="ielts13"><b>13</b><strong>1201–1300</strong></button>
+                <button type="button" class="pack-tile" id="btn-pack-ielts14" data-pack="ielts14"><b>14</b><strong>1301–1400</strong></button>
+                <button type="button" class="pack-tile" id="btn-pack-ielts15" data-pack="ielts15"><b>15</b><strong>1401–1500</strong></button>
+              </div>
+            </section>
+            <section class="lane lane-toeic">
+              <h3>TOEIC</h3>
+              <div class="lane-grid">
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic01.json"><b>1</b><strong>1–100</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic02.json"><b>2</b><strong>101–200</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic03.json"><b>3</b><strong>201–300</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic04.json"><b>4</b><strong>301–400</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic05.json"><b>5</b><strong>401–500</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic06.json"><b>6</b><strong>501–600</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic07.json"><b>7</b><strong>601–700</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic08.json"><b>8</b><strong>701–800</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic09.json"><b>9</b><strong>801–900</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic10.json"><b>10</b><strong>901–1000</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic11.json"><b>11</b><strong>1001–1100</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic12.json"><b>12</b><strong>1101–1200</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic13.json"><b>13</b><strong>1201–1300</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic14.json"><b>14</b><strong>1301–1400</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic15.json"><b>15</b><strong>1401–1500</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic16.json"><b>16</b><strong>1501–1600</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic17.json"><b>17</b><strong>1601–1700</strong></a>
+                <a class="pack-tile" href="?packsrc=https://mrjkorea.github.io/word-master-toeic/packs/toeic18.json"><b>18</b><strong>1701–1800</strong></a>
+              </div>
+            </section>
+          </div>
+          <button type="button" class="chunk" id="btn-games-home">
+            <span class="chip-tag" data-i18n="games">Games</span>
+            <strong data-i18n="games">Games</strong>
+            <em data-i18n="games_em">Match · Listen</em>
+          </button>
+        </div>
+      </section>
+
+      <section class="screen" id="screen-set" data-screen="set">
+        <h2 class="set-title" id="set-title">Demo 10</h2>
+        <div class="ribbon" id="progress-ribbon">
+          <button type="button" class="rib" data-jump="intro"><b>1</b><span data-i18n="intro_go">Meet</span></button>
+          <button type="button" class="rib" data-jump="A"><b>2</b><span data-i18n="part_a">Learn</span></button>
+          <button type="button" class="rib" data-jump="B"><b>3</b><span data-i18n="part_b">Dictation</span></button>
+          <button type="button" class="rib" data-jump="C"><b>4</b><span data-i18n="part_c">Write</span></button>
+          <button type="button" class="rib" data-jump="games"><b>5</b><span data-i18n="games">Games</span></button>
+          <button type="button" class="rib" data-jump="test"><b>6</b><span>Test</span></button>
+        </div>
+        <p class="tap-word-hint" data-i18n="study_how_many">How many words this time?</p>
+        <div class="study-size" id="study-size" role="group"></div>
+        <p class="path-lock-note" id="path-lock-note" hidden></p>
+        <p class="pct-line" id="set-pct"></p>
+        <div class="standing" id="pack-standing">
+          <div class="standing-head">
+            <strong id="stand-count"></strong>
+            <em id="stand-left"></em>
+          </div>
+          <div class="standing-bar"><i id="stand-fill"></i></div>
+          <p class="standing-next" id="stand-next"></p>
+          <p class="standing-hint" id="stand-hint">Tap a number to start there.</p>
+          <div class="standing-seat-row">
+            <div class="standing-seats" id="stand-seats"></div>
+            <div class="seat-all-slot" id="seat-all-slot"></div>
+          </div>
+          <p class="standing-slice" id="stand-slice"></p>
+          <p class="standing-sync" id="stand-sync"></p>
+          <p class="standing-sync save-warn" id="save-warn" hidden></p>
+        </div>
+        <p class="tap-word-hint" data-i18n="tap_word_hint">Tap a word to hear it</p>
+        <div class="word-list" id="word-chips"></div>
+        <div class="home-stack tight">
+          <button type="button" class="chunk primary" id="btn-intro">
+            <strong id="intro-label" data-i18n="intro_go">Meet the words</strong>
+            <em data-i18n="intro_em">Tap pictures · listen · read</em>
+          </button>
+          <button type="button" class="chunk primary" id="btn-learn">
+            <strong id="learn-label">Start learning</strong>
+            <em data-i18n="auto_path">Learn → Dictation → Write, automatic</em>
+          </button>
+          <button type="button" class="chunk" id="btn-games-set">
+            <strong data-i18n="games">Games</strong>
+            <em data-i18n="games_set_em">Play with this set</em>
+          </button>
+          <button type="button" class="chunk test" id="btn-easy">
+            <strong data-i18n="easy">Easy test</strong>
+            <em data-i18n="easy_em">See English · tap the meaning</em>
+          </button>
+          <button type="button" class="chunk test" id="btn-hard">
+            <strong data-i18n="hard">Hard test</strong>
+            <em data-i18n="hard_em">See the meaning · type English</em>
+          </button>
+          <button type="button" class="chunk final" id="btn-final-easy" hidden>
+            <strong id="final-easy-label">All 100 easy</strong>
+            <em id="final-easy-meta">See English · tap the meaning · every word</em>
+          </button>
+          <button type="button" class="chunk final" id="btn-final-hard" hidden>
+            <strong id="final-hard-label">All 100 hard</strong>
+            <em id="final-hard-meta">See the meaning · type English · every word</em>
+          </button>
+        </div>
+      </section>
+
+      <section class="screen" id="screen-words" data-screen="words">
+        <h2 class="screen-kicker" data-i18n="words_az">Words A–Z</h2>
+        <div class="word-list" id="alpha-list"></div>
+      </section>
+
+      <section class="screen" id="screen-intro" data-screen="intro">
+        <div id="tapmap" class="tapmap">
+          <div class="learn-hud">
+            <div class="mode-pill">
+              <b id="tap-round-n">1</b>
+              <span id="tap-round-name">Explore</span>
+            </div>
+            <p class="prog-text" id="tap-prog">0 / 5</p>
+          </div>
+          <p class="hint" id="tap-hint"></p>
+          <div class="tap-prompt" id="tap-prompt">
+            <button type="button" class="speaker huge" id="btn-tap-speak" data-i18n-aria="speak_word" hidden>🔊</button>
+            <p class="prompt-en" id="tap-word" hidden></p>
+          </div>
+          <div class="tap-grid" id="tap-grid"></div>
+        </div>
+        <article class="meet-card" id="meet-card" hidden>
+          <img class="meet-pic" id="meet-pic" alt="" />
+          <button type="button" class="meet-en" id="meet-en">word</button>
+          <p class="meet-ko" id="meet-ko"></p>
+          <div class="meet-ww" id="meet-ww" hidden>
+            <p class="ww-pos" id="ww-pos"></p>
+            <p class="ww-def" id="ww-def"></p>
+            <button type="button" class="ww-ex" id="ww-ex" data-i18n-aria="ww_hear_ex"></button>
+            <p class="ww-ex-l1" id="ww-ex-l1"></p>
+            <div class="ww-chips" id="ww-chips"></div>
+          </div>
+          <div class="meet-built" id="meet-built"></div>
+          <p class="tiny" data-i18n="spell_help">Tap the mixed letters to build the word.</p>
+          <div class="meet-pool" id="meet-pool"></div>
+        </article>
+      </section>
+
+      <section class="screen" id="screen-learn" data-screen="learn">
+        <div class="learn-hud">
+          <div class="mode-pill" id="mode-pill">
+            <b id="mode-letter">A</b>
+            <span id="mode-ko">Learn</span>
+          </div>
+          <p class="prog-text" id="prog-text"></p>
+        </div>
+        <p class="hint" id="mode-hint"></p>
+        <div class="card-stage">
+          <article class="sticker-card" id="prompt-card">
+            <button type="button" class="speaker" id="btn-speak" data-i18n-aria="speak_word">🔊</button>
+            <p class="prompt-ko" id="prompt-ko" hidden></p>
+            <p class="prompt-en" id="prompt-en"></p>
+            <p class="caption-fallback" id="caption-fallback" hidden></p>
+            <div class="letter-rail" id="letter-rail" hidden></div>
+            <p class="typed" id="typed-line" hidden><span id="typed-text"></span><i class="caret"></i></p>
+          </article>
+        </div>
+        <div class="choices" id="choices" hidden></div>
+        <div class="az-wrap" id="az-wrap" hidden>
+          <div class="az-pad" id="az-pad"></div>
+          <div class="az-row">
+            <button type="button" class="az-fn del" id="btn-del">⌫</button>
+            <button type="button" class="az-fn ok" id="btn-check">↵  Check</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="screen" id="screen-test" data-screen="test">
+        <div class="home-stack" id="test-pick">
+          <p class="help-ko" data-i18n="pick_test">Choose Easy or Hard</p>
+          <button type="button" class="chunk test" id="btn-test-easy">
+            <strong data-i18n="easy">Easy test</strong>
+            <em data-i18n="easy_em">See English · tap the meaning</em>
+          </button>
+          <button type="button" class="chunk test" id="btn-test-hard">
+            <strong data-i18n="hard">Hard test</strong>
+            <em data-i18n="hard_em">See the meaning · type English</em>
+          </button>
+        </div>
+        <div id="test-play" hidden>
+        <div class="learn-hud">
+          <div class="mode-pill test-pill">
+            <b id="test-kind">EASY</b>
+            <span id="test-ko">Easy test</span>
+          </div>
+          <p class="prog-text" id="test-prog">1 / 10</p>
+        </div>
+        <article class="sticker-card" id="test-card">
+          <button type="button" class="speaker" id="btn-test-speak" data-i18n-aria="speak_word">🔊</button>
+          <p class="prompt-ko" id="test-ko-word" hidden></p>
+          <p class="prompt-en" id="test-en-word"></p>
+          <p class="typed" id="test-typed" hidden><span id="test-typed-text"></span><i class="caret"></i></p>
+        </article>
+        <div class="choices" id="test-choices" hidden></div>
+        <div class="az-wrap" id="test-az-wrap" hidden>
+          <div class="az-pad" id="test-az-pad"></div>
+          <div class="az-row">
+            <button type="button" class="az-fn del" id="btn-test-del">⌫</button>
+            <button type="button" class="az-fn ok" id="btn-test-check">↵  Check</button>
+          </div>
+        </div>
+        <div class="scoreboard" id="test-score" hidden>
+          <h3 id="test-score-title"></h3>
+          <p id="test-score-line"></p>
+          <ul class="miss-list" id="test-misses" hidden></ul>
+          <label class="forever-box" id="forever-box" hidden>
+            <input type="checkbox" id="chk-forever" />
+            <span data-i18n="forever_help">Remember forever — we’ll remind you on this phone later (1 day, then 3, 7, 21, 60).</span>
+          </label>
+          <button type="button" class="chunk primary" id="btn-test-home" data-i18n="back_set">Back to set</button>
+        </div>
+        </div>
+      </section>
+
+      <section class="screen" id="screen-games" data-screen="games">
+        <h2 class="screen-kicker" data-i18n="games_kicker">Games</h2>
+        <p class="help-ko" id="games-set-hint"></p>
+        <p class="path-note" id="games-lock-note" hidden></p>
+        <button type="button" class="chunk primary" id="btn-games-need" hidden>Go to step 1</button>
+        <div class="game-slots" id="game-slots">
+          <button type="button" class="slot playable" data-game="leapfrog">
+            <b>1</b>
+            <strong>Leap Frog</strong>
+            <em>Jump to the English word</em>
+          </button>
+          <button type="button" class="slot playable" data-game="snowjump">
+            <b>2</b>
+            <strong>Snow Jump</strong>
+            <em>Ski to the right word</em>
+          </button>
+          <button type="button" class="slot playable" data-game="spellfire">
+            <b>3</b>
+            <strong>Spellfire</strong>
+            <em>Climb by spelling</em>
+          </button>
+          <button type="button" class="slot playable" data-game="soundinvaders">
+            <b>4</b>
+            <strong>Space Shooter</strong>
+            <em>Hear the word. Shoot it.</em>
+          </button>
+          <button type="button" class="slot playable" data-game="memorymatch">
+            <b>5</b>
+            <strong>Memory Game</strong>
+            <em>Match the picture, sound, and word</em>
+          </button>
+        </div>
+      </section>
+
+      <section class="screen" id="screen-playgame" data-screen="playgame">
+        <iframe id="game-frame" title="Game" allow="autoplay; fullscreen"></iframe>
+      </section>
+
+      <section class="screen" id="screen-match" data-screen="match">
+        <div class="learn-hud">
+          <div class="mode-pill"><b>M</b><span>Match</span></div>
+          <p class="prog-text" id="match-hud"></p>
+        </div>
+        <p class="help-ko" data-i18n="match_help">Tap an English word and its meaning.</p>
+        <div class="match-grid" id="match-grid"></div>
+        <p class="win-line" id="match-win" hidden data-i18n="match_win">All matched.</p>
+      </section>
+
+      <section class="screen" id="screen-listen" data-screen="listen">
+        <div class="learn-hud">
+          <div class="mode-pill"><b>L</b><span>Listen</span></div>
+          <p class="prog-text" id="listen-prog">1 / 10</p>
+        </div>
+        <article class="sticker-card listen-card">
+          <button type="button" class="speaker huge" id="btn-listen-speak" data-i18n-aria="speak_word">🔊</button>
+          <p class="help-ko" data-i18n="listen_help">Listen, then tap the English word.</p>
+        </article>
+        <div class="choices en-choices" id="listen-choices"></div>
+        <div class="scoreboard" id="listen-score" hidden>
+          <h3 data-i18n="listen_done">Listen done</h3>
+          <p id="listen-score-line"></p>
+          <button type="button" class="chunk primary" id="btn-listen-home" data-i18n="games">Games</button>
+        </div>
+      </section>
+    </main>
+
+    <canvas id="confetti" class="confetti" hidden></canvas>
+    <div class="flash" id="flash" hidden>
+      <div class="mark" id="flash-mark">✓</div>
+    </div>
+    <div class="burst" id="burst" hidden>
+      <p class="burst-msg" id="burst-msg"></p>
+    </div>
+  </div>
+
+  <link rel="stylesheet" href="https://mrjkorea.github.io/mrj-signin/mrj-auth.css">
+  <link rel="stylesheet" href="preview-assets/mrj-theme.css?v=p3">
+  <link rel="stylesheet" href="preview-assets/wm-preview.css?v=p3">
+  <script src="preview-assets/preview-ui.js?v=p3" defer></script>
+  <script src="js/pack-src.js?v=20261016-public"></script>
+  <script src="js/public-pack.js?v=20261016-public"></script>
+  <script>
+    /* News packs (public mode) skip the sign-in door. Everything else signs in as before. */
+    if (!window.WM_PUBLIC_PACK) {
+      document.write('<script src="https://mrjkorea.github.io/mrj-signin/mrj-auth.js"><\/script>');
+      document.write('<script src="https://mrjkorea.github.io/mrj-signin/mrj-auth-boot.js" data-mrj-app="word-master"><\/script>');
+    }
+  </script>
+  <script src="js/factory-algo.js"></script>
+  <script src="js/meet-lock.js?v=20260923-meetlock"></script>
+  <script src="js/start-slice.js?v=20261023-setrange"></script>
+  <script src="js/i18n.js?v=20260923-l1"></script>
+  <script src="mrj-scores.js?v=20261013-scoresrecv"></script>
+  <script src="js/progress-config.js?v=20261006-pack"></script>
+  <script src="js/progress-merge.js?v=20261013-packpick"></script>
+  <script src="js/score-day-log.js?v=20261014-daily"></script>
+  <script src="js/wm-pack-save.js?v=20261013-cloud"></script>
+  <script src="js/progress.js?v=20261013-cloud"></script>
+  <script src="js/class-progress.js?v=20261013-cloud"></script>
+  <script src="js/teacher-classroom.js?v=20261013-cloud"></script>
+  <script src="js/class-progress-ui.js?v=20261014-daily"></script>
+  <script src="js/score-progress-panel.js?v=20261014-daily"></script>
+  <script>window.WM_BUILD_ID="20261016-public";</script>
+  <script src="js/version-watch.js?v=20261006-save-throttle"></script>
+  <script src="js/spell-stop.js?v=20260930-spellstop"></script>
+  <script src="js/path-lock.js?v=20261001-lock"></script>
+  <script src="js/app.js?v=20261023-setrange"></script>
+</body>
+</html>
